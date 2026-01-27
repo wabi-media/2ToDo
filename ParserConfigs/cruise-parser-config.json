@@ -1,0 +1,103 @@
+{
+  "version": "1.0.4",
+  "lastUpdated": "2026-01-17",
+  "knownCruiseLines": {
+    "royal caribbean": "Royal Caribbean",
+    "carnival": "Carnival",
+    "norwegian": "Norwegian Cruise Line",
+    "princess": "Princess Cruises",
+    "msc": "MSC Cruises",
+    "disney cruise": "Disney Cruise Line",
+    "celebrity": "Celebrity Cruises",
+    "holland america": "Holland America Line",
+    "virgin voyages": "Virgin Voyages",
+    "cunard": "Cunard"
+  },
+  "shipNamePatterns": [
+    "(?i)ship\\s*name:?\\s+([A-Za-z][A-Za-z\\s]+?)(?:\\n|$|\\s{2,}|Royal|Cruise|Category)",
+    "(?i)Ship:\\s*(Carnival\\s+[A-Za-z]+)",
+    "(?i)(\\b[A-Z][A-Za-z]+\\s+of\\s+the\\s+Seas\\b)",
+    "(?i)(?:ship:?\\s+)?(Norwegian\\s+(?!Cruise\\b)[A-Za-z]+)(?:\\s|$|\\n)",
+    "(?i)(\\b(?:Carnival|Disney|Celebrity|Princess|MSC|Virgin|Cunard|Holland)[ \\t]+[A-Za-z]+(?:[ \\t]+[A-Za-z]+)?\\b)",
+    "(?i)ship:?\\s+([A-Za-z]+\\s+[A-Za-z]+(?:\\s+[A-Za-z]+)*)\\b"
+  ],
+  "shipNameFalsePositives": [
+    "cruise length",
+    "cruise line",
+    "ship name",
+    "category code",
+    "category name",
+    "cruise confirmation",
+    "cruise itinerary",
+    "booking number",
+    "confirmation code"
+  ],
+  "itineraryPatterns": [
+    "(?i)itinerary:?\\s+(\\d+\\s*(?:night|day)[^\\n]+)",
+    "(?i)itinerary:?\\s+(\\d+-DAY[^\\n]+)",
+    "(?i)region:?\\s*([^\\n]+)"
+  ],
+  "confirmationPatterns": [
+    "(?i)reservation\\s*(?:number|#)?\\s*:\\s*([A-Z0-9]{5,15})",
+    "(?i)booking\\s*(?:number|#|reference)?\\s*:\\s*([A-Z0-9]{5,15})",
+    "(?i)confirmation\\s*(?:number|code)?\\s*:\\s*([A-Z0-9]{5,15})"
+  ],
+  "departureDatePatterns": [
+    "(?i)(?:sailing|departure)\\s*date:?\\s*(\\d{1,2})\\s*(JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC)\\s*(\\d{4})",
+    "(?i)departs?:?\\s*(\\d{1,2})\\s*(JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC)\\s*(\\d{4})"
+  ],
+  "durationPatterns": [
+    "(?i)(?:cruise\\s*)?duration:?\\s*(\\d+)\\s*night",
+    "(?i)cruise\\s*length:?\\s*(\\d+)",
+    "(?i)(\\d+)-DAY\\s+[A-Z]",
+    "(?i)(\\d+)\\s*NIGHT\\s+[A-Z]"
+  ],
+  "stateroomPatterns": [
+    "(?i)category\\s*/\\s*stateroom:?\\s*([A-Z0-9]+)\\s*/\\s*(\\d{4,5})",
+    "(?i)stateroom:?\\s*([A-Z0-9]+\\s*[A-Z0-9]*)",
+    "(?i)cabin:?\\s*(\\d{3,5})"
+  ],
+  "guestPatterns": [
+    "(?i)guest\\s*name[s]?:?\\s*([^\\n]+)",
+    "(?m)^\\d+\\s+([A-Z\\s]+)\\s+(?:STANDARD|LATITUDES|BRONZE|SILVER|GOLD|PLATINUM|SAPPHIRE|DIAMOND|AMBASSADOR)\\b",
+    "(?m)^([A-Z]{2,})\\s+([A-Z]*)\\s*([A-Z]{2,})\\s+\\d{1,3}\\s*\\$[\\d,.]+"
+  ],
+  "guestFalsePositives": [
+    "PAYMENT",
+    "SCHEDULED",
+    "LESS",
+    "BALANCE",
+    "TOTAL",
+    "AMOUNT",
+    "DATE",
+    "CARIBBEAN",
+    "CRUISE",
+    "CONFIRMATION",
+    "ROYAL",
+    "NORWEGIAN",
+    "CARNIVAL",
+    "PRINCESS",
+    "COSTCO",
+    "TRAVEL",
+    "TOWN",
+    "PRICE",
+    "INCLUDING",
+    "BOOKING",
+    "RESERVATION"
+  ],
+  "portPatterns": [
+    "(?m)(\\d{1,2})/(\\d{1,2})/(\\d{4})\\s+([A-Za-z][A-Za-z\\s/]+?)\\s+(?:(\\d{1,2}:\\d{2}\\s*(?:AM|PM)|--)\\s+(\\d{1,2}:\\d{2}\\s*(?:AM|PM)|--)|(--\\s*--)|$)"
+  ],
+  "portFalsePositives": [
+    "itinerary",
+    "arrive",
+    "depart",
+    "cruise",
+    "post",
+    "pre",
+    "fun day",
+    "no later",
+    "board",
+    "check-in"
+  ]
+}

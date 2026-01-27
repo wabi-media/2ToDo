@@ -1,0 +1,49 @@
+{
+  "version": "1.0.4",
+  "knownHotelChains": {
+    "marriott": "Marriott",
+    "hilton": "Hilton",
+    "hyatt": "Hyatt",
+    "ihg": "IHG",
+    "wyndham": "Wyndham",
+    "choice": "Choice Hotels",
+    "best western": "Best Western",
+    "radisson": "Radisson",
+    "accor": "Accor",
+    "hampton": "Hampton Inn"
+  },
+  "hotelNamePatterns": [
+    "(?i)hotel\\s*(?:name)?:?\\s*([A-Za-z][A-Za-z\\s&']+?)(?:\\n|$|\\s{2,})",
+    "(?i)property:?\\s*([A-Za-z][A-Za-z\\s&']+?)(?:\\n|$)"
+  ],
+  "checkInPatterns": [
+    "(?i)check[\\s-]*in:?\\s*(\\d{1,2}[/-]\\d{1,2}[/-]\\d{2,4})",
+    "(?i)arrival:?\\s*(\\d{1,2}[/-]\\d{1,2}[/-]\\d{2,4})",
+    "(?i)check[\\s-]?in:?\\s*([A-Za-z]+\\s+\\d{1,2},?\\s*\\d{0,4})",
+    "(?i)arrival:?\\s*(?:date)?:?\\s*([A-Za-z]+\\s+\\d{1,2},?\\s*\\d{0,4})",
+    "(?i)check[\\s-]?in\\s*date:?\\s*([A-Za-z]+\\s+\\d{1,2},?\\s*\\d{0,4})"
+  ],
+  "checkOutPatterns": [
+    "(?i)check[\\s-]*out:?\\s*(\\d{1,2}[/-]\\d{1,2}[/-]\\d{2,4})",
+    "(?i)departure:?\\s*(\\d{1,2}[/-]\\d{1,2}[/-]\\d{2,4})",
+    "(?i)check[\\s-]?out:?\\s*([A-Za-z]+\\s+\\d{1,2},?\\s*\\d{0,4})",
+    "(?i)departure:?\\s*(?:date)?:?\\s*([A-Za-z]+\\s+\\d{1,2},?\\s*\\d{0,4})",
+    "(?i)check[\\s-]?out\\s*date:?\\s*([A-Za-z]+\\s+\\d{1,2},?\\s*\\d{0,4})"
+  ],
+  "confirmationPatterns": [
+    "(?i)confirmation\\s*(?:number|code|#)?:?\\s*([A-Z0-9]{5,15})",
+    "(?i)Confirmation\\s*#([A-Z0-9]{6,15})",
+    "(?i)(?:Expedia\\s+)?itinerary\\s*(?:#|:)?\\s*([0-9]{8,20})",
+    "(?i)Booking\\s*(?:Number|#)?\\s*:\\s*([A-Z0-9]{6,15})",
+    "(?i)Reservation\\s*(?:Number|#)?\\s*:\\s*([A-Z0-9]{6,15})"
+  ],
+  "guestPatterns": [
+    "(?i)guest\\s*(?:name)?:?\\s*([A-Z][A-Za-z]+\\s+[A-Z][A-Za-z]+)"
+  ],
+  "roomTypePatterns": [
+    "(?i)room\\s*type:?\\s*([A-Za-z][A-Za-z\\s]+?)(?:\\n|$)"
+  ],
+  "addressPatterns": [
+    "(?i)address:?\\s*([^\\n]+)"
+  ]
+}

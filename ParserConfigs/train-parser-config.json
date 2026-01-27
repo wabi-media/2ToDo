@@ -1,0 +1,56 @@
+{
+  "version": "1.0.4",
+  "knownOperators": {
+    "amtrak": "Amtrak",
+    "eurostar": "Eurostar",
+    "sncf": "SNCF",
+    "db": "Deutsche Bahn",
+    "deutsche bahn": "Deutsche Bahn",
+    "trenitalia": "Trenitalia",
+    "renfe": "Renfe",
+    "via rail": "VIA Rail",
+    "italo": "Italo",
+    "sbb": "SBB",
+    "\u00f6bb": "\u00d6BB",
+    "thalys": "Thalys",
+    "jr": "JR",
+    "korea railroad": "Korea Railroad",
+    "brightline": "Brightline"
+  },
+  "trainNumberPatterns": [
+    "(?i)(?:Train|Service|Zug)\\s*[:.]?\\s*(?:Acela|TGV|ICE|Eurostar|Avanti)?\\s*(?:inOui)?\\s*(\\d{1,5})",
+    "(?i)Train\\s*(?:Number|No\\.?)?\\s*[:#]?\\s*(\\d{1,5})",
+    "(?i)(?:Acela|TGV|ICE|Eurostar)\\s+(?:inOui\\s+)?(\\d{1,5})",
+    "(?i)Eurostar\\s+(\\d{4})"
+  ],
+  "stationPatterns": [
+    "(?i)From\\s*[:.]?\\s*([^\\n,]{3,40})(?:\\s+To|\\s*,|\\s+\\()",
+    "(?i)To\\s*[:.]?\\s*([^\\n,]{3,40})(?:\\s+,|\\s+\\()",
+    "(?i)Departing\\s+([^\\n,]{3,40})",
+    "(?i)Arriving\\s+([^\\n,]{3,40})"
+  ],
+  "datePatterns": [
+    "(?i)(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)[a-z]*,?\\s+(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\\s+(\\d{1,2})(?:,?\\s+(\\d{4}))?",
+    "(?i)(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\\s+(\\d{1,2}),?\\s+(\\d{4})?",
+    "(\\d{1,2}/\\d{1,2}/(?:\\d{4}|\\d{2}))"
+  ],
+  "timePatterns": [
+    "(?i)(\\d{1,2}:\\d{2}\\s*(?:AM|PM)?)"
+  ],
+  "confirmationPatterns": [
+    "(?i)Booking\\s+Reference\\s*:\\s*([A-Z0-9]{5,12})",
+    "(?i)Reservation\\s*(?:Number|#)?\\s*:\\s*([A-Z0-9]{5,12})",
+    "(?i)Booking\\s*(?:Number|Code|#)?\\s*:\\s*([A-Z0-9]{5,12})",
+    "(?i)Record\\s*Locator\\s*:\\s*([A-Z0-9]{5,10})",
+    "(?i)(?:PNR|Confirmation)\\s*:\\s*([A-Z0-9]{5,15})",
+    "(?i)R[\u00e9e]f[\u00e9e]rence\\s*/?\\s*Reference\\s*:\\s*([A-Z0-9]{5,10})",
+    "(?i)(?:Auftragsnummer|Order\\s*Number)\\s*/?\\s*(?:Number)?\\s*:\\s*([A-Z0-9]{5,10})"
+  ],
+  "seatPatterns": [
+    "(?i)Seat\\s*[:.]?\\s*(\\w{1,4})"
+  ],
+  "pricePatterns": [
+    "(?i)Total\\s*(?:Price|Cost|Amount)?\\s*[:.]?\\s*([$\u20ac\u00a3\u00a5]\\s*\\d{1,5}(?:[.,]\\d{2})?)",
+    "(?i)(?:Amount|Total)\\s*Paid\\s*[:.]?\\s*([$\u20ac\u00a3\u00a5]\\s*\\d{1,5}(?:[.,]\\d{2})?)"
+  ]
+}

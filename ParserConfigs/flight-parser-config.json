@@ -1,0 +1,36 @@
+{
+  "version": "1.0.4",
+  "knownAirlines": {
+    "american": "American Airlines",
+    "delta": "Delta Air Lines",
+    "united": "United Airlines",
+    "southwest": "Southwest Airlines",
+    "jetblue": "JetBlue",
+    "alaska": "Alaska Airlines",
+    "spirit": "Spirit Airlines",
+    "frontier": "Frontier Airlines"
+  },
+  "flightNumberPatterns": [
+    "(?i)flight\\s*(?:#|number)?:?\\s*([A-Z]{2}\\s*\\d{1,4})",
+    "(?i)([A-Z]{2})\\s*(\\d{1,4})\\b"
+  ],
+  "airportPatterns": [
+    "\\b(?!AIR|AND|THE|FOR|BUS|CAR|DAY|SUN|MON|TUE|WED|THU|FRI|SAT|JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC|YRS|YES|NOT|ALL|ANY|ONE|TWO|SIX|TAX|FEE|PAY|PER|USD|EUR|GBP|CAD|AUD|BAG|EST)([A-Z]{3})\\b"
+  ],
+  "datePatterns": [
+    "(?i)(\\d{1,2})\\s*(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\\s*(\\d{4})?",
+    "(\\d{1,2}[/-]\\d{1,2}[/-]\\d{2,4})"
+  ],
+  "timePatterns": [
+    "(\\d{1,2}:\\d{2}\\s*(?:AM|PM|am|pm)?)"
+  ],
+  "confirmationPatterns": [
+    "(?i)confirmation\\s*(?:code|number|#)?:?\\s*([A-Z0-9]{5,8})"
+  ],
+  "passengerPatterns": [
+    "(?i)passenger:?\\s*([A-Z][A-Za-z]+\\s+[A-Z][A-Za-z]+)"
+  ],
+  "seatPatterns": [
+    "(?i)seat:?\\s*([0-9]{1,2}[A-Z])"
+  ]
+}
