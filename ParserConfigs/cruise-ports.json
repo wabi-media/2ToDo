@@ -2,112 +2,140 @@
   "version": "1.0.4",
   "ports": [
     {
-      "address": "1015 N America Way, Miami, FL 33132, USA",
+      "name": "Puerto Vallarta",
+      "address": "Terminal Maritima, Blvd Francisco Medina Ascencio, Puerto Vallarta, Jalisco, Mexico",
+      "latitude": 20.655,
+      "longitude": -105.237,
+      "aliases": [
+        "Puerto Vallarta Mexico"
+      ]
+    },
+    {
+      "name": "Mazatlan",
+      "address": "Av. Emilio Barragán No. 1108, Col. Centro, 82000 Mazatlán, Sinaloa, Mexico",
+      "latitude": 23.2102,
+      "longitude": -106.4294,
+      "aliases": [
+        "Mazatlan Mexico"
+      ]
+    },
+    {
+      "name": "Cabo San Lucas",
+      "address": "Marina Cabo San Lucas, 23450 Cabo San Lucas, B.C.S., Mexico",
+      "latitude": 22.8814,
+      "longitude": -109.9048,
+      "aliases": [
+        "Cabo",
+        "Cabo San Lucas Mexico"
+      ]
+    },
+    {
       "name": "Miami",
+      "address": "1015 N America Way, Miami, FL 33132, USA",
+      "latitude": 25.7745,
       "longitude": -80.1709,
       "aliases": [
         "Port of Miami",
         "PortMiami",
         "Dodge Island"
-      ],
-      "latitude": 25.7745
+      ]
     },
     {
+      "name": "Fort Lauderdale",
       "address": "1850 Eller Dr, Fort Lauderdale, FL 33316, USA",
       "latitude": 26.085,
-      "name": "Fort Lauderdale",
       "longitude": -80.115,
       "aliases": [
         "Port Everglades"
       ]
     },
     {
-      "address": "445 Challenger Rd, Cape Canaveral, FL 32920, USA",
       "name": "Port Canaveral",
+      "address": "445 Challenger Rd, Cape Canaveral, FL 32920, USA",
       "latitude": 28.4111,
+      "longitude": -80.6125,
       "aliases": [
         "Orlando"
-      ],
-      "longitude": -80.6125
+      ]
     },
     {
       "name": "New York",
-      "longitude": -73.9991,
+      "address": "711 12th Ave, New York, NY 10019, USA",
       "latitude": 40.7684,
+      "longitude": -73.9991,
       "aliases": [
         "Manhattan Cruise Terminal"
-      ],
-      "address": "711 12th Ave, New York, NY 10019, USA"
+      ]
     },
     {
+      "name": "Cape Liberty",
       "address": "4 Port Terminal Blvd, Bayonne, NJ 07002, USA",
       "latitude": 40.6657,
+      "longitude": -74.0722,
       "aliases": [
         "Bayonne",
         "New Jersey",
         "Port Liberty"
-      ],
-      "name": "Cape Liberty",
-      "longitude": -74.0722
+      ]
     },
     {
+      "name": "Brooklyn",
+      "address": "72 Browne St, Brooklyn, NY 11231, USA",
+      "latitude": 40.6815,
+      "longitude": -74.0134,
       "aliases": [
         "Brooklyn Cruise Terminal"
-      ],
-      "name": "Brooklyn",
-      "latitude": 40.6815,
-      "address": "72 Browne St, Brooklyn, NY 11231, USA",
-      "longitude": -74.0134
+      ]
     },
     {
       "name": "Boston",
+      "address": "1 Black Falcon Ave, Boston, MA 02210, USA",
+      "latitude": 42.3435,
       "longitude": -71.0362,
       "aliases": [
         "Flynn Cruiseport"
-      ],
-      "address": "1 Black Falcon Ave, Boston, MA 02210, USA",
-      "latitude": 42.3435
+      ]
     },
     {
+      "name": "Baltimore",
+      "address": "2001 E McComas St, Baltimore, MD 21230, USA",
+      "latitude": 39.2662,
+      "longitude": -76.5957,
       "aliases": [
         "Port of Baltimore"
-      ],
-      "address": "2001 E McComas St, Baltimore, MD 21230, USA",
-      "name": "Baltimore",
-      "latitude": 39.2662,
-      "longitude": -76.5957
+      ]
     },
     {
-      "aliases": [
-        "Port of Charleston"
-      ],
-      "latitude": 32.7831,
       "name": "Charleston",
       "address": "176 Concord St, Charleston, SC 29401, USA",
-      "longitude": -79.9263
+      "latitude": 32.7831,
+      "longitude": -79.9263,
+      "aliases": [
+        "Port of Charleston"
+      ]
     },
     {
-      "latitude": 36.8459,
-      "aliases": [
-        "Half Moone"
-      ],
       "name": "Norfolk",
       "address": "1 Waterside Dr, Norfolk, VA 23510, USA",
-      "longitude": -76.2939
+      "latitude": 36.8459,
+      "longitude": -76.2939,
+      "aliases": [
+        "Half Moone"
+      ]
     },
     {
       "name": "Jacksonville",
+      "address": "9810 August Dr, Jacksonville, FL 32226, USA",
       "latitude": 30.4034,
       "longitude": -81.5694,
       "aliases": [
         "Jaxport"
-      ],
-      "address": "9810 August Dr, Jacksonville, FL 32226, USA"
+      ]
     },
     {
+      "name": "Palm Beach",
       "address": "1 E 11th St, Riviera Beach, FL 33404, USA",
       "latitude": 26.7728,
-      "name": "Palm Beach",
       "longitude": -80.0527,
       "aliases": [
         "Port of Palm Beach"
@@ -115,321 +143,321 @@
     },
     {
       "name": "Portland",
+      "address": "14 Ocean Gateway Pier, Portland, ME 04101, USA",
+      "latitude": 43.66,
+      "longitude": -70.246,
       "aliases": [
         "Portland Maine"
-      ],
-      "longitude": -70.246,
-      "latitude": 43.66,
-      "address": "14 Ocean Gateway Pier, Portland, ME 04101, USA"
+      ]
     },
     {
+      "name": "Bar Harbor",
       "address": "1 West St, Bar Harbor, ME 04609, USA",
+      "latitude": 44.391,
+      "longitude": -68.204,
       "aliases": [
         "Mount Desert Island"
-      ],
-      "longitude": -68.204,
-      "name": "Bar Harbor",
-      "latitude": 44.391
+      ]
     },
     {
       "name": "Key West",
+      "address": "Mallory Square, Key West, FL 33040, USA",
+      "latitude": 24.5592,
       "longitude": -81.8077,
       "aliases": [
         "Mallory Square"
-      ],
-      "latitude": 24.5592,
-      "address": "Mallory Square, Key West, FL 33040, USA"
+      ]
     },
     {
+      "name": "Galveston",
+      "address": "2502 Harborside Dr, Galveston, TX 77550, USA",
       "latitude": 29.3082,
+      "longitude": -94.795,
       "aliases": [
         "Port of Galveston"
-      ],
-      "address": "2502 Harborside Dr, Galveston, TX 77550, USA",
-      "name": "Galveston",
-      "longitude": -94.795
+      ]
     },
     {
+      "name": "New Orleans",
+      "address": "920 Port of New Orleans Pl, New Orleans, LA 70130, USA",
+      "latitude": 29.9429,
+      "longitude": -90.0632,
       "aliases": [
         "Port NOLA",
         "Julia Street",
         "Erato Street"
-      ],
-      "latitude": 29.9429,
-      "address": "920 Port of New Orleans Pl, New Orleans, LA 70130, USA",
-      "longitude": -90.0632,
-      "name": "New Orleans"
+      ]
     },
     {
-      "longitude": -82.4452,
       "name": "Tampa",
       "address": "651 Channelside Dr, Tampa, FL 33602, USA",
+      "latitude": 27.9439,
+      "longitude": -82.4452,
       "aliases": [
         "Port Tampa Bay"
-      ],
-      "latitude": 27.9439
+      ]
     },
     {
+      "name": "Mobile",
+      "address": "201 S Water St, Mobile, AL 36602, USA",
       "latitude": 30.6865,
       "longitude": -88.0378,
-      "name": "Mobile",
       "aliases": [
         "Alabama Cruise Terminal"
-      ],
-      "address": "201 S Water St, Mobile, AL 36602, USA"
+      ]
     },
     {
       "name": "Los Angeles",
+      "address": "100 Swinford St, San Pedro, CA 90731, USA",
+      "latitude": 33.7475,
+      "longitude": -118.2772,
       "aliases": [
         "San Pedro",
         "World Cruise Center",
         "Port of Los Angeles"
-      ],
-      "latitude": 33.7513,
-      "longitude": -118.2778,
-      "address": "100 Swinford St, San Pedro, CA 90731, USA"
+      ]
     },
     {
-      "longitude": -118.1889,
+      "name": "Long Beach",
+      "address": "231 Windsor Way, Long Beach, CA 90802, USA",
+      "latitude": 33.7513,
+      "longitude": -118.1888,
       "aliases": [
         "Carnival Cruise Terminal Long Beach"
-      ],
-      "latitude": 33.7514,
-      "name": "Long Beach",
-      "address": "231 Windsor Way, Long Beach, CA 90802, USA"
+      ]
     },
     {
-      "longitude": -117.1729,
+      "name": "San Diego",
+      "address": "1140 N Harbor Dr, San Diego, CA 92101, USA",
       "latitude": 32.7169,
+      "longitude": -117.1729,
       "aliases": [
         "Port of San Diego"
-      ],
-      "name": "San Diego",
-      "address": "1140 N Harbor Dr, San Diego, CA 92101, USA"
+      ]
     },
     {
       "name": "San Francisco",
+      "address": "The Embarcadero, San Francisco, CA 94111, USA",
+      "latitude": 37.8055,
       "longitude": -122.4031,
       "aliases": [
         "Pier 27",
         "James R. Herman"
-      ],
-      "address": "The Embarcadero, San Francisco, CA 94111, USA",
-      "latitude": 37.8055
+      ]
     },
     {
+      "name": "Seattle",
+      "address": "2001 W Garfield St, Seattle, WA 98119, USA",
+      "latitude": 47.6293,
       "longitude": -122.3842,
       "aliases": [
         "Smith Cove",
         "Bell Street",
         "Pier 66",
         "Pier 91"
-      ],
-      "name": "Seattle",
-      "latitude": 47.6293,
-      "address": "2001 W Garfield St, Seattle, WA 98119, USA"
+      ]
     },
     {
+      "name": "Honolulu",
       "address": "521 Ala Moana Blvd, Honolulu, HI 96813, USA",
+      "latitude": 21.3039,
+      "longitude": -157.8659,
       "aliases": [
         "Oahu",
         "Pier 2",
         "Pier 11"
-      ],
-      "latitude": 21.3039,
-      "name": "Honolulu",
-      "longitude": -157.8659
+      ]
     },
     {
-      "address": "10 Pier 1, Astoria, OR 97103, USA",
       "name": "Astoria",
+      "address": "10 Pier 1, Astoria, OR 97103, USA",
       "latitude": 46.189,
+      "longitude": -123.834,
       "aliases": [
         "Astoria Oregon"
-      ],
-      "longitude": -123.834
+      ]
     },
     {
-      "latitude": 34.408,
       "name": "Santa Barbara",
       "address": "132-A Harbor Way, Santa Barbara, CA 93109, USA",
+      "latitude": 34.408,
       "longitude": -119.691,
       "aliases": [
         "Santa Barbara California"
       ]
     },
     {
+      "name": "Catalina Island",
       "address": "1 Cabrillo Mole, Avalon, CA 90704, USA",
       "latitude": 33.344,
       "longitude": -118.324,
       "aliases": [
         "Avalon"
-      ],
-      "name": "Catalina Island"
+      ]
     },
     {
       "name": "Juneau",
       "address": "107 N Franklin St, Juneau, AK 99801, USA",
+      "latitude": 58.298,
       "longitude": -134.404,
       "aliases": [
         "Franklin Street",
         "AJ Dock",
         "South Franklin"
-      ],
-      "latitude": 58.298
+      ]
     },
     {
+      "name": "Ketchikan",
+      "address": "3307 Tongass Ave, Ketchikan, AK 99901, USA",
+      "latitude": 55.342,
+      "longitude": -131.646,
       "aliases": [
         "Berth 1",
         "Berth 2",
         "Ward Cove"
-      ],
-      "address": "3307 Tongass Ave, Ketchikan, AK 99901, USA",
-      "latitude": 55.342,
-      "longitude": -131.646,
-      "name": "Ketchikan"
+      ]
     },
     {
+      "name": "Skagway",
+      "address": "Broadway Dock, Skagway, AK 99840, USA",
+      "latitude": 59.451,
+      "longitude": -135.321,
       "aliases": [
         "Railroad Dock",
         "Broadway Dock",
         "Ore Dock"
-      ],
-      "latitude": 59.451,
-      "name": "Skagway",
-      "address": "Broadway Dock, Skagway, AK 99840, USA",
-      "longitude": -135.321
+      ]
     },
     {
-      "address": "Port Ave, Seward, AK 99664, USA",
       "name": "Seward",
+      "address": "Port Ave, Seward, AK 99664, USA",
+      "latitude": 60.1173,
       "longitude": -149.441,
       "aliases": [
         "Alaska Railroad Dock"
-      ],
-      "latitude": 60.1173
+      ]
     },
     {
+      "name": "Whittier",
       "address": "W Camp Rd, Whittier, AK 99693, USA",
-      "aliases": [
-        "Port of Whittier"
-      ],
       "latitude": 60.7767,
       "longitude": -148.6853,
-      "name": "Whittier"
+      "aliases": [
+        "Port of Whittier"
+      ]
     },
     {
+      "name": "Sitka",
+      "address": "4000 Halibut Point Rd, Sitka, AK 99835, USA",
       "latitude": 57.05,
       "longitude": -135.33,
       "aliases": [
         "Sitka Sound Cruise Terminal"
-      ],
-      "name": "Sitka",
-      "address": "4000 Halibut Point Rd, Sitka, AK 99835, USA"
+      ]
     },
     {
+      "name": "Icy Strait Point",
+      "address": "108 Cannery Rd, Hoonah, AK 99829, USA",
+      "latitude": 58.106,
+      "longitude": -135.441,
       "aliases": [
         "Hoonah"
-      ],
-      "name": "Icy Strait Point",
-      "longitude": -135.441,
-      "address": "108 Cannery Rd, Hoonah, AK 99829, USA",
-      "latitude": 58.106
+      ]
     },
     {
-      "longitude": -135.441,
+      "name": "Haines",
       "address": "Port Chilkoot Dock, Haines, AK 99827, USA",
       "latitude": 59.233,
-      "name": "Haines",
+      "longitude": -135.441,
       "aliases": [
         "Port Chilkoot"
       ]
     },
     {
+      "name": "Wrangel",
+      "address": "100 City Dock, Wrangell, AK 99929, USA",
+      "latitude": 56.471,
+      "longitude": -132.378,
       "aliases": [
         "Wrangel Alaska"
-      ],
-      "address": "100 City Dock, Wrangell, AK 99929, USA",
-      "name": "Wrangel",
-      "longitude": -132.378,
-      "latitude": 56.471
+      ]
     },
     {
-      "longitude": -123.1119,
+      "name": "Vancouver",
       "address": "999 Canada Pl, Vancouver, BC V6C 3T4, Canada",
+      "latitude": 49.2882,
+      "longitude": -123.1119,
       "aliases": [
         "Canada Place"
-      ],
-      "latitude": 49.2882,
-      "name": "Vancouver"
+      ]
     },
     {
-      "aliases": [
-        "Ogden Point"
-      ],
-      "latitude": 48.415,
       "name": "Victoria",
       "address": "185 Dallas Rd, Victoria, BC V8V 1A1, Canada",
-      "longitude": -123.3673
+      "latitude": 48.415,
+      "longitude": -123.3673,
+      "aliases": [
+        "Ogden Point"
+      ]
     },
     {
       "name": "Quebec City",
-      "address": "150 Rue Dalhousie, Qu\u00e9bec, QC G1K 8M7, Canada",
+      "address": "150 Rue Dalhousie, Québec, QC G1K 8M7, Canada",
+      "latitude": 46.816,
       "longitude": -71.2023,
       "aliases": [
         "Port of Quebec"
-      ],
-      "latitude": 46.816
+      ]
     },
     {
+      "name": "Montreal",
+      "address": "200 de la Commune St W, Montreal, QC H2Y 4B2, Canada",
       "latitude": 45.501,
+      "longitude": -73.551,
       "aliases": [
         "Grand Quai"
-      ],
-      "address": "200 de la Commune St W, Montreal, QC H2Y 4B2, Canada",
-      "longitude": -73.551,
-      "name": "Montreal"
+      ]
     },
     {
-      "latitude": 44.641,
       "name": "Halifax",
+      "address": "1031 Marginal Rd, Halifax, NS B3H 4P7, Canada",
+      "latitude": 44.641,
       "longitude": -63.565,
       "aliases": [
         "Pier 21"
-      ],
-      "address": "1031 Marginal Rd, Halifax, NS B3H 4P7, Canada"
+      ]
     },
     {
-      "latitude": 45.271,
+      "name": "Saint John",
       "address": "111 Water St, Saint John, NB E2L 0B1, Canada",
+      "latitude": 45.271,
+      "longitude": -66.061,
       "aliases": [
         "Bay of Fundy"
-      ],
-      "longitude": -66.061,
-      "name": "Saint John"
+      ]
     },
     {
       "name": "St. John's",
       "address": "10 Water St, St. John's, NL A1C 5X8, Canada",
+      "latitude": 47.561,
       "longitude": -52.711,
       "aliases": [
         "Newfoundland"
-      ],
-      "latitude": 47.561
+      ]
     },
     {
+      "name": "Sydney NS",
+      "address": "60 Esplanade, Sydney, NS B1P 1A1, Canada",
       "latitude": 46.136,
+      "longitude": -60.201,
       "aliases": [
         "Cape Breton",
         "Sydney Canada"
-      ],
-      "address": "60 Esplanade, Sydney, NS B1P 1A1, Canada",
-      "name": "Sydney NS",
-      "longitude": -60.201
+      ]
     },
     {
-      "address": "1 Weymouth St, Charlottetown, PE C1A 8W1, Canada",
       "name": "Charlottetown",
+      "address": "1 Weymouth St, Charlottetown, PE C1A 8W1, Canada",
       "latitude": 46.231,
       "longitude": -63.121,
       "aliases": [
@@ -437,71 +465,71 @@
       ]
     },
     {
-      "longitude": -77.3396,
       "name": "Nassau",
+      "address": "Prince George Wharf, Nassau, Bahamas",
       "latitude": 25.0784,
+      "longitude": -77.3396,
       "aliases": [
         "Prince George Wharf"
-      ],
-      "address": "Prince George Wharf, Nassau, Bahamas"
+      ]
     },
     {
-      "longitude": -78.71,
       "name": "Freeport",
+      "address": "Freeport, Grand Bahama, Bahamas",
+      "latitude": 26.51,
+      "longitude": -78.71,
       "aliases": [
         "Grand Bahama"
-      ],
-      "address": "Freeport, Grand Bahama, Bahamas",
-      "latitude": 26.51
+      ]
     },
     {
       "name": "Bimini",
+      "address": "Alice Town, Bimini, Bahamas",
+      "latitude": 25.72,
+      "longitude": -79.3,
       "aliases": [
         "Resorts World Bimini",
         "The Beach Club at Bimini",
         "Bimini Beach Club"
-      ],
-      "address": "Alice Town, Bimini, Bahamas",
-      "latitude": 25.72,
-      "longitude": -79.3
+      ]
     },
     {
+      "name": "Princess Cays",
       "address": "Princess Cays, Eleuthera, Bahamas",
-      "aliases": [
-        "Eleuthera"
-      ],
       "latitude": 24.64,
       "longitude": -76.24,
-      "name": "Princess Cays"
+      "aliases": [
+        "Eleuthera"
+      ]
     },
     {
+      "name": "CocoCay",
+      "address": "Berry Islands, Bahamas",
+      "latitude": 25.7983,
       "longitude": -77.94,
       "aliases": [
         "Little Stirrup Cay",
         "Perfect Day",
         "Perfect Day at CocoCay"
-      ],
-      "address": "Berry Islands, Bahamas",
-      "latitude": 25.7983,
-      "name": "CocoCay"
+      ]
     },
     {
+      "name": "Great Stirrup Cay",
+      "address": "Berry Islands, Bahamas",
       "latitude": 25.8239,
+      "longitude": -77.9054,
       "aliases": [
         "NCL Island"
-      ],
-      "longitude": -77.9054,
-      "address": "Berry Islands, Bahamas",
-      "name": "Great Stirrup Cay"
+      ]
     },
     {
-      "aliases": [
-        "Little San Salvador"
-      ],
+      "name": "Half Moon Cay",
       "address": "San Salvador, Bahamas",
       "latitude": 24.58,
-      "name": "Half Moon Cay",
-      "longitude": -75.95
+      "longitude": -75.95,
+      "aliases": [
+        "Little San Salvador"
+      ]
     },
     {
       "name": "Cozumel",
@@ -516,243 +544,243 @@
     },
     {
       "name": "Costa Maya",
+      "address": "Mahahual, Quintana Roo, Mexico",
+      "latitude": 18.718,
+      "longitude": -87.688,
       "aliases": [
         "Mahahual"
-      ],
-      "address": "Mahahual, Quintana Roo, Mexico",
-      "longitude": -87.688,
-      "latitude": 18.718
+      ]
     },
     {
+      "name": "Progreso",
+      "address": "Calle 19 s/n, Progreso, Yucatan, Mexico",
+      "latitude": 21.284,
+      "longitude": -89.664,
       "aliases": [
         "Merida"
-      ],
-      "latitude": 21.284,
-      "address": "Calle 19 s/n, Progreso, Yucatan, Mexico",
-      "name": "Progreso",
-      "longitude": -89.664
+      ]
     },
     {
-      "address": "Harbour Dr, George Town, Cayman Islands",
       "name": "Grand Cayman",
+      "address": "Harbour Dr, George Town, Cayman Islands",
+      "latitude": 19.293,
+      "longitude": -81.381,
       "aliases": [
         "George Town"
-      ],
-      "latitude": 19.293,
-      "longitude": -81.381
+      ]
     },
     {
+      "name": "Ocho Rios",
       "address": "Ocho Rios, Jamaica",
+      "latitude": 18.411,
+      "longitude": -77.106,
       "aliases": [
         "Turtle Beach"
-      ],
-      "longitude": -77.106,
-      "name": "Ocho Rios",
-      "latitude": 18.411
+      ]
     },
     {
+      "name": "Falmouth",
       "address": "Falmouth, Trelawny, Jamaica",
       "latitude": 18.494,
-      "name": "Falmouth",
+      "longitude": -77.653,
       "aliases": [
         "Port of Falmouth"
-      ],
-      "longitude": -77.653
+      ]
     },
     {
       "name": "Montego Bay",
+      "address": "Montego Bay, Jamaica",
+      "latitude": 18.461,
+      "longitude": -77.931,
       "aliases": [
         "Freeport Jamaica"
-      ],
-      "longitude": -77.931,
-      "latitude": 18.461,
-      "address": "Montego Bay, Jamaica"
+      ]
     },
     {
-      "address": "Coxen Hole, Roat\u00e1n, Honduras",
-      "latitude": 16.319,
       "name": "Roatan",
+      "address": "Coxen Hole, Roatán, Honduras",
+      "latitude": 16.319,
+      "longitude": -86.5375,
       "aliases": [
         "Coxen Hole"
-      ],
-      "longitude": -86.5375
+      ]
     },
     {
-      "longitude": -88.1831,
+      "name": "Belize City",
+      "address": "Fort St, Belize City, Belize",
       "latitude": 17.494,
+      "longitude": -88.1831,
       "aliases": [
         "Fort Street Village"
-      ],
-      "name": "Belize City",
-      "address": "Fort St, Belize City, Belize"
+      ]
     },
     {
       "name": "Harvest Caye",
+      "address": "Harvest Caye, Belize",
+      "latitude": 16.48,
+      "longitude": -88.39,
       "aliases": [
         "NCL Belize"
-      ],
-      "latitude": 16.48,
-      "address": "Harvest Caye, Belize",
-      "longitude": -88.39
+      ]
     },
     {
+      "name": "King's Wharf",
       "address": "Royal Naval Dockyard, Bermuda",
+      "latitude": 32.327,
+      "longitude": -64.834,
       "aliases": [
         "Royal Naval Dockyard",
         "Bermuda"
-      ],
-      "name": "King's Wharf",
-      "latitude": 32.327,
-      "longitude": -64.834
+      ]
     },
     {
       "name": "Hamilton",
-      "latitude": 32.293,
       "address": "Front St, Hamilton, Bermuda",
+      "latitude": 32.293,
+      "longitude": -64.783,
       "aliases": [
         "Front Street"
-      ],
-      "longitude": -64.783
+      ]
     },
     {
-      "aliases": [
-        "Penn's Wharf"
-      ],
-      "longitude": -64.676,
       "name": "St. George's",
       "address": "St. George's, Bermuda",
-      "latitude": 32.381
+      "latitude": 32.381,
+      "longitude": -64.676,
+      "aliases": [
+        "Penn's Wharf"
+      ]
     },
     {
-      "aliases": [
-        "Panama Canal",
-        "Colon 2000"
-      ],
+      "name": "Colon",
       "address": "Paseo Gorgas, Colon, Panama",
       "latitude": 9.356,
       "longitude": -79.901,
-      "name": "Colon"
+      "aliases": [
+        "Panama Canal",
+        "Colon 2000"
+      ]
     },
     {
-      "aliases": [
-        "Costa Rica"
-      ],
       "name": "Puerto Limon",
       "address": "Puerto Limon, Costa Rica",
+      "latitude": 9.996,
       "longitude": -83.021,
-      "latitude": 9.996
+      "aliases": [
+        "Costa Rica"
+      ]
     },
     {
-      "aliases": [
-        "Pacific Costa Rica"
-      ],
+      "name": "Puntarenas",
       "address": "Puntarenas, Costa Rica",
       "latitude": 9.976,
       "longitude": -84.834,
-      "name": "Puntarenas"
+      "aliases": [
+        "Pacific Costa Rica"
+      ]
     },
     {
+      "name": "Buenos Aires",
+      "address": "Av. Ramón Castillo 13, Buenos Aires, Argentina",
+      "latitude": -34.5775,
+      "longitude": -58.366,
       "aliases": [
         "Quinquela Martin"
-      ],
-      "name": "Buenos Aires",
-      "address": "Av. Ram\u00f3n Castillo 13, Buenos Aires, Argentina",
-      "longitude": -58.366,
-      "latitude": -34.5775
+      ]
     },
     {
-      "aliases": [
-        "Pier Maua"
-      ],
-      "longitude": -43.1837,
       "name": "Rio de Janeiro",
       "address": "Av. Rodrigues Alves, 10, Rio de Janeiro - RJ, 20081-250, Brazil",
-      "latitude": -22.8943
+      "latitude": -22.8943,
+      "longitude": -43.1837,
+      "aliases": [
+        "Pier Maua"
+      ]
     },
     {
       "name": "Valparaiso",
-      "address": "Av. Err\u00e1zuriz 25, Valpara\u00edso, Chile",
+      "address": "Av. Errázuriz 25, Valparaíso, Chile",
       "latitude": -33.036,
+      "longitude": -71.629,
       "aliases": [
         "Santiago Chile",
         "Port of Valparaiso"
-      ],
-      "longitude": -71.629
+      ]
     },
     {
+      "name": "San Antonio",
       "address": "San Antonio, Valparaiso, Chile",
       "latitude": -33.583,
-      "name": "San Antonio",
+      "longitude": -71.616,
       "aliases": [
         "San Antonio Chile"
-      ],
-      "longitude": -71.616
+      ]
     },
     {
-      "address": "Manga, Cartagena, Bol\u00edvar, Colombia",
+      "name": "Cartagena",
+      "address": "Manga, Cartagena, Bolívar, Colombia",
       "latitude": 10.407,
+      "longitude": -75.539,
       "aliases": [
         "Old City Cartagena"
-      ],
-      "longitude": -75.539,
-      "name": "Cartagena"
+      ]
     },
     {
-      "aliases": [
-        "Lima Peru"
-      ],
+      "name": "Callao",
       "address": "Av. Manco Capac, Callao, Peru",
       "latitude": -12.043,
       "longitude": -77.143,
-      "name": "Callao"
+      "aliases": [
+        "Lima Peru"
+      ]
     },
     {
+      "name": "Montevideo",
+      "address": "Rambla 25 de Agosto, Montevideo, Uruguay",
       "latitude": -34.906,
       "longitude": -56.216,
-      "name": "Montevideo",
       "aliases": [
         "Uruguay"
-      ],
-      "address": "Rambla 25 de Agosto, Montevideo, Uruguay"
+      ]
     },
     {
+      "name": "Santos",
+      "address": "Praca Gago Coutinho, Santos, Brazil",
+      "latitude": -23.931,
+      "longitude": -46.331,
       "aliases": [
         "Sao Paulo",
         "Port of Santos"
-      ],
-      "longitude": -46.331,
-      "name": "Santos",
-      "latitude": -23.931,
-      "address": "Praca Gago Coutinho, Santos, Brazil"
+      ]
     },
     {
       "name": "Ushuaia",
+      "address": "Port of Ushuaia, Argentina",
+      "latitude": -54.806,
+      "longitude": -68.301,
       "aliases": [
         "Tierra del Fuego"
-      ],
-      "longitude": -68.301,
-      "address": "Port of Ushuaia, Argentina",
-      "latitude": -54.806
+      ]
     },
     {
       "name": "Barcelona",
       "address": "Moll Adossat, s/n, 08039 Barcelona, Spain",
       "latitude": 41.3538,
+      "longitude": 2.1772,
       "aliases": [
         "Port de Barcelona",
         "Moll Adossat"
-      ],
-      "longitude": 2.1772
+      ]
     },
     {
-      "longitude": 11.7767,
+      "name": "Civitavecchia",
+      "address": "Banchina 25, 00053 Civitavecchia RM, Italy",
       "latitude": 42.095,
+      "longitude": 11.7767,
       "aliases": [
         "Rome",
         "Port of Civitavecchia"
-      ],
-      "name": "Civitavecchia",
-      "address": "Banchina 25, 00053 Civitavecchia RM, Italy"
+      ]
     },
     {
       "name": "Venice",
@@ -766,8 +794,8 @@
       ]
     },
     {
-      "address": "Stazione Marittima, 80133 Napoli NA, Italy",
       "name": "Naples",
+      "address": "Stazione Marittima, 80133 Napoli NA, Italy",
       "latitude": 40.8385,
       "longitude": 14.2575,
       "aliases": [
@@ -776,274 +804,274 @@
       ]
     },
     {
+      "name": "Piraeus",
       "address": "Miaouli St, Piraeus 185 38, Greece",
       "latitude": 37.94,
-      "name": "Piraeus",
       "longitude": 23.6335,
       "aliases": [
         "Athens"
       ]
     },
     {
+      "name": "Marseille",
+      "address": "Marseille Provence Cruise Terminal, 13015 Marseille, France",
+      "latitude": 43.3396,
+      "longitude": 5.3496,
       "aliases": [
         "Port of Marseille",
         "MPCT"
-      ],
-      "address": "Marseille Provence Cruise Terminal, 13015 Marseille, France",
-      "name": "Marseille",
-      "longitude": 5.3496,
-      "latitude": 43.3396
+      ]
     },
     {
       "name": "Dubrovnik",
       "address": "Obala Ivana Pavla II 9, 20000 Dubrovnik, Croatia",
       "latitude": 42.6586,
+      "longitude": -18.0863,
       "aliases": [
         "Port of Dubrovnik",
         "Gruz"
-      ],
-      "longitude": -18.0863
+      ]
     },
     {
-      "longitude": 25.4308,
-      "address": "Athinios Port, 847 00, Santorini, Greece",
       "name": "Santorini",
+      "address": "Athinios Port, 847 00, Santorini, Greece",
       "latitude": 36.386,
+      "longitude": 25.4308,
       "aliases": [
         "Athinios",
         "Fira"
       ]
     },
     {
-      "address": "Tourlos 846 00, Greece",
       "name": "Mykonos",
+      "address": "Tourlos 846 00, Greece",
       "latitude": 37.4645,
+      "longitude": 25.3283,
       "aliases": [
         "Tourlos",
         "New Port"
-      ],
-      "longitude": 25.3283
+      ]
     },
     {
-      "address": "Estaci\u00f3 Mar\u00edtima, 07015 Palma, Spain",
-      "latitude": 39.5595,
       "name": "Palma de Mallorca",
+      "address": "Estació Marítima, 07015 Palma, Spain",
+      "latitude": 39.5595,
+      "longitude": 2.6288,
       "aliases": [
         "Mallorca"
-      ],
-      "longitude": 2.6288
+      ]
     },
     {
-      "longitude": 14.5098,
+      "name": "Valletta",
       "address": "Upper Pinto Wharf, Floriana, Malta",
+      "latitude": 35.8926,
+      "longitude": 14.5098,
       "aliases": [
         "Grand Harbour",
         "Malta"
-      ],
-      "name": "Valletta",
-      "latitude": 35.8926
+      ]
     },
     {
-      "longitude": 18.7711,
-      "address": "Park Slobode 1, 85330 Kotor, Montenegro",
       "name": "Kotor",
+      "address": "Park Slobode 1, 85330 Kotor, Montenegro",
+      "latitude": 42.4257,
+      "longitude": 18.7711,
       "aliases": [
         "Montenegro"
-      ],
-      "latitude": 42.4257
+      ]
     },
     {
-      "address": "Porto di Livorno, Italy",
       "name": "Livorno",
+      "address": "Porto di Livorno, Italy",
       "latitude": 43.551,
+      "longitude": 10.298,
       "aliases": [
         "Florence",
         "Pisa"
-      ],
-      "longitude": 10.298
+      ]
     },
     {
+      "name": "Genoa",
+      "address": "Ponte dei Mille, 16126 Genova, Italy",
+      "latitude": 44.411,
+      "longitude": 8.921,
       "aliases": [
         "Genova",
         "Port of Genoa"
-      ],
-      "latitude": 44.411,
-      "address": "Ponte dei Mille, 16126 Genova, Italy",
-      "name": "Genoa",
-      "longitude": 8.921
+      ]
     },
     {
+      "name": "Malaga",
+      "address": "Paseo de la Farola, Malaga, Spain",
+      "latitude": 36.711,
       "longitude": -4.416,
       "aliases": [
         "Costa del Sol"
-      ],
-      "name": "Malaga",
-      "latitude": 36.711,
-      "address": "Paseo de la Farola, Malaga, Spain"
+      ]
     },
     {
-      "aliases": [
-        "Port of Valencia"
-      ],
       "name": "Valencia",
       "address": "Muelle de Poniente, Valencia, Spain",
       "latitude": 39.456,
-      "longitude": -0.321
+      "longitude": -0.321,
+      "aliases": [
+        "Port of Valencia"
+      ]
     },
     {
       "name": "Nice",
+      "address": "Port Lympia, Nice, France",
+      "latitude": 43.696,
+      "longitude": 7.283,
       "aliases": [
         "Villefranche",
         "Cannes"
-      ],
-      "address": "Port Lympia, Nice, France",
-      "latitude": 43.696,
-      "longitude": 7.283
+      ]
     },
     {
-      "aliases": [
-        "Sicily"
-      ],
+      "name": "Messina",
       "address": "Via Vittorio Emanuele II, Messina, Italy",
       "latitude": 38.193,
       "longitude": 15.556,
-      "name": "Messina"
+      "aliases": [
+        "Sicily"
+      ]
     },
     {
+      "name": "Bari",
+      "address": "Port of Bari, Italy",
       "latitude": 41.134,
       "longitude": 16.864,
       "aliases": [
         "Puglia"
-      ],
-      "address": "Port of Bari, Italy",
-      "name": "Bari"
+      ]
     },
     {
-      "aliases": [
-        "Kerkyra",
-        "Old Port"
-      ],
       "name": "Corfu",
       "address": "New Port, Corfu, Greece",
       "latitude": 39.631,
-      "longitude": 19.901
+      "longitude": 19.901,
+      "aliases": [
+        "Kerkyra",
+        "Old Port"
+      ]
     },
     {
-      "latitude": 37.666,
       "name": "Katakolo",
       "address": "Port of Katakolo, Greece",
+      "latitude": 37.666,
       "longitude": 21.316,
       "aliases": [
         "Olympia"
       ]
     },
     {
-      "longitude": 28.231,
       "name": "Rhodes",
-      "latitude": 36.441,
       "address": "Acandia Harbour, Rhodes, Greece",
+      "latitude": 36.441,
+      "longitude": 28.231,
       "aliases": [
         "Mandraki"
       ]
     },
     {
       "name": "Istanbul",
-      "latitude": 41.026,
       "address": "Kilic Ali Pasa, Beyoglu, Istanbul, Turkey",
+      "latitude": 41.026,
+      "longitude": 28.983,
       "aliases": [
         "Galataport"
-      ],
-      "longitude": 28.983
+      ]
     },
     {
-      "address": "Ege Port, Kusadasi, Turkey",
       "name": "Kusadasi",
+      "address": "Ege Port, Kusadasi, Turkey",
+      "latitude": 37.864,
       "longitude": 27.258,
       "aliases": [
         "Ephesus"
-      ],
-      "latitude": 37.864
+      ]
     },
     {
-      "longitude": -1.4018,
       "name": "Southampton",
+      "address": "Ocean Gate, Atlantic Way, Southampton SO14 3QN, UK",
+      "latitude": 50.8931,
+      "longitude": -1.4018,
       "aliases": [
         "Port of Southampton"
-      ],
-      "address": "Ocean Gate, Atlantic Way, Southampton SO14 3QN, UK",
-      "latitude": 50.8931
+      ]
     },
     {
-      "address": "Oceanvej, 2150 K\u00f8benhavn, Denmark",
+      "name": "Copenhagen",
+      "address": "Oceanvej, 2150 København, Denmark",
+      "latitude": 55.7156,
       "longitude": 12.6142,
       "aliases": [
         "Ocean Quay",
         "Langelinie",
         "Oceankaj"
-      ],
-      "name": "Copenhagen",
-      "latitude": 55.7156
+      ]
     },
     {
-      "latitude": 52.378,
-      "aliases": [
-        "Passenger Terminal Amsterdam"
-      ],
       "name": "Amsterdam",
       "address": "Piet Heinkade 27, 1019 BR Amsterdam, Netherlands",
-      "longitude": 4.9145
+      "latitude": 52.378,
+      "longitude": 4.9145,
+      "aliases": [
+        "Passenger Terminal Amsterdam"
+      ]
     },
     {
+      "name": "Bergen",
+      "address": "Skoltegrunnskaien 1, 5035 Bergen, Norway",
+      "latitude": 60.401,
+      "longitude": 5.319,
       "aliases": [
         "Skoltegrunnskaien",
         "Jektevik"
-      ],
-      "name": "Bergen",
-      "address": "Skoltegrunnskaien 1, 5035 Bergen, Norway",
-      "longitude": 5.319,
-      "latitude": 60.401
+      ]
     },
     {
-      "address": "Akershusstranda 15, 0150 Oslo, Norway",
-      "longitude": 10.738,
-      "latitude": 59.9056,
       "name": "Oslo",
+      "address": "Akershusstranda 15, 0150 Oslo, Norway",
+      "latitude": 59.9056,
+      "longitude": 10.738,
       "aliases": [
         "Akershusstranda"
       ]
     },
     {
+      "name": "Stockholm",
+      "address": "Stadsgården, 116 45 Stockholm, Sweden",
       "latitude": 59.3175,
-      "aliases": [
-        "Stadsg\u00e5rden",
-        "V\u00e4rtahamnen"
-      ],
-      "address": "Stadsg\u00e5rden, 116 45 Stockholm, Sweden",
       "longitude": 18.088,
-      "name": "Stockholm"
+      "aliases": [
+        "Stadsgården",
+        "Värtahamnen"
+      ]
     },
     {
+      "name": "Helsinki",
       "address": "Tyynenmerenkatu 8, 00220 Helsinki, Finland",
       "latitude": 60.1506,
       "longitude": 24.9186,
-      "name": "Helsinki",
       "aliases": [
         "West Harbour",
         "South Harbour"
       ]
     },
     {
-      "longitude": 24.7675,
       "name": "Tallinn",
+      "address": "Sadama 25, 15051 Tallinn, Estonia",
+      "latitude": 59.4447,
+      "longitude": 24.7675,
       "aliases": [
         "Old City Harbour"
-      ],
-      "address": "Sadama 25, 15051 Tallinn, Estonia",
-      "latitude": 59.4447
+      ]
     },
     {
-      "address": "Skarfabakki, 104 Reykjav\u00edk, Iceland",
       "name": "Reykjavik",
+      "address": "Skarfabakki, 104 Reykjavík, Iceland",
       "latitude": 64.153,
       "longitude": -21.86,
       "aliases": [
@@ -1052,471 +1080,471 @@
       ]
     },
     {
-      "longitude": 0.111,
+      "name": "Le Havre",
+      "address": "Quai de Guinée, 76600 Le Havre, France",
       "latitude": 49.481,
+      "longitude": 0.111,
       "aliases": [
         "Paris Le Havre"
-      ],
-      "name": "Le Havre",
-      "address": "Quai de Guin\u00e9e, 76600 Le Havre, France"
+      ]
     },
     {
-      "address": "Buchheisterstra\u00dfe 16, 20457 Hamburg, Germany",
+      "name": "Hamburg",
+      "address": "Buchheisterstraße 16, 20457 Hamburg, Germany",
       "latitude": 53.531,
+      "longitude": 9.951,
       "aliases": [
         "Cruise Center Steinwerder"
-      ],
-      "longitude": 9.951,
-      "name": "Hamburg"
+      ]
     },
     {
       "name": "Zeebrugge",
       "address": "Graaf Jansdijk 1, 8380 Zeebrugge, Belgium",
       "latitude": 51.331,
+      "longitude": 3.201,
       "aliases": [
         "Bruges",
         "Brugge"
-      ],
-      "longitude": 3.201
+      ]
     },
     {
+      "name": "Dover",
+      "address": "Dover CT17 9DQ, UK",
       "latitude": 51.116,
+      "longitude": 1.316,
       "aliases": [
         "White Cliffs",
         "Cruise Terminal 1"
-      ],
-      "address": "Dover CT17 9DQ, UK",
-      "longitude": 1.316,
-      "name": "Dover"
+      ]
     },
     {
+      "name": "Liverpool",
+      "address": "Liverpool L3 1DL, UK",
       "latitude": 53.401,
       "longitude": -2.991,
       "aliases": [
         "Pier Head"
-      ],
-      "name": "Liverpool",
-      "address": "Liverpool L3 1DL, UK"
+      ]
     },
     {
       "name": "Greenock",
-      "aliases": [
-        "Glasgow"
-      ],
+      "address": "Patrick St, Greenock PA16 8UU, UK",
       "latitude": 55.951,
       "longitude": -4.751,
-      "address": "Patrick St, Greenock PA16 8UU, UK"
+      "aliases": [
+        "Glasgow"
+      ]
     },
     {
-      "aliases": [
-        "Inverness Scotland"
-      ],
-      "latitude": 57.686,
       "name": "Invergordon",
       "address": "Shore Rd, Invergordon IV18 0AL, UK",
-      "longitude": -4.166
+      "latitude": 57.686,
+      "longitude": -4.166,
+      "aliases": [
+        "Inverness Scotland"
+      ]
     },
     {
+      "name": "Belfast",
+      "address": "Airport Rd W, Belfast BT3 9EA, UK",
+      "latitude": 54.611,
       "longitude": -5.891,
       "aliases": [
         "Titanic Belfast"
-      ],
-      "latitude": 54.611,
-      "name": "Belfast",
-      "address": "Airport Rd W, Belfast BT3 9EA, UK"
+      ]
     },
     {
-      "longitude": -6.221,
       "name": "Dublin",
+      "address": "Alexandra Rd, Dublin, Ireland",
+      "latitude": 53.346,
+      "longitude": -6.221,
       "aliases": [
         "Dublin Port"
-      ],
-      "latitude": 53.346,
-      "address": "Alexandra Rd, Dublin, Ireland"
+      ]
     },
     {
-      "aliases": [
-        "Cobh"
-      ],
-      "longitude": -8.291,
       "name": "Cork",
       "address": "Deepwater Quay, Cobh, Ireland",
-      "latitude": 51.851
+      "latitude": 51.851,
+      "longitude": -8.291,
+      "aliases": [
+        "Cobh"
+      ]
     },
     {
+      "name": "Singapore",
       "address": "61 Marina Coastal Dr, Singapore 018947",
+      "latitude": 1.2727,
+      "longitude": 103.86,
       "aliases": [
         "Marina Bay",
         "Singapore Cruise Centre"
-      ],
-      "name": "Singapore",
-      "latitude": 1.2727,
-      "longitude": 103.86
+      ]
     },
     {
+      "name": "Shanghai",
+      "address": "1 Baoyang Rd, Baoshan District, Shanghai, China",
+      "latitude": 31.4053,
+      "longitude": 121.5039,
       "aliases": [
         "Wusongkou",
         "Baoshan"
-      ],
-      "name": "Shanghai",
-      "latitude": 31.4053,
-      "address": "1 Baoyang Rd, Baoshan District, Shanghai, China",
-      "longitude": 121.5039
+      ]
     },
     {
+      "name": "Hong Kong",
+      "address": "33 Shing Fung Rd, Kowloon City, Hong Kong",
+      "latitude": 22.3069,
+      "longitude": 114.2125,
       "aliases": [
         "Kai Tak",
         "Ocean Terminal"
-      ],
-      "latitude": 22.3069,
-      "longitude": 114.2125,
-      "address": "33 Shing Fung Rd, Kowloon City, Hong Kong",
-      "name": "Hong Kong"
+      ]
     },
     {
+      "name": "Tokyo",
+      "address": "2-chōme-8 Aomi, Koto City, Tokyo 135-0064, Japan",
+      "latitude": 35.62,
+      "longitude": 139.775,
       "aliases": [
         "Aomi",
         "Tokyo International"
-      ],
-      "name": "Tokyo",
-      "longitude": 139.775,
-      "address": "2-ch\u014dme-8 Aomi, Koto City, Tokyo 135-0064, Japan",
-      "latitude": 35.62
+      ]
     },
     {
-      "latitude": 35.4517,
+      "name": "Yokohama",
       "address": "1-1-4 Kaigandori, Naka Ward, Yokohama, Japan",
+      "latitude": 35.4517,
+      "longitude": 139.648,
       "aliases": [
         "Osanbashi",
         "Daikoku"
-      ],
-      "name": "Yokohama",
-      "longitude": 139.648
+      ]
     },
     {
-      "latitude": 25.1374,
       "name": "Keelung",
+      "address": "No. 1, Zhongzheng Rd, Keelung City, Taiwan",
+      "latitude": 25.1374,
       "longitude": 121.7486,
       "aliases": [
         "Taipei"
-      ],
-      "address": "No. 1, Zhongzheng Rd, Keelung City, Taiwan"
+      ]
     },
     {
+      "name": "Busan",
+      "address": "206 Chungjang-daero, Dong-gu, Busan, South Korea",
+      "latitude": 35.1166,
       "longitude": 129.0435,
       "aliases": [
         "Busan Port"
-      ],
-      "address": "206 Chungjang-daero, Dong-gu, Busan, South Korea",
-      "name": "Busan",
-      "latitude": 35.1166
+      ]
     },
     {
       "name": "Jeju",
-      "longitude": 126.5491,
+      "address": "901-14 Hwabuk-dong, Jeju-si, South Korea",
       "latitude": 33.5263,
+      "longitude": 126.5491,
       "aliases": [
         "Jeju International"
-      ],
-      "address": "901-14 Hwabuk-dong, Jeju-si, South Korea"
+      ]
     },
     {
+      "name": "Laem Chabang",
+      "address": "Thung Sukhla, Si Racha, Chon Buri, Thailand",
       "latitude": 13.078,
       "longitude": 100.879,
-      "address": "Thung Sukhla, Si Racha, Chon Buri, Thailand",
       "aliases": [
         "Bangkok"
-      ],
-      "name": "Laem Chabang"
+      ]
     },
     {
-      "address": "Ph\u00fa M\u1ef9, Tan Thanh, Vietnam",
-      "longitude": 107.031,
       "name": "Phu My",
+      "address": "Phú Mỹ, Tan Thanh, Vietnam",
+      "latitude": 10.5735,
+      "longitude": 107.031,
       "aliases": [
         "Ho Chi Minh City",
         "Saigon"
-      ],
-      "latitude": 10.5735
+      ]
     },
     {
-      "latitude": 16.34,
       "name": "Chan May",
+      "address": "Loc Vinh, Phu Loc, Vietnam",
+      "latitude": 16.34,
+      "longitude": 107.99,
       "aliases": [
         "Hue",
         "Da Nang"
-      ],
-      "address": "Loc Vinh, Phu Loc, Vietnam",
-      "longitude": 107.99
+      ]
     },
     {
+      "name": "Halong Bay",
+      "address": "Bai Chay, Ha Long, Vietnam",
+      "latitude": 20.951,
       "longitude": 107.031,
       "aliases": [
         "Cai Lan"
-      ],
-      "address": "Bai Chay, Ha Long, Vietnam",
-      "latitude": 20.951,
-      "name": "Halong Bay"
+      ]
     },
     {
-      "address": "George Town, Penang, Malaysia",
       "name": "Penang",
+      "address": "George Town, Penang, Malaysia",
+      "latitude": 5.416,
       "longitude": 100.341,
       "aliases": [
         "Swettenham Pier"
-      ],
-      "latitude": 5.416
+      ]
     },
     {
+      "name": "Port Klang",
+      "address": "Jalan Pelabuhan, Port Klang, Malaysia",
       "latitude": 3.001,
+      "longitude": 101.351,
       "aliases": [
         "Kuala Lumpur"
-      ],
-      "address": "Jalan Pelabuhan, Port Klang, Malaysia",
-      "name": "Port Klang",
-      "longitude": 101.351
+      ]
     },
     {
-      "longitude": 98.401,
       "name": "Phuket",
+      "address": "Ao Makham, Phuket, Thailand",
+      "latitude": 7.851,
+      "longitude": 98.401,
       "aliases": [
         "Patong Bay"
-      ],
-      "latitude": 7.851,
-      "address": "Ao Makham, Phuket, Thailand"
+      ]
     },
     {
-      "latitude": 18.941,
       "name": "Mumbai",
       "address": "Shoorji Vallabhdas Rd, Mumbai, India",
+      "latitude": 18.941,
+      "longitude": 72.841,
       "aliases": [
         "Bombay",
         "Green Gate"
-      ],
-      "longitude": 72.841
+      ]
     },
     {
-      "aliases": [
-        "Kochi India"
-      ],
-      "latitude": 9.961,
       "name": "Cochin",
       "address": "Willingdon Island, Kochi, India",
-      "longitude": 76.271
+      "latitude": 9.961,
+      "longitude": 76.271,
+      "aliases": [
+        "Kochi India"
+      ]
     },
     {
+      "name": "Cape Town",
       "address": "V&A Waterfront, Cape Town, South Africa",
+      "latitude": -33.906,
       "longitude": 18.421,
       "aliases": [
         "Victoria & Alfred Waterfront"
-      ],
-      "latitude": -33.906,
-      "name": "Cape Town"
+      ]
     },
     {
-      "longitude": 31.051,
       "name": "Durban",
+      "address": "Quayside Rd, Durban, South Africa",
       "latitude": -29.866,
+      "longitude": 31.051,
       "aliases": [
         "Nelson Mandela Terminal"
-      ],
-      "address": "Quayside Rd, Durban, South Africa"
+      ]
     },
     {
-      "aliases": [
-        "Rashid Port"
-      ],
+      "name": "Dubai",
       "address": "Port Rashid, Dubai, UAE",
       "latitude": 25.271,
       "longitude": 55.281,
-      "name": "Dubai"
+      "aliases": [
+        "Rashid Port"
+      ]
     },
     {
+      "name": "Abu Dhabi",
       "address": "Mina Zayed, Abu Dhabi, UAE",
       "latitude": 24.516,
       "longitude": 54.381,
-      "name": "Abu Dhabi",
       "aliases": [
         "Zayed Port"
       ]
     },
     {
+      "name": "Doha",
+      "address": "Doha Port, Qatar",
+      "latitude": 25.291,
+      "longitude": 51.541,
       "aliases": [
         "Grand Cruise Terminal"
-      ],
-      "latitude": 25.291,
-      "name": "Doha",
-      "longitude": 51.541,
-      "address": "Doha Port, Qatar"
+      ]
     },
     {
+      "name": "Muscat",
+      "address": "Mutrah, Muscat, Oman",
+      "latitude": 23.616,
+      "longitude": 58.561,
       "aliases": [
         "Port Sultan Qaboos"
-      ],
-      "latitude": 23.616,
-      "name": "Muscat",
-      "longitude": 58.561,
-      "address": "Mutrah, Muscat, Oman"
+      ]
     },
     {
-      "longitude": 35.001,
+      "name": "Aqaba",
       "address": "Port of Aqaba, Jordan",
       "latitude": 29.516,
-      "name": "Aqaba",
+      "longitude": 35.001,
       "aliases": [
         "Petra",
         "Jordan"
       ]
     },
     {
+      "name": "Safaga",
+      "address": "Port of Safaga, Egypt",
+      "latitude": 26.733,
+      "longitude": 33.931,
       "aliases": [
         "Luxor",
         "Egypt"
-      ],
-      "address": "Port of Safaga, Egypt",
-      "longitude": 33.931,
-      "latitude": 26.733,
-      "name": "Safaga"
+      ]
     },
     {
+      "name": "Sydney",
       "address": "130 Argyle St, The Rocks NSW 2000, Australia",
-      "longitude": 151.2105,
       "latitude": -33.8569,
+      "longitude": 151.2105,
       "aliases": [
         "Overseas Passenger Terminal",
         "White Bay",
         "Circular Quay"
-      ],
-      "name": "Sydney"
+      ]
     },
     {
-      "aliases": [
-        "Station Pier"
-      ],
       "name": "Melbourne",
       "address": "6 Waterfront Pl, Port Melbourne VIC 3207, Australia",
       "latitude": -37.844,
-      "longitude": 144.931
+      "longitude": 144.931,
+      "aliases": [
+        "Station Pier"
+      ]
     },
     {
-      "longitude": 153.149,
       "name": "Brisbane",
       "address": "1 Cruise Terminal Dr, Pinkenba QLD 4008, Australia",
+      "latitude": -27.378,
+      "longitude": 153.149,
       "aliases": [
         "Pinkenba",
         "International Cruise Terminal"
-      ],
-      "latitude": -27.378
+      ]
     },
     {
-      "address": "Princes Wharf, 147 Quay St, Auckland, NZ",
-      "longitude": 174.7635,
       "name": "Auckland",
+      "address": "Princes Wharf, 147 Quay St, Auckland, NZ",
+      "latitude": -36.8415,
+      "longitude": 174.7635,
       "aliases": [
         "Princes Wharf",
         "Queens Wharf"
-      ],
-      "latitude": -36.8415
+      ]
     },
     {
-      "latitude": -41.278,
       "name": "Wellington",
       "address": "Aotea Quay, Pipitea, Wellington, NZ",
+      "latitude": -41.278,
+      "longitude": 174.786,
       "aliases": [
         "CentrePort"
-      ],
-      "longitude": 174.786
+      ]
     },
     {
+      "name": "Perth",
+      "address": "Victoria Quay, Fremantle WA 6160, Australia",
       "latitude": -32.051,
+      "longitude": 115.741,
       "aliases": [
         "Fremantle"
-      ],
-      "address": "Victoria Quay, Fremantle WA 6160, Australia",
-      "longitude": 115.741,
-      "name": "Perth"
+      ]
     },
     {
-      "aliases": [
-        "Outer Harbor"
-      ],
       "name": "Adelaide",
       "address": "Oliver Rogers Rd, Adelaide SA 5018, Australia",
+      "latitude": -34.781,
       "longitude": 138.481,
-      "latitude": -34.781
+      "aliases": [
+        "Outer Harbor"
+      ]
     },
     {
-      "longitude": 147.331,
-      "latitude": -42.881,
       "name": "Hobart",
+      "address": "Macquarie St, Hobart TAS 7000, Australia",
+      "latitude": -42.881,
+      "longitude": 147.331,
       "aliases": [
         "Tasmania"
-      ],
-      "address": "Macquarie St, Hobart TAS 7000, Australia"
+      ]
     },
     {
+      "name": "Christchurch",
+      "address": "Lyttelton Port, Christchurch, NZ",
       "latitude": -43.606,
+      "longitude": 172.716,
       "aliases": [
         "Lyttelton"
-      ],
-      "longitude": 172.716,
-      "name": "Christchurch",
-      "address": "Lyttelton Port, Christchurch, NZ"
+      ]
     },
     {
       "name": "Dunedin",
+      "address": "Beach St, Port Chalmers, NZ",
       "latitude": -45.816,
+      "longitude": 170.616,
       "aliases": [
         "Port Chalmers"
-      ],
-      "address": "Beach St, Port Chalmers, NZ",
-      "longitude": 170.616
+      ]
     },
     {
-      "longitude": -149.566,
       "name": "Papeete",
-      "latitude": -17.536,
       "address": "Quai du Commerce, Papeete, Tahiti",
+      "latitude": -17.536,
+      "longitude": -149.566,
       "aliases": [
         "Tahiti",
         "French Polynesia"
       ]
     },
     {
+      "name": "Bora Bora",
       "address": "Vaitape, Bora Bora, French Polynesia",
+      "latitude": -16.501,
+      "longitude": -151.751,
       "aliases": [
         "Vaitape"
-      ],
-      "longitude": -151.751,
-      "latitude": -16.501,
-      "name": "Bora Bora"
+      ]
     },
     {
+      "name": "Noumea",
       "address": "Quai Jules Ferry, Noumea, New Caledonia",
+      "latitude": -22.276,
       "longitude": 166.441,
       "aliases": [
         "New Caledonia"
-      ],
-      "latitude": -22.276,
-      "name": "Noumea"
+      ]
     },
     {
       "name": "Suva",
+      "address": "Kings Wharf, Suva, Fiji",
       "latitude": -18.141,
+      "longitude": 178.431,
       "aliases": [
         "Fiji"
-      ],
-      "address": "Kings Wharf, Suva, Fiji",
-      "longitude": 178.431
+      ]
     },
     {
+      "name": "Olbia",
+      "address": "Viale Isola Bianca, Olbia, Italy",
+      "latitude": 40.921,
       "longitude": 9.516,
       "aliases": [
         "Sardinia Olbia"
-      ],
-      "address": "Viale Isola Bianca, Olbia, Italy",
-      "name": "Olbia",
-      "latitude": 40.921
+      ]
     },
     {
       "name": "Cagliari",
@@ -1529,209 +1557,209 @@
     },
     {
       "name": "Palermo",
-      "longitude": 13.366,
-      "latitude": 38.126,
       "address": "Molo Vittorio Veneto, Palermo, Italy",
+      "latitude": 38.126,
+      "longitude": 13.366,
       "aliases": [
         "Sicily Palermo"
       ]
     },
     {
+      "name": "Ajaccio",
+      "address": "Quai l'Herminier, Ajaccio, France",
+      "latitude": 41.921,
+      "longitude": 8.741,
       "aliases": [
         "Corsica"
-      ],
-      "address": "Quai l'Herminier, Ajaccio, France",
-      "longitude": 8.741,
-      "name": "Ajaccio",
-      "latitude": 41.921
+      ]
     },
     {
-      "aliases": [
-        "Cinque Terre"
-      ],
       "name": "La Spezia",
       "address": "Molo Garibaldi, La Spezia, Italy",
       "latitude": 44.101,
-      "longitude": 9.831
+      "longitude": 9.831,
+      "aliases": [
+        "Cinque Terre"
+      ]
     },
     {
       "name": "Portofino",
       "address": "Piazza Martiri dell'Olivetta, Portofino, Italy",
-      "longitude": 9.211,
       "latitude": 44.301,
+      "longitude": 9.211,
       "aliases": [
         "Santa Margherita"
       ]
     },
     {
+      "name": "Monaco",
+      "address": "Quai Nouvelle, Monaco",
+      "latitude": 43.736,
+      "longitude": 7.426,
       "aliases": [
         "Monte Carlo",
         "Port Hercules"
-      ],
-      "latitude": 43.736,
-      "longitude": 7.426,
-      "address": "Quai Nouvelle, Monaco",
-      "name": "Monaco"
+      ]
     },
     {
-      "aliases": [
-        "Costa Blanca"
-      ],
-      "longitude": -0.481,
       "name": "Alicante",
       "address": "Muelle de Levante, Alicante, Spain",
-      "latitude": 38.341
+      "latitude": 38.341,
+      "longitude": -0.481,
+      "aliases": [
+        "Costa Blanca"
+      ]
     },
     {
+      "name": "Cartagena Spain",
+      "address": "Muelle de Alfonso XII, Cartagena, Spain",
       "latitude": 37.601,
       "longitude": -0.981,
       "aliases": [
         "Murcia"
-      ],
-      "name": "Cartagena Spain",
-      "address": "Muelle de Alfonso XII, Cartagena, Spain"
+      ]
     },
     {
-      "longitude": -6.291,
-      "latitude": 36.531,
-      "address": "Muelle de Alfonso XIII, Cadiz, Spain",
       "name": "Cadiz",
+      "address": "Muelle de Alfonso XIII, Cadiz, Spain",
+      "latitude": 36.531,
+      "longitude": -6.291,
       "aliases": [
         "Seville"
       ]
     },
     {
+      "name": "Gibraltar",
+      "address": "North Mole, Gibraltar",
+      "latitude": 36.146,
+      "longitude": -5.356,
       "aliases": [
         "The Rock"
-      ],
-      "name": "Gibraltar",
-      "longitude": -5.356,
-      "address": "North Mole, Gibraltar",
-      "latitude": 36.146
+      ]
     },
     {
       "name": "Funchal",
-      "latitude": 32.641,
       "address": "Molhe da Pontinha, Funchal, Portugal",
+      "latitude": 32.641,
       "longitude": -16.911,
       "aliases": [
         "Madeira"
       ]
     },
     {
-      "longitude": -16.241,
       "name": "Santa Cruz",
+      "address": "Muelle de Ribera, Santa Cruz de Tenerife, Spain",
       "latitude": 28.471,
+      "longitude": -16.241,
       "aliases": [
         "Tenerife"
-      ],
-      "address": "Muelle de Ribera, Santa Cruz de Tenerife, Spain"
+      ]
     },
     {
-      "address": "Muelle de Santa Catalina, Las Palmas, Spain",
       "name": "Las Palmas",
+      "address": "Muelle de Santa Catalina, Las Palmas, Spain",
+      "latitude": 28.141,
+      "longitude": -15.421,
       "aliases": [
         "Gran Canaria"
-      ],
-      "latitude": 28.141,
-      "longitude": -15.421
+      ]
     },
     {
       "name": "Arrecife",
-      "aliases": [
-        "Lanzarote"
-      ],
+      "address": "Muelle de los Marmoles, Arrecife, Spain",
       "latitude": 28.971,
       "longitude": -13.531,
-      "address": "Muelle de los Marmoles, Arrecife, Spain"
+      "aliases": [
+        "Lanzarote"
+      ]
     },
     {
-      "longitude": -2.981,
+      "name": "Kirkwall",
       "address": "Hatston Pier, Kirkwall, UK",
+      "latitude": 59.001,
+      "longitude": -2.981,
       "aliases": [
         "Orkney Islands"
-      ],
-      "latitude": 59.001,
-      "name": "Kirkwall"
+      ]
     },
     {
-      "address": "Holmsgarth Terminal, Lerwick, UK",
       "name": "Lerwick",
+      "address": "Holmsgarth Terminal, Lerwick, UK",
       "latitude": 60.166,
+      "longitude": -1.151,
       "aliases": [
         "Shetland Islands"
-      ],
-      "longitude": -1.151
+      ]
     },
     {
-      "latitude": 58.211,
       "name": "Stornoway",
+      "address": "Stornoway Port, UK",
+      "latitude": 58.211,
+      "longitude": -6.381,
       "aliases": [
         "Isle of Lewis"
-      ],
-      "address": "Stornoway Port, UK",
-      "longitude": -6.381
+      ]
     },
     {
       "name": "Honningsvag",
       "address": "Honningsvag Port, Norway",
+      "latitude": 70.981,
       "longitude": 25.971,
       "aliases": [
         "North Cape",
         "Nordkapp"
-      ],
-      "latitude": 70.981
+      ]
     },
     {
+      "name": "Tromso",
+      "address": "Prostneset, Tromso, Norway",
+      "latitude": 69.651,
       "longitude": 18.966,
       "aliases": [
         "Arctic Norway"
-      ],
-      "latitude": 69.651,
-      "name": "Tromso",
-      "address": "Prostneset, Tromso, Norway"
+      ]
     },
     {
       "name": "Geiranger",
-      "latitude": 62.101,
       "address": "Geiranger Port, Norway",
+      "latitude": 62.101,
       "longitude": 7.201,
       "aliases": [
         "Geirangerfjord"
       ]
     },
     {
+      "name": "Flam",
+      "address": "Flam Port, Norway",
       "latitude": 60.866,
+      "longitude": 7.116,
       "aliases": [
         "Sognefjord"
-      ],
-      "longitude": 7.116,
-      "name": "Flam",
-      "address": "Flam Port, Norway"
+      ]
     },
     {
       "name": "Olden",
       "address": "Olden Port, Norway",
+      "latitude": 61.836,
+      "longitude": 6.816,
       "aliases": [
         "Nordfjord"
-      ],
-      "latitude": 61.836,
-      "longitude": 6.816
+      ]
     },
     {
-      "longitude": 5.731,
-      "address": "Strandkaien, Stavanger, Norway",
       "name": "Stavanger",
+      "address": "Strandkaien, Stavanger, Norway",
+      "latitude": 58.971,
+      "longitude": 5.731,
       "aliases": [
         "Ryfylke"
-      ],
-      "latitude": 58.971
+      ]
     },
     {
-      "latitude": 54.181,
-      "address": "Am Passagierkai, Warnemunde, Germany",
-      "longitude": 12.081,
       "name": "Warnemunde",
+      "address": "Am Passagierkai, Warnemunde, Germany",
+      "latitude": 54.181,
+      "longitude": 12.081,
       "aliases": [
         "Berlin Warnemunde",
         "Rostock"
@@ -1739,26 +1767,26 @@
     },
     {
       "name": "Gdynia",
+      "address": "ul. Kwiatkowskiego 60, Gdynia, Poland",
+      "latitude": 54.536,
+      "longitude": 18.541,
       "aliases": [
         "Gdansk",
         "Poland"
-      ],
-      "address": "ul. Kwiatkowskiego 60, Gdynia, Poland",
-      "longitude": 18.541,
-      "latitude": 54.536
+      ]
     },
     {
+      "name": "Riga",
+      "address": "Eksporta iela 3, Riga, Latvia",
       "latitude": 56.961,
+      "longitude": 24.091,
       "aliases": [
         "Latvia"
-      ],
-      "longitude": 24.091,
-      "address": "Eksporta iela 3, Riga, Latvia",
-      "name": "Riga"
+      ]
     },
     {
-      "address": "Priespilio g. 9, Klaipeda, Lithuania",
       "name": "Klaipeda",
+      "address": "Priespilio g. 9, Klaipeda, Lithuania",
       "latitude": 55.706,
       "longitude": 21.121,
       "aliases": [
@@ -1767,66 +1795,66 @@
     },
     {
       "name": "Skagen",
-      "longitude": 10.591,
+      "address": "Vestre Strandvej 10, Skagen, Denmark",
       "latitude": 57.721,
+      "longitude": 10.591,
       "aliases": [
         "Denmark North"
-      ],
-      "address": "Vestre Strandvej 10, Skagen, Denmark"
+      ]
     },
     {
       "name": "Osaka",
+      "address": "3-chōme-11-8 Chikko, Minato Ward, Osaka, Japan",
       "latitude": 34.656,
       "longitude": 135.431,
       "aliases": [
         "Tempozan"
-      ],
-      "address": "3-ch\u014dme-11-8 Chikko, Minato Ward, Osaka, Japan"
+      ]
     },
     {
+      "name": "Kobe",
+      "address": "4-chōme-1-1 Minatojima, Chuo Ward, Kobe, Japan",
       "latitude": 34.681,
+      "longitude": 135.216,
       "aliases": [
         "Port of Kobe"
-      ],
-      "name": "Kobe",
-      "longitude": 135.216,
-      "address": "4-ch\u014dme-1-1 Minatojima, Chuo Ward, Kobe, Japan"
+      ]
     },
     {
+      "name": "Nagasaki",
+      "address": "Matsugaemachi, Nagasaki, Japan",
+      "latitude": 32.736,
+      "longitude": 129.871,
       "aliases": [
         "Matsugae"
-      ],
-      "address": "Matsugaemachi, Nagasaki, Japan",
-      "longitude": 129.871,
-      "latitude": 32.736,
-      "name": "Nagasaki"
+      ]
     },
     {
+      "name": "Fukuoka",
+      "address": "Sekiromachi, Hakata Ward, Fukuoka, Japan",
+      "latitude": 33.606,
       "longitude": 130.401,
       "aliases": [
         "Hakata"
-      ],
-      "address": "Sekiromachi, Hakata Ward, Fukuoka, Japan",
-      "name": "Fukuoka",
-      "latitude": 33.606
+      ]
     },
     {
       "name": "Kagoshima",
       "address": "Honkoshimmachi, Kagoshima, Japan",
       "latitude": 31.596,
+      "longitude": 130.566,
       "aliases": [
         "Sakurajima"
-      ],
-      "longitude": 130.566
+      ]
     },
     {
+      "name": "Hiroshima",
+      "address": "Ujinakaigan, Minami Ward, Hiroshima, Japan",
+      "latitude": 34.351,
       "longitude": 132.466,
       "aliases": [
         "Ujina"
-      ],
-      "address": "Ujinakaigan, Minami Ward, Hiroshima, Japan",
-      "name": "Hiroshima",
-      "latitude": 34.351
+      ]
     },
     {
       "name": "Ishigaki",
@@ -1838,3367 +1866,3340 @@
       ]
     },
     {
-      "aliases": [
-        "Okinawa Naha"
-      ],
       "name": "Naha",
       "address": "Wakasa, Naha, Okinawa, Japan",
+      "latitude": 26.221,
       "longitude": 127.671,
-      "latitude": 26.221
+      "aliases": [
+        "Okinawa Naha"
+      ]
     },
     {
-      "latitude": 5.986,
+      "name": "Kota Kinabalu",
       "address": "Jalan Haji Saman, Kota Kinabalu, Malaysia",
+      "latitude": 5.986,
+      "longitude": 116.076,
       "aliases": [
         "Sabah",
         "Borneo"
-      ],
-      "longitude": 116.076,
-      "name": "Kota Kinabalu"
+      ]
     },
     {
-      "latitude": -8.746,
       "name": "Bali",
       "address": "Benoa Harbour, Bali, Indonesia",
+      "latitude": -8.746,
       "longitude": 115.216,
       "aliases": [
         "Benoa"
       ]
     },
     {
+      "name": "Surabaya",
       "address": "Perak Timur, Surabaya, Indonesia",
       "latitude": -7.201,
+      "longitude": 112.731,
       "aliases": [
         "East Java"
-      ],
-      "name": "Surabaya",
-      "longitude": 112.731
+      ]
     },
     {
-      "longitude": 120.971,
+      "name": "Manila",
+      "address": "South Harbor, Manila, Philippines",
       "latitude": 14.581,
+      "longitude": 120.971,
       "aliases": [
         "Port of Manila"
-      ],
-      "name": "Manila",
-      "address": "South Harbor, Manila, Philippines"
+      ]
     },
     {
-      "latitude": -28.801,
       "name": "Richards Bay",
+      "address": "Port of Richards Bay, South Africa",
+      "latitude": -28.801,
       "longitude": 32.081,
       "aliases": [
         "South Africa Richards Bay"
-      ],
-      "address": "Port of Richards Bay, South Africa"
+      ]
     },
     {
+      "name": "Port Elizabeth",
+      "address": "Port of Port Elizabeth, South Africa",
       "latitude": -33.961,
+      "longitude": 25.631,
       "aliases": [
         "Gqeberha"
-      ],
-      "longitude": 25.631,
-      "address": "Port of Port Elizabeth, South Africa",
-      "name": "Port Elizabeth"
+      ]
     },
     {
       "name": "Walvis Bay",
-      "aliases": [
-        "Namibia"
-      ],
       "address": "Port of Walvis Bay, Namibia",
       "latitude": -22.951,
-      "longitude": 14.501
+      "longitude": 14.501,
+      "aliases": [
+        "Namibia"
+      ]
     },
     {
+      "name": "Seychelles",
       "address": "Port of Victoria, Mahe, Seychelles",
+      "latitude": -4.621,
       "longitude": 55.451,
       "aliases": [
         "Victoria Mahe"
-      ],
-      "latitude": -4.621,
-      "name": "Seychelles"
+      ]
     },
     {
-      "aliases": [
-        "Port Louis"
-      ],
       "name": "Mauritius",
       "address": "Christian Decotter Terminal, Port Louis, Mauritius",
       "latitude": -20.156,
-      "longitude": 57.491
+      "longitude": 57.491,
+      "aliases": [
+        "Port Louis"
+      ]
     },
     {
       "name": "Salalah",
-      "longitude": 54.001,
       "address": "Port of Salalah, Oman",
+      "latitude": 16.941,
+      "longitude": 54.001,
       "aliases": [
         "Oman Salalah"
-      ],
-      "latitude": 16.941
+      ]
     },
     {
       "name": "Khasab",
-      "aliases": [
-        "Musandam"
-      ],
       "address": "Port of Khasab, Oman",
       "latitude": 26.211,
-      "longitude": 56.241
+      "longitude": 56.241,
+      "aliases": [
+        "Musandam"
+      ]
     },
     {
-      "latitude": 26.211,
       "name": "Bahrain",
       "address": "Hidd, Bahrain",
+      "latitude": 26.211,
+      "longitude": 50.711,
       "aliases": [
         "Khalifa Bin Salman Port"
-      ],
-      "longitude": 50.711
+      ]
     },
     {
-      "aliases": [
-        "Mississippi"
-      ],
+      "name": "Gulfport",
       "address": "Port of Gulfport, MS, USA",
       "latitude": 30.361,
-      "name": "Gulfport",
-      "longitude": -89.091
+      "longitude": -89.091,
+      "aliases": [
+        "Mississippi"
+      ]
     },
     {
+      "name": "Progreso Mexico",
+      "address": "Calle 19, Progreso, Mexico",
+      "latitude": 21.284,
+      "longitude": -89.664,
       "aliases": [
         "Yucatan"
-      ],
-      "latitude": 21.284,
-      "name": "Progreso Mexico",
-      "longitude": -89.664,
-      "address": "Calle 19, Progreso, Mexico"
+      ]
     },
     {
+      "name": "Ensenada",
+      "address": "Puerto de Ensenada, Blvd. Costero 390, Zona Centro, 22800 Ensenada, B.C., Mexico",
+      "latitude": 31.843,
+      "longitude": -116.6244,
       "aliases": [
         "Baja California"
-      ],
-      "name": "Ensenada",
-      "address": "Blvd L\u00e1zaro C\u00e1rdenas, Ensenada, Mexico",
-      "latitude": 31.856,
-      "longitude": -116.631
+      ]
     },
     {
-      "address": "Marina Cabo San Lucas, Mexico",
-      "aliases": [
-        "Los Cabos"
-      ],
-      "latitude": 22.881,
-      "longitude": -109.911,
-      "name": "Cabo San Lucas"
-    },
-    {
-      "longitude": -105.241,
-      "aliases": [
-        "Jalisco"
-      ],
-      "address": "Blvd Francisco Medina Ascencio, Puerto Vallarta, Mexico",
-      "latitude": 20.646,
-      "name": "Puerto Vallarta"
-    },
-    {
-      "name": "Mazatlan",
-      "aliases": [
-        "Sinaloa"
-      ],
-      "longitude": -106.416,
-      "latitude": 23.193,
-      "address": "Av. Emilio Barrag\u00e1n, Mazatlan, Mexico"
-    },
-    {
-      "aliases": [
-        "El Salvador"
-      ],
+      "name": "Acajutla",
       "address": "Port of Acajutla, El Salvador",
       "latitude": 13.591,
-      "name": "Acajutla",
-      "longitude": -89.841
+      "longitude": -89.841,
+      "aliases": [
+        "El Salvador"
+      ]
     },
     {
+      "name": "Corinto",
+      "address": "Port of Corinto, Nicaragua",
+      "latitude": 12.481,
+      "longitude": -87.171,
       "aliases": [
         "Nicaragua"
-      ],
-      "address": "Port of Corinto, Nicaragua",
-      "longitude": -87.171,
-      "latitude": 12.481,
-      "name": "Corinto"
+      ]
     },
     {
+      "name": "Puerto Bolivar",
       "address": "Machala, Ecuador",
       "latitude": -3.271,
+      "longitude": -80.001,
       "aliases": [
         "Ecuador"
-      ],
-      "name": "Puerto Bolivar",
-      "longitude": -80.001
+      ]
     },
     {
-      "latitude": -13.841,
       "name": "Pisco",
+      "address": "Port of General San Martin, Paracas, Peru",
+      "latitude": -13.841,
       "longitude": -76.291,
       "aliases": [
         "Paracas",
         "Peru"
-      ],
-      "address": "Port of General San Martin, Paracas, Peru"
+      ]
     },
     {
+      "name": "Puerto Montt",
       "address": "Port of Puerto Montt, Chile",
       "latitude": -41.481,
+      "longitude": -72.941,
       "aliases": [
         "Chile Lakes"
-      ],
-      "name": "Puerto Montt",
-      "longitude": -72.941
+      ]
     },
     {
       "name": "Punta Arenas",
-      "latitude": -53.161,
       "address": "Muelle Prat, Punta Arenas, Chile",
+      "latitude": -53.161,
+      "longitude": -70.911,
       "aliases": [
         "Strait of Magellan"
-      ],
-      "longitude": -70.911
+      ]
     },
     {
-      "aliases": [
-        "Atacama Desert"
-      ],
+      "name": "Iquique",
       "address": "Port of Iquique, Chile",
       "latitude": -20.211,
       "longitude": -70.151,
-      "name": "Iquique"
+      "aliases": [
+        "Atacama Desert"
+      ]
     },
     {
       "name": "Puerto Madryn",
+      "address": "Muelle Luis Piedrabuena, Puerto Madryn, Argentina",
       "latitude": -42.766,
       "longitude": -65.031,
       "aliases": [
         "Patagonia"
-      ],
-      "address": "Muelle Luis Piedrabuena, Puerto Madryn, Argentina"
+      ]
     },
     {
+      "name": "Belo Horizonte",
       "address": "Port of Vitoria, Brazil",
+      "latitude": -20.311,
+      "longitude": -40.311,
       "aliases": [
         "Vitoria Brazil"
-      ],
-      "name": "Belo Horizonte",
-      "longitude": -40.311,
-      "latitude": -20.311
+      ]
     },
     {
-      "aliases": [
-        "Brazil North"
-      ],
+      "name": "Natal",
       "address": "Port of Natal, Brazil",
       "latitude": -5.783,
       "longitude": -35.191,
-      "name": "Natal"
+      "aliases": [
+        "Brazil North"
+      ]
     },
     {
+      "name": "Fortaleza",
+      "address": "Port of Mucuripe, Fortaleza, Brazil",
+      "latitude": -3.711,
+      "longitude": -38.481,
       "aliases": [
         "Ceara"
-      ],
-      "address": "Port of Mucuripe, Fortaleza, Brazil",
-      "longitude": -38.481,
-      "latitude": -3.711,
-      "name": "Fortaleza"
+      ]
     },
     {
       "name": "Manaus",
       "address": "Port of Manaus, Brazil",
       "latitude": -3.131,
+      "longitude": -60.016,
       "aliases": [
         "Amazon River"
-      ],
-      "longitude": -60.016
+      ]
     },
     {
       "name": "Chennai",
       "address": "Rajaji Salai, Chennai, India",
+      "latitude": 13.091,
+      "longitude": 80.291,
       "aliases": [
         "Madras"
-      ],
-      "latitude": 13.091,
-      "longitude": 80.291
+      ]
     },
     {
-      "address": "Panambur, Mangalore, India",
       "name": "Mangalore",
+      "address": "Panambur, Mangalore, India",
       "latitude": 12.911,
+      "longitude": 74.811,
       "aliases": [
         "New Mangalore Port"
-      ],
-      "longitude": 74.811
+      ]
     },
     {
+      "name": "Mormugao",
+      "address": "Mormugao Port, Goa, India",
       "latitude": 15.401,
       "longitude": 73.801,
       "aliases": [
         "Goa"
-      ],
-      "address": "Mormugao Port, Goa, India",
-      "name": "Mormugao"
+      ]
     },
     {
+      "name": "Colombo",
       "address": "Port of Colombo, Sri Lanka",
       "latitude": 6.941,
       "longitude": 79.851,
-      "name": "Colombo",
       "aliases": [
         "Sri Lanka"
       ]
     },
     {
-      "latitude": 4.171,
       "name": "Male",
       "address": "Port of Male, Maldives",
+      "latitude": 4.171,
+      "longitude": 73.501,
       "aliases": [
         "Maldives"
-      ],
-      "longitude": 73.501
+      ]
     },
     {
-      "latitude": 35.451,
-      "address": "Maizuru Port, Kyoto, Japan",
       "name": "Kyoto",
+      "address": "Maizuru Port, Kyoto, Japan",
+      "latitude": 35.451,
+      "longitude": 135.316,
       "aliases": [
         "Maizuru"
-      ],
-      "longitude": 135.316
+      ]
     },
     {
-      "aliases": [
-        "Ishikawa"
-      ],
       "name": "Kanazawa",
       "address": "Kanazawa Port, Japan",
       "latitude": 36.601,
-      "longitude": 136.616
+      "longitude": 136.616,
+      "aliases": [
+        "Ishikawa"
+      ]
     },
     {
+      "name": "Sakaiminato",
       "address": "Sakaiminato Port, Japan",
+      "latitude": 35.536,
+      "longitude": 133.231,
       "aliases": [
         "Tottori"
-      ],
-      "latitude": 35.536,
-      "name": "Sakaiminato",
-      "longitude": 133.231
+      ]
     },
     {
       "name": "Busan New Port",
+      "address": "Gadokdo, Busan, South Korea",
+      "latitude": 35.081,
+      "longitude": 128.831,
       "aliases": [
         "Gadokdo"
-      ],
-      "address": "Gadokdo, Busan, South Korea",
-      "longitude": 128.831,
-      "latitude": 35.081
+      ]
     },
     {
-      "address": "Incheon Cruise Terminal, South Korea",
-      "longitude": 126.601,
       "name": "Incheon",
+      "address": "Incheon Cruise Terminal, South Korea",
+      "latitude": 37.451,
+      "longitude": 126.601,
       "aliases": [
         "Seoul Incheon"
-      ],
-      "latitude": 37.451
+      ]
     },
     {
       "name": "Holyhead",
+      "address": "Holyhead Port, UK",
+      "latitude": 53.311,
+      "longitude": -4.631,
       "aliases": [
         "Anglesey",
         "Wales"
-      ],
-      "address": "Holyhead Port, UK",
-      "longitude": -4.631,
-      "latitude": 53.311
+      ]
     },
     {
+      "name": "Fishguard",
+      "address": "Fishguard Port, UK",
       "latitude": 52.011,
+      "longitude": -4.981,
       "aliases": [
         "Pembrokeshire"
-      ],
-      "address": "Fishguard Port, UK",
-      "longitude": -4.981,
-      "name": "Fishguard"
+      ]
     },
     {
-      "latitude": 50.551,
-      "longitude": -2.441,
       "name": "Portland UK",
       "address": "Castletown, Portland DT5 1PP, UK",
+      "latitude": 50.551,
+      "longitude": -2.441,
       "aliases": [
         "Weymouth",
         "Dorset"
       ]
     },
     {
+      "name": "Falmouth UK",
+      "address": "County Wharf, Falmouth TR11 4NR, UK",
+      "latitude": 50.151,
+      "longitude": -5.061,
       "aliases": [
         "Cornwall"
-      ],
-      "address": "County Wharf, Falmouth TR11 4NR, UK",
-      "name": "Falmouth UK",
-      "latitude": 50.151,
-      "longitude": -5.061
+      ]
     },
     {
+      "name": "Guernsey",
       "address": "St Peter Port, Guernsey",
-      "longitude": -2.531,
       "latitude": 49.456,
+      "longitude": -2.531,
       "aliases": [
         "St. Peter Port"
-      ],
-      "name": "Guernsey"
+      ]
     },
     {
       "name": "Jersey",
-      "aliases": [
-        "St. Helier"
-      ],
+      "address": "Elizabeth Terminal, St Helier, Jersey",
       "latitude": 49.181,
       "longitude": -2.111,
-      "address": "Elizabeth Terminal, St Helier, Jersey"
+      "aliases": [
+        "St. Helier"
+      ]
     },
     {
-      "longitude": -1.611,
-      "address": "Quai de France, 50100 Cherbourg, France",
       "name": "Cherbourg",
+      "address": "Quai de France, 50100 Cherbourg, France",
+      "latitude": 49.646,
+      "longitude": -1.611,
       "aliases": [
         "Normandy"
-      ],
-      "latitude": 49.646
+      ]
     },
     {
-      "latitude": 49.421,
       "name": "Honfleur",
+      "address": "Quai de la Jetée East, 14600 Honfleur, France",
+      "latitude": 49.421,
       "longitude": 0.231,
-      "address": "Quai de la Jet\u00e9e East, 14600 Honfleur, France",
       "aliases": [
         "Seine River"
       ]
     },
     {
+      "name": "Lorient",
+      "address": "Port de Lorient, France",
       "latitude": 47.741,
       "longitude": -3.361,
-      "address": "Port de Lorient, France",
       "aliases": [
         "Brittany"
-      ],
-      "name": "Lorient"
+      ]
     },
     {
       "name": "Bilbao",
-      "longitude": -3.011,
-      "latitude": 43.351,
       "address": "Muelle de Cruceros, Getxo, Spain",
+      "latitude": 43.351,
+      "longitude": -3.011,
       "aliases": [
         "Getxo"
       ]
     },
     {
-      "aliases": [
-        "Asturias"
-      ],
       "name": "Gijon",
+      "address": "Puerto de El Musel, Gijon, Spain",
       "latitude": 43.551,
       "longitude": -5.701,
-      "address": "Puerto de El Musel, Gijon, Spain"
+      "aliases": [
+        "Asturias"
+      ]
     },
     {
-      "address": "Muelle de Trasatl\u00e1nticos, La Coru\u00f1a, Spain",
-      "name": "La Coru\u00f1a",
+      "name": "La Coruña",
+      "address": "Muelle de Trasatlánticos, La Coruña, Spain",
+      "latitude": 43.371,
+      "longitude": -8.401,
       "aliases": [
         "Galicia"
-      ],
-      "latitude": 43.371,
-      "longitude": -8.401
+      ]
     },
     {
-      "longitude": -8.731,
       "name": "Vigo",
+      "address": "Muelle de Trasatlánticos, Vigo, Spain",
       "latitude": 42.241,
-      "address": "Muelle de Trasatl\u00e1nticos, Vigo, Spain",
+      "longitude": -8.731,
       "aliases": [
         "Rias Baixas"
       ]
     },
     {
-      "aliases": [
-        "Leix\u00f5es"
-      ],
-      "address": "Terminal de Cruzeiros de Leix\u00f5es, Matosinhos, Portugal",
       "name": "Porto",
+      "address": "Terminal de Cruzeiros de Leixões, Matosinhos, Portugal",
+      "latitude": 41.181,
       "longitude": -8.701,
-      "latitude": 41.181
+      "aliases": [
+        "Leixões"
+      ]
     },
     {
+      "name": "Portimão",
+      "address": "Cais Comercial de Portimão, Portugal",
+      "latitude": 37.126,
       "longitude": -8.531,
       "aliases": [
         "Algarve"
-      ],
-      "name": "Portim\u00e3o",
-      "address": "Cais Comercial de Portim\u00e3o, Portugal",
-      "latitude": 37.126
+      ]
     },
     {
       "name": "Celebration Key",
-      "aliases": [
-        "Celebration Key Port"
-      ],
       "address": "Celebration Key, Grand Bahama, Bahamas",
       "latitude": 26.51,
-      "longitude": -78.71
+      "longitude": -78.71,
+      "aliases": [
+        "Celebration Key Port"
+      ]
     },
     {
       "name": "Amber Cove",
+      "address": "Maimón, Puerto Plata 57000, Dominican Republic",
+      "latitude": 19.8326,
+      "longitude": -70.7739,
       "aliases": [
         "Amber Cove Port"
-      ],
-      "address": "Amber Cove",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Taino Bay",
+      "address": "Av. Antigua Vía Férrea, Puerto Plata 57000, Dominican Republic",
+      "latitude": 19.7984,
+      "longitude": -70.7015,
       "aliases": [
         "Taino Bay Port"
-      ],
-      "address": "Taino Bay",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Cabo Rojo",
-      "aliases": [
-        "Cabo Rojo Port"
-      ],
       "address": "Cabo Rojo, Pedernales, Dominican Republic",
       "latitude": 17.915,
-      "longitude": -71.655
+      "longitude": -71.655,
+      "aliases": [
+        "Cabo Rojo Port"
+      ]
     },
     {
       "name": "Banana Coast",
+      "address": "Banana Coast Cruise Terminal, Trujillo, Honduras",
+      "latitude": 15.922,
+      "longitude": -85.953,
       "aliases": [
         "Banana Coast Port"
-      ],
-      "address": "Banana Coast",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Scarborough",
+      "address": "Port of Scarborough, Tobago, Trinidad and Tobago",
+      "latitude": 11.1771,
+      "longitude": -60.7378,
       "aliases": [
         "Scarborough Port"
-      ],
-      "address": "Scarborough",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Roseau",
-      "aliases": [
-        "Roseau Port"
-      ],
       "address": "Roseau, Dominica, Dominica",
       "latitude": 15.3,
-      "longitude": -61.38
+      "longitude": -61.38,
+      "aliases": [
+        "Roseau Port"
+      ]
     },
     {
       "name": "St. Vincent",
+      "address": "Cruise Terminal, Kingstown, St. Vincent and the Grenadines",
+      "latitude": 13.155,
+      "longitude": -61.225,
       "aliases": [
         "St. Vincent Port"
-      ],
-      "address": "St. Vincent",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Kingstown",
+      "address": "Cruise Terminal, Kingstown, St. Vincent and the Grenadines",
+      "latitude": 13.155,
+      "longitude": -61.225,
       "aliases": [
         "Kingstown Port"
-      ],
-      "address": "Kingstown, Saint Vincent, St. Vincent",
-      "latitude": 13.15,
-      "longitude": -61.23
+      ]
     },
     {
       "name": "Santo Domingo",
-      "aliases": [
-        "Santo Domingo Port"
-      ],
       "address": "Santo Domingo, Distrito Nacional, Dominican Republic",
       "latitude": 18.47,
-      "longitude": -69.88
+      "longitude": -69.88,
+      "aliases": [
+        "Santo Domingo Port"
+      ]
     },
     {
       "name": "Samana",
+      "address": "Samaná Bay, Dominican Republic (Tender Port)",
+      "latitude": 19.2056,
+      "longitude": -69.3369,
       "aliases": [
         "Samana Port"
-      ],
-      "address": "Samana",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Punta Cana",
+      "address": "Cap Cana Marina, Punta Cana, Dominican Republic (Tender Port)",
+      "latitude": 18.469,
+      "longitude": -68.419,
       "aliases": [
         "Punta Cana Port"
-      ],
-      "address": "Punta Cana",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "La Romana",
-      "aliases": [
-        "La Romana Port"
-      ],
       "address": "La Romana, La Romana, Dominican Republic",
       "latitude": 18.42,
-      "longitude": -68.95
+      "longitude": -68.95,
+      "aliases": [
+        "La Romana Port"
+      ]
     },
     {
       "name": "Cap Cana",
+      "address": "Cap Cana Marina, Punta Cana, Dominican Republic",
+      "latitude": 18.469,
+      "longitude": -68.419,
       "aliases": [
         "Cap Cana Port"
-      ],
-      "address": "Cap Cana",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "St. Croix",
+      "address": "St. Croix, Virgin Islands, Virgin Is. (U.S.A.)",
+      "latitude": 17.69,
+      "longitude": -64.74,
       "aliases": [
         "St. Croix Port",
         "St Croix"
-      ],
-      "address": "St. Croix, Virgin Islands, Virgin Is. (U.S.A.)",
-      "latitude": 17.69,
-      "longitude": -64.74
+      ]
     },
     {
       "name": "Frederiksted",
+      "address": "Frederiksted, Østfold, Norway",
+      "latitude": 59.21,
+      "longitude": 10.96,
       "aliases": [
         "Frederiksted Port",
         "Fredrikstad"
-      ],
-      "address": "Frederiksted, \u00d8stfold, Norway",
-      "latitude": 59.21,
-      "longitude": 10.96
+      ]
     },
     {
       "name": "Tortola",
+      "address": "Cruise Pier, Road Town, Tortola, British Virgin Islands",
+      "latitude": 18.4231,
+      "longitude": -64.6163,
       "aliases": [
         "Tortola Port"
-      ],
-      "address": "Tortola",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Road Town",
-      "aliases": [
-        "Road Town Port"
-      ],
       "address": "Road Town, Tortola, Virgin Is. (U.K.)",
       "latitude": 18.42,
-      "longitude": -64.61
+      "longitude": -64.61,
+      "aliases": [
+        "Road Town Port"
+      ]
     },
     {
       "name": "St. Kitts",
+      "address": "Port Zante, Basseterre, St. Kitts & Nevis",
+      "latitude": 17.2908,
+      "longitude": -62.722,
       "aliases": [
         "St. Kitts Port"
-      ],
-      "address": "St. Kitts",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Basseterre",
-      "aliases": [
-        "Basseterre Port"
-      ],
       "address": "Basseterre, St. Kitts, St. Kitts",
       "latitude": 17.29,
-      "longitude": -62.72
+      "longitude": -62.72,
+      "aliases": [
+        "Basseterre Port"
+      ]
     },
     {
       "name": "Antigua",
+      "address": "Heritage Quay, High St, St John's, Antigua & Barbuda",
+      "latitude": 17.1232,
+      "longitude": -61.8455,
       "aliases": [
         "Antigua Port"
-      ],
-      "address": "Antigua",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "St. Lucia",
-      "aliases": [
-        "St. Lucia Port"
-      ],
       "address": "St. Lucia, St. Lucia, St. Lucia",
       "latitude": 13.99,
-      "longitude": -61.02
+      "longitude": -61.02,
+      "aliases": [
+        "St. Lucia Port"
+      ]
     },
     {
       "name": "Castries",
-      "aliases": [
-        "Castries Port"
-      ],
       "address": "Castries, Castries., St. Lucia",
       "latitude": 14.01,
-      "longitude": -60.99
+      "longitude": -60.99,
+      "aliases": [
+        "Castries Port"
+      ]
     },
     {
       "name": "Barbados",
+      "address": "Port of Bridgetown, University Row, Bridgetown, Barbados",
+      "latitude": 13.106,
+      "longitude": -59.632,
       "aliases": [
         "Barbados Port"
-      ],
-      "address": "Barbados",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Bridgetown",
-      "aliases": [
-        "Bridgetown Port"
-      ],
       "address": "Bridgetown, Saint Michael, Barbados",
       "latitude": 13.11,
-      "longitude": -59.63
+      "longitude": -59.63,
+      "aliases": [
+        "Bridgetown Port"
+      ]
     },
     {
       "name": "Grenada",
+      "address": "Grenada, Central Denmark, Denmark",
+      "latitude": 56.42,
+      "longitude": 10.93,
       "aliases": [
         "Grenada Port",
         "Grenaa"
-      ],
-      "address": "Grenada, Central Denmark, Denmark",
-      "latitude": 56.42,
-      "longitude": 10.93
+      ]
     },
     {
       "name": "Bonaire",
-      "aliases": [
-        "Bonaire Port"
-      ],
       "address": "Bonaire, Bonaire, Netherlands Antilles",
       "latitude": 12.15,
-      "longitude": -68.28
+      "longitude": -68.28,
+      "aliases": [
+        "Bonaire Port"
+      ]
     },
     {
       "name": "Kralendijk",
-      "aliases": [
-        "Kralendijk Port"
-      ],
       "address": "Kralendijk, Bonaire, Netherlands Antilles",
       "latitude": 12.15,
-      "longitude": -68.28
+      "longitude": -68.28,
+      "aliases": [
+        "Kralendijk Port"
+      ]
     },
     {
       "name": "Aruba",
-      "aliases": [
-        "Aruba Port"
-      ],
       "address": "Aruba, Netherlands Antilles, Netherlands Antilles",
       "latitude": 12.37,
-      "longitude": -70.17
+      "longitude": -70.17,
+      "aliases": [
+        "Aruba Port"
+      ]
     },
     {
       "name": "Oranjestad",
-      "aliases": [
-        "Oranjestad Port"
-      ],
       "address": "Oranjestad, Caribbean Netherlands, Netherlands Antilles",
       "latitude": 17.5,
-      "longitude": -63.01
+      "longitude": -63.01,
+      "aliases": [
+        "Oranjestad Port"
+      ]
     },
     {
       "name": "Curacao",
+      "address": "Curacao, Curaçao, Netherlands Antilles",
+      "latitude": 12.17,
+      "longitude": -69.17,
       "aliases": [
         "Curacao Port",
-        "Cura\u00e7ao"
-      ],
-      "address": "Curacao, Cura\u00e7ao, Netherlands Antilles",
-      "latitude": 12.17,
-      "longitude": -69.17
+        "Curaçao"
+      ]
     },
     {
       "name": "Willemstad",
+      "address": "Willemstad, Curaçao, Netherlands Antilles",
+      "latitude": 12.11,
+      "longitude": -68.93,
       "aliases": [
         "Willemstad Port"
-      ],
-      "address": "Willemstad, Cura\u00e7ao, Netherlands Antilles",
-      "latitude": 12.11,
-      "longitude": -68.93
+      ]
     },
     {
       "name": "Martinique",
+      "address": "Port de Fort-de-France, 97200, Martinique",
+      "latitude": 14.6022,
+      "longitude": -61.0709,
       "aliases": [
         "Martinique Port"
-      ],
-      "address": "Martinique",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Fort de France",
+      "address": "Fort de France, Martinique, Martinique",
+      "latitude": 14.59,
+      "longitude": -61.05,
       "aliases": [
         "Fort de France Port",
         "Fort-de-France"
-      ],
-      "address": "Fort de France, Martinique, Martinique",
-      "latitude": 14.59,
-      "longitude": -61.05
+      ]
     },
     {
       "name": "Guadeloupe",
+      "address": "Cruise Terminal, Pointe-à-Pitre, Grande-Terre, Guadeloupe",
+      "latitude": 16.2385,
+      "longitude": -61.5391,
       "aliases": [
         "Guadeloupe Port"
-      ],
-      "address": "Guadeloupe",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Pointe a Pitre",
+      "address": "Cruise Terminal, Pointe-à-Pitre, Grande-Terre, Guadeloupe",
+      "latitude": 16.2385,
+      "longitude": -61.5391,
       "aliases": [
         "Pointe a Pitre Port"
-      ],
-      "address": "Pointe a Pitre",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Dominica",
+      "address": "Roseau Cruise Ship Terminal, Roseau, Dominica",
+      "latitude": 15.297,
+      "longitude": -61.391,
       "aliases": [
         "Dominica Port"
-      ],
-      "address": "Dominica",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Trinidad",
-      "aliases": [
-        "Trinidad Port"
-      ],
       "address": "Trinidad, Trinidad and Tobago, Trinidad and Tobago",
       "latitude": 10.5,
-      "longitude": -62.0
+      "longitude": -62.0,
+      "aliases": [
+        "Trinidad Port"
+      ]
     },
     {
       "name": "Port of Spain",
-      "aliases": [
-        "Port of Spain Port"
-      ],
       "address": "Port of Spain, Trinidad and Tobago, Trinidad and Tobago",
       "latitude": 10.65,
-      "longitude": -61.53
+      "longitude": -61.53,
+      "aliases": [
+        "Port of Spain Port"
+      ]
     },
     {
       "name": "Tobago",
+      "address": "Port of Scarborough, Tobago, Trinidad and Tobago",
+      "latitude": 11.1771,
+      "longitude": -60.7378,
       "aliases": [
         "Tobago Port"
-      ],
-      "address": "Tobago",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Grand Turk",
-      "aliases": [
-        "Grand Turk Port"
-      ],
       "address": "Grand Turk, Turks and Caicos Islands, Turks and Caicos Is.",
       "latitude": 21.47,
-      "longitude": -71.15
+      "longitude": -71.15,
+      "aliases": [
+        "Grand Turk Port"
+      ]
     },
     {
       "name": "Puerto Plata",
-      "aliases": [
-        "Puerto Plata Port"
-      ],
       "address": "Puerto Plata, Puerto Plata Province, Dominican Republic",
       "latitude": 19.8,
-      "longitude": -70.7
+      "longitude": -70.7,
+      "aliases": [
+        "Puerto Plata Port"
+      ]
     },
     {
       "name": "Loreto",
+      "address": "Puerto de Loreto, Baja California Sur, Mexico",
+      "latitude": 26.0122,
+      "longitude": -111.3489,
       "aliases": [
         "Loreto Port"
-      ],
-      "address": "Loreto",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "La Paz",
-      "aliases": [
-        "La Paz Port"
-      ],
       "address": "La Paz, Baja California Sur, Mexico",
       "latitude": 24.22,
-      "longitude": -110.31
+      "longitude": -110.31,
+      "aliases": [
+        "La Paz Port"
+      ]
     },
     {
       "name": "Guaymas",
-      "aliases": [
-        "Guaymas Port"
-      ],
       "address": "Guaymas, Sonora, Mexico",
       "latitude": 27.91,
-      "longitude": -110.88
+      "longitude": -110.88,
+      "aliases": [
+        "Guaymas Port"
+      ]
     },
     {
       "name": "Topolobampo",
-      "aliases": [
-        "Topolobampo Port"
-      ],
       "address": "Topolobampo, Sinaloa, Mexico",
       "latitude": 25.59,
-      "longitude": -109.05
+      "longitude": -109.05,
+      "aliases": [
+        "Topolobampo Port"
+      ]
     },
     {
       "name": "Santa Rosalia",
+      "address": "Port of Santa Rosalia, Baja California Sur, Mexico",
+      "latitude": 27.3374,
+      "longitude": -112.261,
       "aliases": [
         "Santa Rosalia Port"
-      ],
-      "address": "Santa Rosalia",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Huatulco",
+      "address": "Santa Cruz Bay Cruise Terminal, Huatulco, Oaxaca, Mexico",
+      "latitude": 15.759,
+      "longitude": -96.13,
       "aliases": [
         "Huatulco Port"
-      ],
-      "address": "Huatulco",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Manzanillo",
-      "aliases": [
-        "Manzanillo Port"
-      ],
       "address": "Manzanillo, Colima, Mexico",
       "latitude": 19.06,
-      "longitude": -104.32
+      "longitude": -104.32,
+      "aliases": [
+        "Manzanillo Port"
+      ]
     },
     {
       "name": "Ixtapa",
+      "address": "Zihuatanejo Pier, Zihuatanejo, Guerrero, Mexico (Tender)",
+      "latitude": 17.6434,
+      "longitude": -101.5521,
       "aliases": [
         "Ixtapa Port"
-      ],
-      "address": "Ixtapa",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Zihuatanejo",
+      "address": "Zihuatanejo Pier, Zihuatanejo, Guerrero, Mexico (Tender)",
+      "latitude": 17.6434,
+      "longitude": -101.5521,
       "aliases": [
         "Zihuatanejo Port"
-      ],
-      "address": "Zihuatanejo",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Puerto Chiapas",
+      "address": "Puerto Chiapas Cruise Terminal, Tapachula, Chiapas, Mexico",
+      "latitude": 14.697,
+      "longitude": -92.411,
       "aliases": [
         "Puerto Chiapas Port"
-      ],
-      "address": "Puerto Chiapas",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Acapulco",
+      "address": "Terminal Marítima de Acapulco, Costera Miguel Alemán, Acapulco, Guerrero, Mexico",
+      "latitude": 16.8362,
+      "longitude": -99.8815,
       "aliases": [
         "Acapulco Port"
-      ],
-      "address": "Acapulco",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Puerto Quetzal",
-      "aliases": [
-        "Puerto Quetzal Port"
-      ],
       "address": "Puerto Quetzal, Escuintla, Guatemala",
       "latitude": 13.92,
-      "longitude": -90.8
+      "longitude": -90.8,
+      "aliases": [
+        "Puerto Quetzal Port"
+      ]
     },
     {
       "name": "Santo Tomas de Castilla",
-      "aliases": [
-        "Santo Tomas de Castilla Port"
-      ],
       "address": "Santo Tomas de Castilla, Izabal, Guatemala",
       "latitude": 15.7,
-      "longitude": -88.62
+      "longitude": -88.62,
+      "aliases": [
+        "Santo Tomas de Castilla Port"
+      ]
     },
     {
       "name": "San Juan del Sur",
+      "address": "San Juan del Sur Cruise Port, Rivas, Nicaragua (Tender)",
+      "latitude": 11.2529,
+      "longitude": -85.8705,
       "aliases": [
         "San Juan del Sur Port"
-      ],
-      "address": "San Juan del Sur",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Golfito",
+      "address": "Golfito Cruise Terminal, Puntarenas Province, Costa Rica",
+      "latitude": 8.6197,
+      "longitude": -83.1542,
       "aliases": [
         "Golfito Port"
-      ],
-      "address": "Golfito",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Quepos",
+      "address": "Marina Pez Vela, Quepos, Costa Rica (Tender)",
+      "latitude": 9.4259,
+      "longitude": -84.1707,
       "aliases": [
         "Quepos Port"
-      ],
-      "address": "Quepos",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Fuerte Amador",
+      "address": "Pacific Cruise Terminal, Amador Causeway, Panama City, Panama",
+      "latitude": 8.9333,
+      "longitude": -79.55,
       "aliases": [
         "Fuerte Amador Port"
-      ],
-      "address": "Fuerte Amador",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Manta",
+      "address": "Manta, Manabí, Ecuador",
+      "latitude": -0.93,
+      "longitude": -80.72,
       "aliases": [
         "Manta Port"
-      ],
-      "address": "Manta, Manab\u00ed, Ecuador",
-      "latitude": -0.93,
-      "longitude": -80.72
+      ]
     },
     {
       "name": "Guayaquil",
-      "aliases": [
-        "Guayaquil Port"
-      ],
       "address": "Guayaquil, Guayas, Ecuador",
       "latitude": -2.28,
-      "longitude": -79.91
+      "longitude": -79.91,
+      "aliases": [
+        "Guayaquil Port"
+      ]
     },
     {
       "name": "Salaverry",
-      "aliases": [
-        "Salaverry Port"
-      ],
       "address": "Salaverry, La Libertad, Peru",
       "latitude": -8.23,
-      "longitude": -78.99
+      "longitude": -78.99,
+      "aliases": [
+        "Salaverry Port"
+      ]
     },
     {
       "name": "Ilhabela",
+      "address": "Ilhabela, São Paulo, Brazil",
+      "latitude": -23.81,
+      "longitude": -45.38,
       "aliases": [
         "Ilhabela Port"
-      ],
-      "address": "Ilhabela, S\u00e3o Paulo, Brazil",
-      "latitude": -23.81,
-      "longitude": -45.38
+      ]
     },
     {
       "name": "Buzios",
+      "address": "Cais do Centro, Armação dos Búzios, RJ, Brazil (Tender)",
+      "latitude": -22.7485,
+      "longitude": -41.8856,
       "aliases": [
         "Buzios Port"
-      ],
-      "address": "Buzios",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Angra dos Reis",
-      "aliases": [
-        "Angra dos Reis Port"
-      ],
       "address": "Angra dos Reis, Rio de Janeiro, Brazil",
       "latitude": -23.01,
-      "longitude": -44.31
+      "longitude": -44.31,
+      "aliases": [
+        "Angra dos Reis Port"
+      ]
     },
     {
       "name": "Paranagua",
+      "address": "Paranagua, Paraná, Brazil",
+      "latitude": -25.5,
+      "longitude": -48.51,
       "aliases": [
         "Paranagua Port",
-        "Paranagu\u00e1"
-      ],
-      "address": "Paranagua, Paran\u00e1, Brazil",
-      "latitude": -25.5,
-      "longitude": -48.51
+        "Paranaguá"
+      ]
     },
     {
       "name": "Itajai",
+      "address": "Porto de Itajaí, Rua Blumenau, Itajaí - SC, Brazil",
+      "latitude": -26.9039,
+      "longitude": -48.6586,
       "aliases": [
         "Itajai Port"
-      ],
-      "address": "Itajai",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Punta del Este",
+      "address": "Puerto de Punta del Este, Maldonado, Uruguay (Tender)",
+      "latitude": -34.9667,
+      "longitude": -54.95,
       "aliases": [
         "Punta del Este Port"
-      ],
-      "address": "Punta del Este",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Comodoro Rivadavia",
-      "aliases": [
-        "Comodoro Rivadavia Port"
-      ],
       "address": "Comodoro Rivadavia, Chubut, Argentina",
       "latitude": -46.42,
-      "longitude": -67.47
+      "longitude": -67.47,
+      "aliases": [
+        "Comodoro Rivadavia Port"
+      ]
     },
     {
       "name": "Puerto Chacabuco",
+      "address": "Puerto Chacabuco, Aysén, Chile",
+      "latitude": -45.47,
+      "longitude": -72.83,
       "aliases": [
         "Puerto Chacabuco Port"
-      ],
-      "address": "Puerto Chacabuco, Ays\u00e9n, Chile",
-      "latitude": -45.47,
-      "longitude": -72.83
+      ]
     },
     {
       "name": "Coquimbo",
-      "aliases": [
-        "Coquimbo Port"
-      ],
       "address": "Coquimbo, Coquimbo, Chile",
       "latitude": -29.95,
-      "longitude": -71.33
+      "longitude": -71.33,
+      "aliases": [
+        "Coquimbo Port"
+      ]
     },
     {
       "name": "La Serena",
+      "address": "Puerto de Coquimbo, Av. Costanera, Coquimbo, Chile",
+      "latitude": -29.953,
+      "longitude": -71.336,
       "aliases": [
         "La Serena Port"
-      ],
-      "address": "La Serena",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Arica",
-      "aliases": [
-        "Arica Port"
-      ],
       "address": "Arica, Arica y Parinacota, Chile",
       "latitude": -18.46,
-      "longitude": -70.32
+      "longitude": -70.32,
+      "aliases": [
+        "Arica Port"
+      ]
     },
     {
       "name": "General San Martin",
+      "address": "Terminal Portuario Paracas, Pisco, Peru",
+      "latitude": -13.8053,
+      "longitude": -76.319,
       "aliases": [
         "General San Martin Port"
-      ],
-      "address": "General San Martin",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Lima",
+      "address": "Lima, Bataan, Philippines",
+      "latitude": 14.52,
+      "longitude": 120.64,
       "aliases": [
         "Lima Port",
         "Limay"
-      ],
-      "address": "Lima, Bataan, Philippines",
-      "latitude": 14.52,
-      "longitude": 120.64
+      ]
     },
     {
       "name": "Akureyri",
+      "address": "Port of Akureyri, Fiskitangi, 600 Akureyri, Iceland",
+      "latitude": 65.6835,
+      "longitude": -18.0878,
       "aliases": [
         "Akureyri Port"
-      ],
-      "address": "Akureyri",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Isafjordur",
+      "address": "Port of Ísafjörður, Sundahöfn, 400 Ísafjörður, Iceland",
+      "latitude": 66.0748,
+      "longitude": -23.135,
       "aliases": [
         "Isafjordur Port"
-      ],
-      "address": "Isafjordur",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Seydisfjordur",
+      "address": "Port of Seyðisfjörður, 710 Seyðisfjörður, Iceland",
+      "latitude": 65.2662,
+      "longitude": -13.9981,
       "aliases": [
         "Seydisfjordur Port"
-      ],
-      "address": "Seydisfjordur",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Grundarfjordur",
+      "address": "Grundarfjörður Port, 350 Grundarfjörður, Iceland",
+      "latitude": 64.9247,
+      "longitude": -23.2639,
       "aliases": [
         "Grundarfjordur Port"
-      ],
-      "address": "Grundarfjordur",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Djupivogur",
+      "address": "Djúpivogur Port, 765 Djúpivogur, Iceland",
+      "latitude": 64.65,
+      "longitude": -14.2833,
       "aliases": [
         "Djupivogur Port"
-      ],
-      "address": "Djupivogur",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Heimaey",
+      "address": "Vestmannaeyjar Harbour, 900 Vestmannaeyjar, Iceland",
+      "latitude": 63.4417,
+      "longitude": -20.2767,
       "aliases": [
         "Heimaey Port"
-      ],
-      "address": "Heimaey",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Qaqortoq",
-      "aliases": [
-        "Qaqortoq Port"
-      ],
       "address": "Qaqortoq, Kujalleq, Greenland",
       "latitude": 60.71,
-      "longitude": -46.04
+      "longitude": -46.04,
+      "aliases": [
+        "Qaqortoq Port"
+      ]
     },
     {
       "name": "Nanortalik",
+      "address": "Nanortalik Harbour, Nanortalik, Greenland (Tender)",
+      "latitude": 60.1391,
+      "longitude": -45.2391,
       "aliases": [
         "Nanortalik Port"
-      ],
-      "address": "Nanortalik",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Nuuk",
-      "aliases": [
-        "Nuuk Port"
-      ],
       "address": "Nuuk, Nuuk, Greenland",
       "latitude": 64.17,
-      "longitude": -51.72
+      "longitude": -51.72,
+      "aliases": [
+        "Nuuk Port"
+      ]
     },
     {
       "name": "Longyearbyen",
+      "address": "Bykaia, Longyearbyen, Svalbard and Jan Mayen",
+      "latitude": 78.2233,
+      "longitude": 15.6469,
       "aliases": [
         "Longyearbyen Port"
-      ],
-      "address": "Longyearbyen",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Molde",
+      "address": "Molde, Møre og Romsdal, Norway",
+      "latitude": 58.93,
+      "longitude": 5.6,
       "aliases": [
         "Molde Port"
-      ],
-      "address": "Molde, M\u00f8re og Romsdal, Norway",
-      "latitude": 58.93,
-      "longitude": 5.6
+      ]
     },
     {
       "name": "Andalsnes",
+      "address": "Åndalsnes Cruise Quay, Jernbanegata, 6300 Åndalsnes, Norway",
+      "latitude": 62.5681,
+      "longitude": 7.6772,
       "aliases": [
         "Andalsnes Port"
-      ],
-      "address": "Andalsnes",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Trondheim",
+      "address": "Trondheim, Trøndelag, Norway",
+      "latitude": 63.44,
+      "longitude": 10.41,
       "aliases": [
         "Trondheim Port"
-      ],
-      "address": "Trondheim, Tr\u00f8ndelag, Norway",
-      "latitude": 63.44,
-      "longitude": 10.41
+      ]
     },
     {
       "name": "Bodo",
-      "aliases": [
-        "Bodo Port"
-      ],
       "address": "Bodo, Nordland, Norway",
       "latitude": 67.4,
-      "longitude": 14.44
+      "longitude": 14.44,
+      "aliases": [
+        "Bodo Port"
+      ]
     },
     {
       "name": "Leknes",
+      "address": "Leknes Havn, 8370 Leknes, Norway (Tender)",
+      "latitude": 68.1332,
+      "longitude": 13.6094,
       "aliases": [
         "Leknes Port"
-      ],
-      "address": "Leknes",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Alta",
+      "address": "Alta Havn, 9500 Alta, Norway",
+      "latitude": 69.9768,
+      "longitude": 23.2963,
       "aliases": [
         "Alta Port"
-      ],
-      "address": "Alta",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Hammerfest",
-      "aliases": [
-        "Hammerfest Port"
-      ],
       "address": "Hammerfest, Finnmark, Norway",
       "latitude": 70.68,
-      "longitude": 23.6
+      "longitude": 23.6,
+      "aliases": [
+        "Hammerfest Port"
+      ]
     },
     {
       "name": "Kirkenes",
-      "aliases": [
-        "Kirkenes Port"
-      ],
       "address": "Kirkenes, Finnmark, Norway",
       "latitude": 69.74,
-      "longitude": 30.06
+      "longitude": 30.06,
+      "aliases": [
+        "Kirkenes Port"
+      ]
     },
     {
       "name": "Eidfjord",
+      "address": "Eidfjord Cruise Port, Ostangvegen 23, 5783 Eidfjord, Norway",
+      "latitude": 60.471,
+      "longitude": 7.067,
       "aliases": [
         "Eidfjord Port"
-      ],
-      "address": "Eidfjord",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Vik",
+      "address": "Vik Cruise Pier, 6893 Vik i Sogn, Norway",
+      "latitude": 61.0886,
+      "longitude": 6.5851,
       "aliases": [
         "Vik Port"
-      ],
-      "address": "Vik",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Kristiansand",
-      "aliases": [
-        "Kristiansand Port"
-      ],
       "address": "Kristiansand, Agder, Norway",
       "latitude": 58.14,
-      "longitude": 7.99
+      "longitude": 7.99,
+      "aliases": [
+        "Kristiansand Port"
+      ]
     },
     {
       "name": "Arendal",
-      "aliases": [
-        "Arendal Port"
-      ],
       "address": "Arendal, Agder, Norway",
       "latitude": 58.46,
-      "longitude": 8.77
+      "longitude": 8.77,
+      "aliases": [
+        "Arendal Port"
+      ]
     },
     {
       "name": "Gothenburg",
+      "address": "Gothenburg, Västra Götaland, Sweden",
+      "latitude": 59.34,
+      "longitude": 13.12,
       "aliases": [
         "Gothenburg Port"
-      ],
-      "address": "Gothenburg, V\u00e4stra G\u00f6taland, Sweden",
-      "latitude": 59.34,
-      "longitude": 13.12
+      ]
     },
     {
       "name": "Visby",
-      "aliases": [
-        "Visby Port"
-      ],
       "address": "Visby, Gotland, Sweden",
       "latitude": 57.63,
-      "longitude": 18.28
+      "longitude": 18.28,
+      "aliases": [
+        "Visby Port"
+      ]
     },
     {
       "name": "Nynashamn",
-      "aliases": [
-        "Nynashamn Port"
-      ],
       "address": "Nynashamn, Stockholm, Sweden",
       "latitude": 58.92,
-      "longitude": 17.97
+      "longitude": 17.97,
+      "aliases": [
+        "Nynashamn Port"
+      ]
     },
     {
       "name": "Kotka",
-      "aliases": [
-        "Kotka Port"
-      ],
       "address": "Kotka, Kymenlaakso, Finland",
       "latitude": 60.45,
-      "longitude": 26.93
+      "longitude": 26.93,
+      "aliases": [
+        "Kotka Port"
+      ]
     },
     {
       "name": "Turku",
-      "aliases": [
-        "Turku Port"
-      ],
       "address": "Turku, Southwest Finland, Finland",
       "latitude": 60.44,
-      "longitude": 22.22
+      "longitude": 22.22,
+      "aliases": [
+        "Turku Port"
+      ]
     },
     {
       "name": "Travemunde",
+      "address": "Skandinavienkai, Travemünder Landstraße, 23570 Lübeck, Germany",
+      "latitude": 53.9517,
+      "longitude": 10.8608,
       "aliases": [
         "Travemunde Port"
-      ],
-      "address": "Travemunde",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Kiel",
-      "aliases": [
-        "Kiel Port"
-      ],
       "address": "Kiel, Schleswig-Holstein, Denmark",
       "latitude": 54.36,
-      "longitude": 10.15
+      "longitude": 10.15,
+      "aliases": [
+        "Kiel Port"
+      ]
     },
     {
       "name": "Bremerhaven",
-      "aliases": [
-        "Bremerhaven Port"
-      ],
       "address": "Bremerhaven, Bremen, Germany",
       "latitude": 53.56,
-      "longitude": 8.55
+      "longitude": 8.55,
+      "aliases": [
+        "Bremerhaven Port"
+      ]
     },
     {
       "name": "Ijmuiden",
+      "address": "Ijmuiden, North Holland, Netherlands",
+      "latitude": 52.47,
+      "longitude": 4.59,
       "aliases": [
         "Ijmuiden Port",
         "IJmuiden"
-      ],
-      "address": "Ijmuiden, North Holland, Netherlands",
-      "latitude": 52.47,
-      "longitude": 4.59
+      ]
     },
     {
       "name": "Rotterdam",
-      "aliases": [
-        "Rotterdam Port"
-      ],
       "address": "Rotterdam, South Holland, Netherlands",
       "latitude": 51.9,
-      "longitude": 4.43
+      "longitude": 4.43,
+      "aliases": [
+        "Rotterdam Port"
+      ]
     },
     {
       "name": "Vlissingen",
-      "aliases": [
-        "Vlissingen Port"
-      ],
       "address": "Vlissingen, Zeeland, Netherlands",
       "latitude": 51.44,
-      "longitude": 3.6
+      "longitude": 3.6,
+      "aliases": [
+        "Vlissingen Port"
+      ]
     },
     {
       "name": "Antwerp",
-      "aliases": [
-        "Antwerp Port"
-      ],
       "address": "Antwerp, Flanders, Belgium",
       "latitude": 51.28,
-      "longitude": 4.23
+      "longitude": 4.23,
+      "aliases": [
+        "Antwerp Port"
+      ]
     },
     {
       "name": "Brest",
-      "aliases": [
-        "Brest Port"
-      ],
       "address": "Brest, Brittany, France",
       "latitude": 48.37,
-      "longitude": -4.49
+      "longitude": -4.49,
+      "aliases": [
+        "Brest Port"
+      ]
     },
     {
       "name": "Saint-Malo",
-      "aliases": [
-        "Saint-Malo Port"
-      ],
       "address": "Saint-Malo, Brittany, France",
       "latitude": 48.64,
-      "longitude": -2.04
+      "longitude": -2.04,
+      "aliases": [
+        "Saint-Malo Port"
+      ]
     },
     {
       "name": "Fowey",
-      "aliases": [
-        "Fowey Port"
-      ],
       "address": "Fowey, Cornwall, U.K.",
       "latitude": 50.33,
-      "longitude": -4.63
+      "longitude": -4.63,
+      "aliases": [
+        "Fowey Port"
+      ]
     },
     {
       "name": "Ilfracombe",
+      "address": "Ilfracombe Harbour, The Quay, Ilfracombe EX34 9EQ, UK",
+      "latitude": 51.208,
+      "longitude": -4.12,
       "aliases": [
         "Ilfracombe Port"
-      ],
-      "address": "Ilfracombe",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Douglas",
+      "address": "Douglas Sea Terminal, Douglas, Isle of Man IM1 2RF",
+      "latitude": 54.1467,
+      "longitude": -4.4674,
       "aliases": [
         "Douglas Port"
-      ],
-      "address": "Douglas",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Dun Laoghaire",
+      "address": "Dun Laoghaire Harbour, Dun Laoghaire, Co. Dublin, Ireland (Tender)",
+      "latitude": 53.2985,
+      "longitude": -6.1354,
       "aliases": [
         "Dun Laoghaire Port"
-      ],
-      "address": "Dun Laoghaire",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Londonderry",
+      "address": "Port of Londonderry, Lisahally, Londonderry BT47 6FL, UK",
+      "latitude": 55.0449,
+      "longitude": -7.2542,
       "aliases": [
         "Londonderry Port"
-      ],
-      "address": "Londonderry",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Oban",
+      "address": "Oban Ferry Terminal, Railway Pier, Oban PA34 4DB, UK",
+      "latitude": 56.4154,
+      "longitude": -5.4718,
       "aliases": [
         "Oban Port"
-      ],
-      "address": "Oban",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Portree",
+      "address": "Portree Harbour, Quay Brae, Portree, Isle of Skye IV51 9DB, UK (Tender)",
+      "latitude": 57.4111,
+      "longitude": -6.1888,
       "aliases": [
         "Portree Port"
-      ],
-      "address": "Portree",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "South Queensferry",
+      "address": "Hawes Pier, South Queensferry EH30 9TB, UK (Tender for Edinburgh)",
+      "latitude": 55.9939,
+      "longitude": -3.3828,
       "aliases": [
         "South Queensferry Port"
-      ],
-      "address": "South Queensferry",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Leith",
+      "address": "Ocean Terminal, Leith, Edinburgh EH6 6JJ, UK",
+      "latitude": 55.985,
+      "longitude": -3.179,
       "aliases": [
         "Leith Port"
-      ],
-      "address": "Leith",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Rosyth",
-      "aliases": [
-        "Rosyth Port"
-      ],
       "address": "Rosyth, Scotland, U.K.",
       "latitude": 56.02,
-      "longitude": -3.44
+      "longitude": -3.44,
+      "aliases": [
+        "Rosyth Port"
+      ]
     },
     {
       "name": "Newhaven",
+      "address": "Newhaven, Connecticut, U.S.A.",
+      "latitude": 41.29,
+      "longitude": -72.91,
       "aliases": [
         "Newhaven Port",
         "New Haven"
-      ],
-      "address": "Newhaven, Connecticut, U.S.A.",
-      "latitude": 41.29,
-      "longitude": -72.91
+      ]
     },
     {
       "name": "Newcastle",
-      "aliases": [
-        "Newcastle Port"
-      ],
       "address": "Newcastle, England, U.K.",
       "latitude": 54.97,
-      "longitude": -1.6
+      "longitude": -1.6,
+      "aliases": [
+        "Newcastle Port"
+      ]
     },
     {
       "name": "Hull",
-      "aliases": [
-        "Hull Port"
-      ],
       "address": "Hull, East Yorkshire, U.K.",
       "latitude": 53.74,
-      "longitude": -0.28
+      "longitude": -0.28,
+      "aliases": [
+        "Hull Port"
+      ]
     },
     {
       "name": "Harwich",
-      "aliases": [
-        "Harwich Port"
-      ],
       "address": "Harwich, Essex, U.K.",
       "latitude": 51.95,
-      "longitude": 1.25
+      "longitude": 1.25,
+      "aliases": [
+        "Harwich Port"
+      ]
     },
     {
       "name": "Tilbury",
-      "aliases": [
-        "Tilbury Port"
-      ],
       "address": "Tilbury, Essex, U.K.",
       "latitude": 51.46,
-      "longitude": 0.33
+      "longitude": 0.33,
+      "aliases": [
+        "Tilbury Port"
+      ]
     },
     {
       "name": "Portsmouth",
-      "aliases": [
-        "Portsmouth Port"
-      ],
       "address": "Portsmouth, Virginia, U.S.A.",
       "latitude": 36.84,
-      "longitude": -76.29
+      "longitude": -76.29,
+      "aliases": [
+        "Portsmouth Port"
+      ]
     },
     {
       "name": "Plymouth",
-      "aliases": [
-        "Plymouth Port"
-      ],
       "address": "Plymouth, Montserrat, Montserrat",
       "latitude": 16.7,
-      "longitude": -62.22
+      "longitude": -62.22,
+      "aliases": [
+        "Plymouth Port"
+      ]
     },
     {
       "name": "Oporto",
+      "address": "Porto Cruise Terminal, South Mole, 4450-208 Matosinhos, Portugal",
+      "latitude": 41.1772,
+      "longitude": -8.7021,
       "aliases": [
         "Oporto Port"
-      ],
-      "address": "Oporto",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Leixoes",
+      "address": "Porto Cruise Terminal, South Mole, 4450-208 Matosinhos, Portugal",
+      "latitude": 41.1772,
+      "longitude": -8.7021,
       "aliases": [
         "Leixoes Port"
-      ],
-      "address": "Leixoes",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Lisbon",
-      "aliases": [
-        "Lisbon Port"
-      ],
       "address": "Lisbon, Lisbon, Portugal",
       "latitude": 38.69,
-      "longitude": -9.17
+      "longitude": -9.17,
+      "aliases": [
+        "Lisbon Port"
+      ]
     },
     {
       "name": "Portimao",
+      "address": "Portimão Cruise Terminal, 8500-510 Portimão, Portugal",
+      "latitude": 37.1234,
+      "longitude": -8.5376,
       "aliases": [
         "Portimao Port"
-      ],
-      "address": "Portimao",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Almeria",
-      "aliases": [
-        "Almeria Port"
-      ],
       "address": "Almeria, Andalusia, Spain",
       "latitude": 36.83,
-      "longitude": -2.47
+      "longitude": -2.47,
+      "aliases": [
+        "Almeria Port"
+      ]
     },
     {
       "name": "Cartagena ES",
+      "address": "Cartagena ES, Bolívar, Colombia",
+      "latitude": 10.29,
+      "longitude": -75.53,
       "aliases": [
         "Cartagena ES Port",
         "Cartagena"
-      ],
-      "address": "Cartagena ES, Bol\u00edvar, Colombia",
-      "latitude": 10.29,
-      "longitude": -75.53
+      ]
     },
     {
       "name": "Tarragona",
-      "aliases": [
-        "Tarragona Port"
-      ],
       "address": "Tarragona, Catalonia, Spain",
       "latitude": 41.1,
-      "longitude": 1.23
+      "longitude": 1.23,
+      "aliases": [
+        "Tarragona Port"
+      ]
     },
     {
       "name": "Ibiza",
-      "aliases": [
-        "Ibiza Port"
-      ],
       "address": "Ibiza, Balearic Islands, Spain",
       "latitude": 38.91,
-      "longitude": 1.44
+      "longitude": 1.44,
+      "aliases": [
+        "Ibiza Port"
+      ]
     },
     {
       "name": "Mahon",
-      "aliases": [
-        "Mahon Port"
-      ],
       "address": "Mahon, Balearic Islands, Spain",
       "latitude": 39.89,
-      "longitude": 4.27
+      "longitude": 4.27,
+      "aliases": [
+        "Mahon Port"
+      ]
     },
     {
       "name": "Sete",
+      "address": "Quai d'Alger, 34200 Sète, France",
+      "latitude": 43.3989,
+      "longitude": 3.7095,
       "aliases": [
         "Sete Port"
-      ],
-      "address": "Sete",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Toulon",
-      "aliases": [
-        "Toulon Port"
-      ],
       "address": "Toulon, Var, France",
       "latitude": 43.11,
-      "longitude": 5.91
+      "longitude": 5.91,
+      "aliases": [
+        "Toulon Port"
+      ]
     },
     {
       "name": "Sanary-sur-Mer",
+      "address": "Quai Charles de Gaulle, 83110 Sanary-sur-Mer, France (Tender)",
+      "latitude": 43.118,
+      "longitude": 5.8014,
       "aliases": [
         "Sanary-sur-Mer Port"
-      ],
-      "address": "Sanary-sur-Mer",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "St. Tropez",
+      "address": "Port de Saint-Tropez, 83990 Saint-Tropez, France (Tender)",
+      "latitude": 43.2713,
+      "longitude": 6.6282,
       "aliases": [
         "St. Tropez Port"
-      ],
-      "address": "St. Tropez",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Antibes",
+      "address": "Port Vauban, Avenue de Verdun, 06600 Antibes, France",
+      "latitude": 43.5854,
+      "longitude": 7.1272,
       "aliases": [
         "Antibes Port"
-      ],
-      "address": "Antibes",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Piombino",
-      "aliases": [
-        "Piombino Port"
-      ],
       "address": "Piombino, Tuscany, Italy",
       "latitude": 42.93,
-      "longitude": 10.55
+      "longitude": 10.55,
+      "aliases": [
+        "Piombino Port"
+      ]
     },
     {
       "name": "Gaeta",
-      "aliases": [
-        "Gaeta Port"
-      ],
       "address": "Gaeta, Lazio, Italy",
       "latitude": 41.22,
-      "longitude": 13.58
+      "longitude": 13.58,
+      "aliases": [
+        "Gaeta Port"
+      ]
     },
     {
       "name": "Sorrento",
+      "address": "Porto di Sorrento, Marina Piccola, 80067 Sorrento NA, Italy (Tender)",
+      "latitude": 40.629,
+      "longitude": 14.375,
       "aliases": [
         "Sorrento Port"
-      ],
-      "address": "Sorrento",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Salerno",
-      "aliases": [
-        "Salerno Port"
-      ],
       "address": "Salerno, Campania, Italy",
       "latitude": 40.67,
-      "longitude": 14.75
+      "longitude": 14.75,
+      "aliases": [
+        "Salerno Port"
+      ]
     },
     {
       "name": "Amalfi",
+      "address": "Porto di Amalfi, 84011 Amalfi SA, Italy (Tender)",
+      "latitude": 40.633,
+      "longitude": 14.602,
       "aliases": [
         "Amalfi Port"
-      ],
-      "address": "Amalfi",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Taormina",
+      "address": "Port of Giardini Naxos, Via Schisò, 98035 Giardini Naxos ME, Italy (Tender)",
+      "latitude": 37.8276,
+      "longitude": 15.2671,
       "aliases": [
         "Taormina Port"
-      ],
-      "address": "Taormina",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Giardini Naxos",
+      "address": "Port of Giardini Naxos, Via Schisò, 98035 Giardini Naxos ME, Italy",
+      "latitude": 37.8276,
+      "longitude": 15.2671,
       "aliases": [
         "Giardini Naxos Port"
-      ],
-      "address": "Giardini Naxos",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Catania",
-      "aliases": [
-        "Catania Port"
-      ],
       "address": "Catania, Sicily, Italy",
       "latitude": 37.49,
-      "longitude": 15.1
+      "longitude": 15.1,
+      "aliases": [
+        "Catania Port"
+      ]
     },
     {
       "name": "Syracuse",
-      "aliases": [
-        "Syracuse Port"
-      ],
       "address": "Syracuse, Sicily, Italy",
       "latitude": 37.12,
-      "longitude": 15.27
+      "longitude": 15.27,
+      "aliases": [
+        "Syracuse Port"
+      ]
     },
     {
       "name": "Crotone",
-      "aliases": [
-        "Crotone Port"
-      ],
       "address": "Crotone, Calabria, Italy",
       "latitude": 39.09,
-      "longitude": 17.13
+      "longitude": 17.13,
+      "aliases": [
+        "Crotone Port"
+      ]
     },
     {
       "name": "Taranto",
-      "aliases": [
-        "Taranto Port"
-      ],
       "address": "Taranto, Apulia, Italy",
       "latitude": 40.45,
-      "longitude": 17.21
+      "longitude": 17.21,
+      "aliases": [
+        "Taranto Port"
+      ]
     },
     {
       "name": "Brindisi",
-      "aliases": [
-        "Brindisi Port"
-      ],
       "address": "Brindisi, Apulia, Italy",
       "latitude": 40.66,
-      "longitude": 17.98
+      "longitude": 17.98,
+      "aliases": [
+        "Brindisi Port"
+      ]
     },
     {
       "name": "Ancona",
-      "aliases": [
-        "Ancona Port"
-      ],
       "address": "Ancona, Marche, Italy",
       "latitude": 43.62,
-      "longitude": 13.5
+      "longitude": 13.5,
+      "aliases": [
+        "Ancona Port"
+      ]
     },
     {
       "name": "Ravenna",
-      "aliases": [
-        "Ravenna Port"
-      ],
       "address": "Ravenna, Emilia-Romagna, Italy",
       "latitude": 44.44,
-      "longitude": 12.24
+      "longitude": 12.24,
+      "aliases": [
+        "Ravenna Port"
+      ]
     },
     {
       "name": "Trieste",
-      "aliases": [
-        "Trieste Port"
-      ],
       "address": "Trieste, Friuli Venezia Giulia, Italy",
       "latitude": 45.61,
-      "longitude": 13.77
+      "longitude": 13.77,
+      "aliases": [
+        "Trieste Port"
+      ]
     },
     {
       "name": "Koper",
-      "aliases": [
-        "Koper Port"
-      ],
       "address": "Koper, Coastal-Karst, Slovenia",
       "latitude": 45.56,
-      "longitude": 13.73
+      "longitude": 13.73,
+      "aliases": [
+        "Koper Port"
+      ]
     },
     {
       "name": "Rijeka",
-      "aliases": [
-        "Rijeka Port"
-      ],
       "address": "Rijeka, Primorje-Gorski Kotar, Croatia",
       "latitude": 45.33,
-      "longitude": 14.43
+      "longitude": 14.43,
+      "aliases": [
+        "Rijeka Port"
+      ]
     },
     {
       "name": "Zadar",
+      "address": "Zadar, Zadarska županija, Croatia",
+      "latitude": 44.12,
+      "longitude": 15.22,
       "aliases": [
         "Zadar Port"
-      ],
-      "address": "Zadar, Zadarska \u017eupanija, Croatia",
-      "latitude": 44.12,
-      "longitude": 15.22
+      ]
     },
     {
       "name": "Sibenik",
+      "address": "Gat Vrulje, Obala nove Europe, 22000 Šibenik, Croatia",
+      "latitude": 43.7301,
+      "longitude": 15.892,
       "aliases": [
         "Sibenik Port"
-      ],
-      "address": "Sibenik",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Split",
-      "aliases": [
-        "Split Port"
-      ],
       "address": "Split, Split-Dalmatia, Croatia",
       "latitude": 43.5,
-      "longitude": 16.43
+      "longitude": 16.43,
+      "aliases": [
+        "Split Port"
+      ]
     },
     {
       "name": "Hvar",
+      "address": "Hvar Port, Riva, 21450 Hvar, Croatia (Tender)",
+      "latitude": 43.17,
+      "longitude": 16.44,
       "aliases": [
         "Hvar Port"
-      ],
-      "address": "Hvar",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Korcula",
+      "address": "Korcula Port, Obala Franje Tudmana, 20260 Korcula, Croatia (Tender)",
+      "latitude": 42.96,
+      "longitude": 17.136,
       "aliases": [
         "Korcula Port"
-      ],
-      "address": "Korcula",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Bar",
-      "aliases": [
-        "Bar Port"
-      ],
       "address": "Bar, Montenegro, Montenegro",
       "latitude": 42.1,
-      "longitude": 19.08
+      "longitude": 19.08,
+      "aliases": [
+        "Bar Port"
+      ]
     },
     {
       "name": "Durres",
+      "address": "Port of Durrës, Rruga Tregtare, Durrës, Albania",
+      "latitude": 41.3076,
+      "longitude": 19.4588,
       "aliases": [
         "Durres Port"
-      ],
-      "address": "Durres",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Sarande",
+      "address": "Port of Sarandë, Rruga Jonianet, Sarandë, Albania",
+      "latitude": 39.8708,
+      "longitude": 20.0031,
       "aliases": [
         "Sarande Port"
-      ],
-      "address": "Sarande",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Argostoli",
+      "address": "Argostoli Cruise Pier, Kefalonia, Greece",
+      "latitude": 38.18,
+      "longitude": 20.489,
       "aliases": [
         "Argostoli Port"
-      ],
-      "address": "Argostoli",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Katakolon",
+      "address": "Katakolon Port, 270 67 Katakolo, Greece",
+      "latitude": 37.6475,
+      "longitude": 21.317,
       "aliases": [
         "Katakolon Port"
-      ],
-      "address": "Katakolon",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Pylos",
+      "address": "Port of Pylos, Pylos 240 01, Greece (Tender)",
+      "latitude": 36.9184,
+      "longitude": 21.6961,
       "aliases": [
         "Pylos Port"
-      ],
-      "address": "Pylos",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Gythion",
+      "address": "Port of Gythion, Gythio 232 00, Greece (Tender)",
+      "latitude": 36.7592,
+      "longitude": 22.5723,
       "aliases": [
         "Gythion Port"
-      ],
-      "address": "Gythion",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Nafplion",
+      "address": "Port of Nafplio, Nafplio 211 00, Greece (Tender)",
+      "latitude": 37.5695,
+      "longitude": 22.7901,
       "aliases": [
         "Nafplion Port"
-      ],
-      "address": "Nafplion",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Lavrion",
-      "aliases": [
-        "Lavrion Port"
-      ],
       "address": "Lavrion, Attica, Greece",
       "latitude": 37.71,
-      "longitude": 24.06
+      "longitude": 24.06,
+      "aliases": [
+        "Lavrion Port"
+      ]
     },
     {
       "name": "Volos",
-      "aliases": [
-        "Volos Port"
-      ],
       "address": "Volos, Thessaly, Greece",
       "latitude": 39.35,
-      "longitude": 22.94
+      "longitude": 22.94,
+      "aliases": [
+        "Volos Port"
+      ]
     },
     {
       "name": "Thessaloniki",
-      "aliases": [
-        "Thessaloniki Port"
-      ],
       "address": "Thessaloniki, Central Macedonia, Greece",
       "latitude": 40.63,
-      "longitude": 22.92
+      "longitude": 22.92,
+      "aliases": [
+        "Thessaloniki Port"
+      ]
     },
     {
       "name": "Kavala",
-      "aliases": [
-        "Kavala Port"
-      ],
       "address": "Kavala, Eastern Macedonia and Thrace, Greece",
       "latitude": 40.93,
-      "longitude": 24.41
+      "longitude": 24.41,
+      "aliases": [
+        "Kavala Port"
+      ]
     },
     {
       "name": "Heraklion",
-      "aliases": [
-        "Heraklion Port"
-      ],
       "address": "Heraklion, Crete, Greece",
       "latitude": 35.35,
-      "longitude": 25.15
+      "longitude": 25.15,
+      "aliases": [
+        "Heraklion Port"
+      ]
     },
     {
       "name": "Chania",
+      "address": "Port of Souda, Souda 732 00, Greece",
+      "latitude": 35.488,
+      "longitude": 24.072,
       "aliases": [
         "Chania Port"
-      ],
-      "address": "Chania",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Agios Nikolaos",
+      "address": "Port of Agios Nikolaos, Akti Koundourou, Agios Nikolaos 721 00, Greece",
+      "latitude": 35.1937,
+      "longitude": 25.7222,
       "aliases": [
         "Agios Nikolaos Port"
-      ],
-      "address": "Agios Nikolaos",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Patmos",
+      "address": "Skala Port, Patmos 855 00, Greece",
+      "latitude": 37.323,
+      "longitude": 26.544,
       "aliases": [
         "Patmos Port"
-      ],
-      "address": "Patmos",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Bodrum",
+      "address": "Bodrum Cruise Port, Kumbahçe, 48400 Bodrum/Muğla, Turkey",
+      "latitude": 37.025,
+      "longitude": 27.4369,
       "aliases": [
         "Bodrum Port"
-      ],
-      "address": "Bodrum",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Marmaris",
+      "address": "Marmaris Cruise Port, Günnücek Yolu, 48700 Marmaris/Muğla, Turkey",
+      "latitude": 36.85,
+      "longitude": 28.2833,
       "aliases": [
         "Marmaris Port"
-      ],
-      "address": "Marmaris",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Antalya",
-      "aliases": [
-        "Antalya Port"
-      ],
       "address": "Antalya, Antalya, Turkey",
       "latitude": 36.85,
-      "longitude": 30.65
+      "longitude": 30.65,
+      "aliases": [
+        "Antalya Port"
+      ]
     },
     {
       "name": "Alanya",
+      "address": "Alanya Cruise Port, Çarşı, 07400 Alanya/Antalya, Turkey",
+      "latitude": 36.543,
+      "longitude": 32.0,
       "aliases": [
         "Alanya Port"
-      ],
-      "address": "Alanya",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Limassol",
-      "aliases": [
-        "Limassol Port"
-      ],
       "address": "Limassol, Limassol District, Cyprus",
       "latitude": 34.65,
-      "longitude": 33.02
+      "longitude": 33.02,
+      "aliases": [
+        "Limassol Port"
+      ]
     },
     {
       "name": "Haifa",
-      "aliases": [
-        "Haifa Port"
-      ],
       "address": "Haifa, Haifa District, Israel",
       "latitude": 32.83,
-      "longitude": 35.03
+      "longitude": 35.03,
+      "aliases": [
+        "Haifa Port"
+      ]
     },
     {
       "name": "Ashdod",
-      "aliases": [
-        "Ashdod Port"
-      ],
       "address": "Ashdod, Southern District, Israel",
       "latitude": 31.83,
-      "longitude": 34.64
+      "longitude": 34.64,
+      "aliases": [
+        "Ashdod Port"
+      ]
     },
     {
       "name": "Alexandria",
-      "aliases": [
-        "Alexandria Port"
-      ],
       "address": "Alexandria, Alexandria Governorate, Egypt",
       "latitude": 31.19,
-      "longitude": 29.87
+      "longitude": 29.87,
+      "aliases": [
+        "Alexandria Port"
+      ]
     },
     {
       "name": "Port Said",
-      "aliases": [
-        "Port Said Port"
-      ],
       "address": "Port Said, Egypt, Egypt",
       "latitude": 31.42,
-      "longitude": 32.4
+      "longitude": 32.4,
+      "aliases": [
+        "Port Said Port"
+      ]
     },
     {
       "name": "Otaru",
-      "aliases": [
-        "Otaru Port"
-      ],
       "address": "Otaru, Hokkaido, Japan",
       "latitude": 43.2,
-      "longitude": 141.02
+      "longitude": 141.02,
+      "aliases": [
+        "Otaru Port"
+      ]
     },
     {
       "name": "Sapporo",
+      "address": "Otaru Cruise Terminal, 4 Chome-4-1 Chikko, Otaru, Hokkaido 047-0008, Japan",
+      "latitude": 43.1895,
+      "longitude": 141.0267,
       "aliases": [
         "Sapporo Port"
-      ],
-      "address": "Sapporo",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Hakodate",
-      "aliases": [
-        "Hakodate Port"
-      ],
       "address": "Hakodate, Hokkaido, Japan",
       "latitude": 41.79,
-      "longitude": 140.71
+      "longitude": 140.71,
+      "aliases": [
+        "Hakodate Port"
+      ]
     },
     {
       "name": "Aomori",
-      "aliases": [
-        "Aomori Port"
-      ],
       "address": "Aomori, Aomori, Japan",
       "latitude": 40.84,
-      "longitude": 140.74
+      "longitude": 140.74,
+      "aliases": [
+        "Aomori Port"
+      ]
     },
     {
       "name": "Akita",
-      "aliases": [
-        "Akita Port"
-      ],
       "address": "Akita, Akita, Japan",
       "latitude": 39.75,
-      "longitude": 140.06
+      "longitude": 140.06,
+      "aliases": [
+        "Akita Port"
+      ]
     },
     {
       "name": "Niigata",
-      "aliases": [
-        "Niigata Port"
-      ],
       "address": "Niigata, Niigata, Japan",
       "latitude": 37.94,
-      "longitude": 139.07
+      "longitude": 139.07,
+      "aliases": [
+        "Niigata Port"
+      ]
     },
     {
       "name": "Tsuruga",
-      "aliases": [
-        "Tsuruga Port"
-      ],
       "address": "Tsuruga, Fukui, Japan",
       "latitude": 35.67,
-      "longitude": 136.06
+      "longitude": 136.06,
+      "aliases": [
+        "Tsuruga Port"
+      ]
     },
     {
       "name": "Toyama",
-      "aliases": [
-        "Toyama Port"
-      ],
       "address": "Toyama, Toyama, Japan",
       "latitude": 36.76,
-      "longitude": 137.23
+      "longitude": 137.23,
+      "aliases": [
+        "Toyama Port"
+      ]
     },
     {
       "name": "Beppu",
+      "address": "Beppu International Tourist Port, Beppu, Oita, Japan",
+      "latitude": 33.3039,
+      "longitude": 131.5031,
       "aliases": [
         "Beppu Port"
-      ],
-      "address": "Beppu",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Kochi JP",
+      "address": "Kochi New Port (Shin-Ko), Kochi, Japan",
+      "latitude": 33.5042,
+      "longitude": 133.5656,
       "aliases": [
         "Kochi JP Port"
-      ],
-      "address": "Kochi JP",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Shimizu",
-      "aliases": [
-        "Shimizu Port"
-      ],
       "address": "Shimizu, Shizuoka, Japan",
       "latitude": 35.02,
-      "longitude": 138.51
+      "longitude": 138.51,
+      "aliases": [
+        "Shimizu Port"
+      ]
     },
     {
       "name": "Okinawa",
-      "aliases": [
-        "Okinawa Port"
-      ],
       "address": "Okinawa, Okinawa Prefecture, Japan",
       "latitude": 26.4,
-      "longitude": 127.97
+      "longitude": 127.97,
+      "aliases": [
+        "Okinawa Port"
+      ]
     },
     {
       "name": "Miyakojima",
+      "address": "Hirara Port International Cruise Terminal, Miyakojima, Okinawa, Japan",
+      "latitude": 24.8055,
+      "longitude": 125.275,
       "aliases": [
         "Miyakojima Port"
-      ],
-      "address": "Miyakojima",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Kaohsiung",
-      "aliases": [
-        "Kaohsiung Port"
-      ],
       "address": "Kaohsiung, Taiwan, Taiwan",
       "latitude": 22.81,
-      "longitude": 120.2
+      "longitude": 120.2,
+      "aliases": [
+        "Kaohsiung Port"
+      ]
     },
     {
       "name": "Hualien",
-      "aliases": [
-        "Hualien Port"
-      ],
       "address": "Hualien, Hualien County, Taiwan",
       "latitude": 23.98,
-      "longitude": 121.63
+      "longitude": 121.63,
+      "aliases": [
+        "Hualien Port"
+      ]
     },
     {
       "name": "Sanya",
+      "address": "Sanya Phoenix Island International Cruise Terminal, Sanya, Hainan, China",
+      "latitude": 18.2393,
+      "longitude": 109.4938,
       "aliases": [
         "Sanya Port"
-      ],
-      "address": "Sanya",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Xiamen",
-      "aliases": [
-        "Xiamen Port"
-      ],
       "address": "Xiamen, Fujian, China",
       "latitude": 24.52,
-      "longitude": 118.08
+      "longitude": 118.08,
+      "aliases": [
+        "Xiamen Port"
+      ]
     },
     {
       "name": "Tianjin",
-      "aliases": [
-        "Tianjin Port"
-      ],
       "address": "Tianjin, Tianjin, China",
       "latitude": 38.98,
-      "longitude": 117.75
+      "longitude": 117.75,
+      "aliases": [
+        "Tianjin Port"
+      ]
     },
     {
       "name": "Beijing",
-      "aliases": [
-        "Beijing Port"
-      ],
       "address": "Beijing, Beijing, China",
       "latitude": 24.31,
-      "longitude": 118.13
+      "longitude": 118.13,
+      "aliases": [
+        "Beijing Port"
+      ]
     },
     {
       "name": "Dalian",
-      "aliases": [
-        "Dalian Port"
-      ],
       "address": "Dalian, Liaoning, China",
       "latitude": 38.98,
-      "longitude": 121.9
+      "longitude": 121.9,
+      "aliases": [
+        "Dalian Port"
+      ]
     },
     {
       "name": "Qingdao",
-      "aliases": [
-        "Qingdao Port"
-      ],
       "address": "Qingdao, Shandong, China",
       "latitude": 36.09,
-      "longitude": 120.32
+      "longitude": 120.32,
+      "aliases": [
+        "Qingdao Port"
+      ]
     },
     {
       "name": "Seoul",
+      "address": "Incheon Port International Passenger Terminal, Songdo-dong, Yeonsu-gu, Incheon, South Korea",
+      "latitude": 37.4268,
+      "longitude": 126.591,
       "aliases": [
         "Seoul Port"
-      ],
-      "address": "Seoul",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Sokcho",
+      "address": "Sokcho International Cruise Terminal, Sokcho-si, Gangwon-do, South Korea",
+      "latitude": 38.203,
+      "longitude": 128.599,
       "aliases": [
         "Sokcho Port"
-      ],
-      "address": "Sokcho",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Vladivostok",
-      "aliases": [
-        "Vladivostok Port"
-      ],
       "address": "Vladivostok, Primorsky Krai, Russia",
       "latitude": 43.11,
-      "longitude": 131.89
+      "longitude": 131.89,
+      "aliases": [
+        "Vladivostok Port"
+      ]
     },
     {
       "name": "Korsakov",
-      "aliases": [
-        "Korsakov Port"
-      ],
       "address": "Korsakov, Sakhalin Oblast, Russia",
       "latitude": 52.7,
-      "longitude": 143.69
+      "longitude": 143.69,
+      "aliases": [
+        "Korsakov Port"
+      ]
     },
     {
       "name": "Petropavlovsk",
+      "address": "Port of Petropavlovsk-Kamchatsky, Kamchatka Krai, Russia",
+      "latitude": 53.0163,
+      "longitude": 158.6508,
       "aliases": [
         "Petropavlovsk Port"
-      ],
-      "address": "Petropavlovsk",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Dutch Harbor",
+      "address": "Port of Dutch Harbor, Unalaska, AK 99692, USA",
+      "latitude": 53.895,
+      "longitude": -166.5383,
       "aliases": [
         "Dutch Harbor Port"
-      ],
-      "address": "Dutch Harbor",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Hanoi",
-      "aliases": [
-        "Hanoi Port"
-      ],
       "address": "Hanoi, Hanoi, Vietnam",
       "latitude": 9.8,
-      "longitude": 107.99
+      "longitude": 107.99,
+      "aliases": [
+        "Hanoi Port"
+      ]
     },
     {
       "name": "Nha Trang",
+      "address": "Cau Da Port, Nha Trang, Khanh Hoa, Vietnam",
+      "latitude": 12.213,
+      "longitude": 109.222,
       "aliases": [
         "Nha Trang Port"
-      ],
-      "address": "Nha Trang",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Sihanoukville",
-      "aliases": [
-        "Sihanoukville Port"
-      ],
       "address": "Sihanoukville, Preah Sihanouk, Cambodia",
       "latitude": 10.64,
-      "longitude": 103.5
+      "longitude": 103.5,
+      "aliases": [
+        "Sihanoukville Port"
+      ]
     },
     {
       "name": "Koh Samui",
+      "address": "Nathon Pier, Koh Samui, Surat Thani, Thailand (Tender)",
+      "latitude": 9.5367,
+      "longitude": 99.9329,
       "aliases": [
         "Koh Samui Port"
-      ],
-      "address": "Koh Samui",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Langkawi",
+      "address": "Star Cruise Jetty, Porto Malai, Langkawi, Malaysia",
+      "latitude": 6.257,
+      "longitude": 99.733,
       "aliases": [
         "Langkawi Port"
-      ],
-      "address": "Langkawi",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Malacca",
-      "aliases": [
-        "Malacca Port"
-      ],
       "address": "Malacca, Melaka, Malaysia",
       "latitude": 2.19,
-      "longitude": 102.24
+      "longitude": 102.24,
+      "aliases": [
+        "Malacca Port"
+      ]
     },
     {
       "name": "Semarang",
-      "aliases": [
-        "Semarang Port"
-      ],
       "address": "Semarang, Central Java, Indonesia",
       "latitude": -6.94,
-      "longitude": 110.42
+      "longitude": 110.42,
+      "aliases": [
+        "Semarang Port"
+      ]
     },
     {
       "name": "Probolinggo",
-      "aliases": [
-        "Probolinggo Port"
-      ],
       "address": "Probolinggo, East Java, Indonesia",
       "latitude": -7.72,
-      "longitude": 113.22
+      "longitude": 113.22,
+      "aliases": [
+        "Probolinggo Port"
+      ]
     },
     {
       "name": "Gili Mas",
+      "address": "Gili Mas Terminal, Lembar, Lombok, West Nusa Tenggara, Indonesia",
+      "latitude": -8.729,
+      "longitude": 116.075,
       "aliases": [
         "Gili Mas Port"
-      ],
-      "address": "Gili Mas",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Lombok",
+      "address": "Lembar Port, Lombok, Indonesia",
+      "latitude": -8.729,
+      "longitude": 116.075,
       "aliases": [
         "Lombok Port"
-      ],
-      "address": "Lombok",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Komodo",
+      "address": "Komodo Island Anchorage, East Nusa Tenggara, Indonesia (Tender)",
+      "latitude": -8.583,
+      "longitude": 119.5,
       "aliases": [
         "Komodo Port"
-      ],
-      "address": "Komodo",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Makassar",
-      "aliases": [
-        "Makassar Port"
-      ],
       "address": "Makassar, South Sulawesi, Indonesia",
       "latitude": -2.74,
-      "longitude": 121.06
+      "longitude": 121.06,
+      "aliases": [
+        "Makassar Port"
+      ]
     },
     {
       "name": "Darwin",
-      "aliases": [
-        "Darwin Port"
-      ],
       "address": "Darwin, Northern Territory, Australia",
       "latitude": -12.47,
-      "longitude": 130.85
+      "longitude": 130.85,
+      "aliases": [
+        "Darwin Port"
+      ]
     },
     {
       "name": "Broome",
-      "aliases": [
-        "Broome Port"
-      ],
       "address": "Broome, Western Australia, Australia",
       "latitude": -10.66,
-      "longitude": 126.09
+      "longitude": 126.09,
+      "aliases": [
+        "Broome Port"
+      ]
     },
     {
       "name": "Exmouth",
-      "aliases": [
-        "Exmouth Port"
-      ],
       "address": "Exmouth, Western Australia, Australia",
       "latitude": -21.96,
-      "longitude": 114.15
+      "longitude": 114.15,
+      "aliases": [
+        "Exmouth Port"
+      ]
     },
     {
       "name": "Geraldton",
-      "aliases": [
-        "Geraldton Port"
-      ],
       "address": "Geraldton, Western Australia, Australia",
       "latitude": -20.25,
-      "longitude": 116.25
+      "longitude": 116.25,
+      "aliases": [
+        "Geraldton Port"
+      ]
     },
     {
       "name": "Albany",
-      "aliases": [
-        "Albany Port"
-      ],
       "address": "Albany, Western Australia, Australia",
       "latitude": -35.5,
-      "longitude": 118.0
+      "longitude": 118.0,
+      "aliases": [
+        "Albany Port"
+      ]
     },
     {
       "name": "Esperance",
-      "aliases": [
-        "Esperance Port"
-      ],
       "address": "Esperance, Western Australia, Australia",
       "latitude": -33.87,
-      "longitude": 121.9
+      "longitude": 121.9,
+      "aliases": [
+        "Esperance Port"
+      ]
     },
     {
       "name": "Kangaroo Island",
+      "address": "Penneshaw Harbour, Kangaroo Island, SA 5222, Australia (Tender)",
+      "latitude": -35.7177,
+      "longitude": 137.9375,
       "aliases": [
         "Kangaroo Island Port"
-      ],
-      "address": "Kangaroo Island",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Penneshaw",
+      "address": "Penneshaw Harbour, Kangaroo Island, SA 5222, Australia (Tender)",
+      "latitude": -35.7177,
+      "longitude": 137.9375,
       "aliases": [
         "Penneshaw Port"
-      ],
-      "address": "Penneshaw",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Portland AU",
+      "address": "Port of Portland, Lee Breakwater Rd, Portland VIC 3305, Australia",
+      "latitude": -38.3462,
+      "longitude": 141.6026,
       "aliases": [
         "Portland AU Port"
-      ],
-      "address": "Portland AU",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Burnie",
-      "aliases": [
-        "Burnie Port"
-      ],
       "address": "Burnie, Tasmania, Australia",
       "latitude": -41.05,
-      "longitude": 145.91
+      "longitude": 145.91,
+      "aliases": [
+        "Burnie Port"
+      ]
     },
     {
       "name": "Port Arthur",
-      "aliases": [
-        "Port Arthur Port"
-      ],
       "address": "Port Arthur, Texas, U.S.A.",
       "latitude": 29.86,
-      "longitude": -93.94
+      "longitude": -93.94,
+      "aliases": [
+        "Port Arthur Port"
+      ]
     },
     {
       "name": "Eden",
-      "aliases": [
-        "Eden Port"
-      ],
       "address": "Eden, New South Wales, Australia",
       "latitude": -37.07,
-      "longitude": 149.93
+      "longitude": 149.93,
+      "aliases": [
+        "Eden Port"
+      ]
     },
     {
       "name": "Newcastle AU",
+      "address": "Newcastle AU, England, U.K.",
+      "latitude": 54.97,
+      "longitude": -1.6,
       "aliases": [
         "Newcastle AU Port",
         "Newcastle"
-      ],
-      "address": "Newcastle AU, England, U.K.",
-      "latitude": 54.97,
-      "longitude": -1.6
+      ]
     },
     {
       "name": "Mooloolaba",
+      "address": "The Wharf Mooloolaba, Parkyn Parade, Mooloolaba QLD 4557, Australia (Tender)",
+      "latitude": -26.684,
+      "longitude": 153.121,
       "aliases": [
         "Mooloolaba Port"
-      ],
-      "address": "Mooloolaba",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Airlie Beach",
+      "address": "Port of Airlie, Airlie Beach QLD 4802, Australia (Tender)",
+      "latitude": -20.2727,
+      "longitude": 148.7251,
       "aliases": [
         "Airlie Beach Port"
-      ],
-      "address": "Airlie Beach",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Townsville",
-      "aliases": [
-        "Townsville Port"
-      ],
       "address": "Townsville, Queensland, Australia",
       "latitude": -19.25,
-      "longitude": 146.83
+      "longitude": 146.83,
+      "aliases": [
+        "Townsville Port"
+      ]
     },
     {
       "name": "Cairns",
-      "aliases": [
-        "Cairns Port"
-      ],
       "address": "Cairns, Queensland, Australia",
       "latitude": -16.93,
-      "longitude": 145.78
+      "longitude": 145.78,
+      "aliases": [
+        "Cairns Port"
+      ]
     },
     {
       "name": "Port Douglas",
+      "address": "Crystalbrook Superyacht Marina, Port Douglas QLD 4877, Australia (Tender)",
+      "latitude": -16.4835,
+      "longitude": 145.4652,
       "aliases": [
         "Port Douglas Port"
-      ],
-      "address": "Port Douglas",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Cooktown",
+      "address": "Cooktown Wharf, Webber Esplanade, Cooktown QLD 4895, Australia (Tender)",
+      "latitude": -15.4667,
+      "longitude": 145.2833,
       "aliases": [
         "Cooktown Port"
-      ],
-      "address": "Cooktown",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Thursday Island",
-      "aliases": [
-        "Thursday Island Port"
-      ],
       "address": "Thursday Island, Queensland, Australia",
       "latitude": -10.58,
-      "longitude": 142.22
+      "longitude": 142.22,
+      "aliases": [
+        "Thursday Island Port"
+      ]
     },
     {
       "name": "Alotau",
+      "address": "Alotau International Port, Milne Bay, Papua New Guinea",
+      "latitude": -10.3157,
+      "longitude": 150.4571,
       "aliases": [
         "Alotau Port"
-      ],
-      "address": "Alotau",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Kiriwina",
+      "address": "Kiriwina Island, Milne Bay, Papua New Guinea (Tender)",
+      "latitude": -8.4833,
+      "longitude": 151.0833,
       "aliases": [
         "Kiriwina Port"
-      ],
-      "address": "Kiriwina",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Kitava",
+      "address": "Kitava Island, Milne Bay, Papua New Guinea (Tender)",
+      "latitude": -8.6333,
+      "longitude": 151.3333,
       "aliases": [
         "Kitava Port"
-      ],
-      "address": "Kitava",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Rabaul",
-      "aliases": [
-        "Rabaul Port"
-      ],
       "address": "Rabaul, East New Britain, Papua New Guinea",
       "latitude": -4.2,
-      "longitude": 152.16
+      "longitude": 152.16,
+      "aliases": [
+        "Rabaul Port"
+      ]
     },
     {
       "name": "Madang",
-      "aliases": [
-        "Madang Port"
-      ],
       "address": "Madang, Madang, Papua New Guinea",
       "latitude": -5.21,
-      "longitude": 145.8
+      "longitude": 145.8,
+      "aliases": [
+        "Madang Port"
+      ]
     },
     {
       "name": "Wewak",
+      "address": "Wewak Port, East Sepik, Papua New Guinea",
+      "latitude": -3.5583,
+      "longitude": 143.6378,
       "aliases": [
         "Wewak Port"
-      ],
-      "address": "Wewak",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Honiara",
-      "aliases": [
-        "Honiara Port"
-      ],
       "address": "Honiara, Guadalcanal Province, Solomon Islands",
       "latitude": -9.43,
-      "longitude": 159.96
+      "longitude": 159.96,
+      "aliases": [
+        "Honiara Port"
+      ]
     },
     {
       "name": "Vila",
+      "address": "Main Wharf, Port Vila, Efate, Vanuatu",
+      "latitude": -17.7458,
+      "longitude": 168.3075,
       "aliases": [
         "Vila Port"
-      ],
-      "address": "Vila",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Port Vila",
-      "aliases": [
-        "Port Vila Port"
-      ],
       "address": "Port Vila, Shefa, Vanuatu",
       "latitude": -17.76,
-      "longitude": 168.3
+      "longitude": 168.3,
+      "aliases": [
+        "Port Vila Port"
+      ]
     },
     {
       "name": "Mystery Island",
+      "address": "Mystery Island (Inyeug), Vanuatu (Tender)",
+      "latitude": -20.2483,
+      "longitude": 169.7733,
       "aliases": [
         "Mystery Island Port"
-      ],
-      "address": "Mystery Island",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Lifou",
+      "address": "Easo, Lifou, Loyalty Islands, New Caledonia (Tender)",
+      "latitude": -20.7816,
+      "longitude": 167.1235,
       "aliases": [
         "Lifou Port"
-      ],
-      "address": "Lifou",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Mare",
+      "address": "Tadine, Maré, Loyalty Islands, New Caledonia (Tender)",
+      "latitude": -21.5581,
+      "longitude": 167.8767,
       "aliases": [
         "Mare Port"
-      ],
-      "address": "Mare",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Isle of Pines",
+      "address": "Kuto Bay, Isle of Pines, New Caledonia (Tender)",
+      "latitude": -22.6593,
+      "longitude": 167.4475,
       "aliases": [
         "Isle of Pines Port"
-      ],
-      "address": "Isle of Pines",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Lautoka",
-      "aliases": [
-        "Lautoka Port"
-      ],
       "address": "Lautoka, Western Division, Fiji",
       "latitude": -17.6,
-      "longitude": 177.44
+      "longitude": 177.44,
+      "aliases": [
+        "Lautoka Port"
+      ]
     },
     {
       "name": "Dravuni",
+      "address": "Dravuni Island, Kadavu Group, Fiji (Tender)",
+      "latitude": -18.7758,
+      "longitude": 178.5284,
       "aliases": [
         "Dravuni Port"
-      ],
-      "address": "Dravuni",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Savusavu",
+      "address": "Savusavu Port, Vanua Levu, Fiji",
+      "latitude": -16.7766,
+      "longitude": 179.3333,
       "aliases": [
         "Savusavu Port"
-      ],
-      "address": "Savusavu",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Apia",
-      "aliases": [
-        "Apia Port"
-      ],
       "address": "Apia, Tuamasaga, Samoa",
       "latitude": -13.82,
-      "longitude": -171.76
+      "longitude": -171.76,
+      "aliases": [
+        "Apia Port"
+      ]
     },
     {
       "name": "Pago Pago",
-      "aliases": [
-        "Pago Pago Port"
-      ],
       "address": "Pago Pago, American Samoa, American Samoa",
       "latitude": -14.27,
-      "longitude": -170.68
+      "longitude": -170.68,
+      "aliases": [
+        "Pago Pago Port"
+      ]
     },
     {
       "name": "Nuku'alofa",
-      "aliases": [
-        "Nuku'alofa Port"
-      ],
       "address": "Nuku'alofa, Tongatapu, Tonga",
       "latitude": -21.13,
-      "longitude": -175.18
+      "longitude": -175.18,
+      "aliases": [
+        "Nuku'alofa Port"
+      ]
     },
     {
       "name": "Vava'u",
+      "address": "Neiafu Wharf, Vava'u, Tonga (Tender)",
+      "latitude": -18.6508,
+      "longitude": -173.9856,
       "aliases": [
         "Vava'u Port"
-      ],
-      "address": "Vava'u",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Rarotonga",
+      "address": "Avatiu Harbour, Rarotonga, Cook Islands (Tender)",
+      "latitude": -21.2057,
+      "longitude": -159.782,
       "aliases": [
         "Rarotonga Port"
-      ],
-      "address": "Rarotonga",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Raiatea",
+      "address": "Uturoa Wharf, Raiatea, French Polynesia",
+      "latitude": -16.7324,
+      "longitude": -151.4426,
       "aliases": [
         "Raiatea Port"
-      ],
-      "address": "Raiatea",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Moore",
+      "address": "Papetoai / Cook's Bay / Opunohu Bay, Moorea, French Polynesia (Tender)",
+      "latitude": -17.4939,
+      "longitude": -149.8517,
       "aliases": [
         "Moore Port"
-      ],
-      "address": "Moore",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Rangiroa",
+      "address": "Tiputa / Ohotu Pier, Rangiroa, French Polynesia (Tender)",
+      "latitude": -14.975,
+      "longitude": -147.6256,
       "aliases": [
         "Rangiroa Port"
-      ],
-      "address": "Rangiroa",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Nuku Hiva",
+      "address": "Taiohae Bay, Nuku Hiva, Marquesas Islands, French Polynesia (Tender)",
+      "latitude": -8.9133,
+      "longitude": -140.1017,
       "aliases": [
         "Nuku Hiva Port"
-      ],
-      "address": "Nuku Hiva",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Bay of Islands",
+      "address": "Waitangi Wharf, Bay of Islands, New Zealand (Tender)",
+      "latitude": -35.2825,
+      "longitude": 174.0808,
       "aliases": [
         "Bay of Islands Port"
-      ],
-      "address": "Bay of Islands",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Tauranga",
-      "aliases": [
-        "Tauranga Port"
-      ],
       "address": "Tauranga, Bay of Plenty, New Zealand",
       "latitude": -37.65,
-      "longitude": 176.18
+      "longitude": 176.18,
+      "aliases": [
+        "Tauranga Port"
+      ]
     },
     {
       "name": "Napier",
-      "aliases": [
-        "Napier Port"
-      ],
       "address": "Napier, Hawke's Bay, New Zealand",
       "latitude": -39.47,
-      "longitude": 176.92
+      "longitude": 176.92,
+      "aliases": [
+        "Napier Port"
+      ]
     },
     {
       "name": "Picton",
-      "aliases": [
-        "Picton Port"
-      ],
       "address": "Picton, Marlborough, New Zealand",
       "latitude": -39.66,
-      "longitude": 173.29
+      "longitude": 173.29,
+      "aliases": [
+        "Picton Port"
+      ]
     },
     {
       "name": "Akaroa",
+      "address": "Akaroa Wharf, Akaroa, New Zealand (Tender)",
+      "latitude": -43.8037,
+      "longitude": 172.9646,
       "aliases": [
         "Akaroa Port"
-      ],
-      "address": "Akaroa",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Mombasa",
-      "aliases": [
-        "Mombasa Port"
-      ],
       "address": "Mombasa, Mombasa County, Kenya",
       "latitude": -4.05,
-      "longitude": 39.64
+      "longitude": 39.64,
+      "aliases": [
+        "Mombasa Port"
+      ]
     },
     {
       "name": "Zanzibar",
-      "aliases": [
-        "Zanzibar Port"
-      ],
       "address": "Zanzibar, Zanzibar Central/South, Tanzania",
       "latitude": -6.15,
-      "longitude": 39.18
+      "longitude": 39.18,
+      "aliases": [
+        "Zanzibar Port"
+      ]
     },
     {
       "name": "Dar es Salaam",
+      "address": "Dar es Salaam Port, 1 Nelson Mandela Rd, Dar es Salaam, Tanzania",
+      "latitude": -6.8351,
+      "longitude": 39.2938,
       "aliases": [
         "Dar es Salaam Port"
-      ],
-      "address": "Dar es Salaam",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Mamoudzou",
-      "aliases": [
-        "Mamoudzou Port"
-      ],
       "address": "Mamoudzou, Mayotte, Mayotte",
       "latitude": -12.76,
-      "longitude": 45.27
+      "longitude": 45.27,
+      "aliases": [
+        "Mamoudzou Port"
+      ]
     },
     {
       "name": "Nosy Be",
-      "aliases": [
-        "Nosy Be Port"
-      ],
       "address": "Nosy Be, Diana, Madagascar",
       "latitude": -13.41,
-      "longitude": 48.28
+      "longitude": 48.28,
+      "aliases": [
+        "Nosy Be Port"
+      ]
     },
     {
       "name": "Diego Suarez",
+      "address": "Port of Antsiranana, Antsiranana, Madagascar",
+      "latitude": -12.2715,
+      "longitude": 49.2859,
       "aliases": [
         "Diego Suarez Port"
-      ],
-      "address": "Diego Suarez",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Tamatave",
+      "address": "Port of Toamasina, Toamasina, Madagascar",
+      "latitude": -18.151,
+      "longitude": 49.4254,
       "aliases": [
         "Tamatave Port"
-      ],
-      "address": "Tamatave",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Reunion",
-      "aliases": [
-        "Reunion Port"
-      ],
       "address": "Reunion, Reunion, Reunion",
       "latitude": -20.93,
-      "longitude": 55.32
+      "longitude": 55.32,
+      "aliases": [
+        "Reunion Port"
+      ]
     },
     {
       "name": "Mahe",
-      "aliases": [
-        "Mahe Port"
-      ],
       "address": "Mahe, Seychelles, Seychelles",
       "latitude": -4.62,
-      "longitude": 55.46
+      "longitude": 55.46,
+      "aliases": [
+        "Mahe Port"
+      ]
     },
     {
       "name": "Praslin",
+      "address": "Baie Ste Anne Jetty, Praslin, Seychelles (Tender)",
+      "latitude": -4.3416,
+      "longitude": 55.762,
       "aliases": [
         "Praslin Port"
-      ],
-      "address": "Praslin",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "La Digue",
+      "address": "La Passe Ferry Terminal, La Digue, Seychelles (Tender)",
+      "latitude": -4.3478,
+      "longitude": 55.829,
       "aliases": [
         "La Digue Port"
-      ],
-      "address": "La Digue",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Hambantota",
+      "address": "Hambantota International Port, Hambantota, Sri Lanka",
+      "latitude": 6.115,
+      "longitude": 81.106,
       "aliases": [
         "Hambantota Port"
-      ],
-      "address": "Hambantota",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Dammam",
-      "aliases": [
-        "Dammam Port"
-      ],
       "address": "Dammam, Eastern Province, Saudi Arabia",
       "latitude": 26.51,
-      "longitude": 50.19
+      "longitude": 50.19,
+      "aliases": [
+        "Dammam Port"
+      ]
     },
     {
       "name": "Eilat",
-      "aliases": [
-        "Eilat Port"
-      ],
       "address": "Eilat, Southern District, Israel",
       "latitude": 29.52,
-      "longitude": 34.94
+      "longitude": 34.94,
+      "aliases": [
+        "Eilat Port"
+      ]
     },
     {
       "name": "Sokhna",
+      "address": "Sokhna Port, Suez Governorate, Egypt",
+      "latitude": 29.6475,
+      "longitude": 32.3707,
       "aliases": [
         "Sokhna Port"
-      ],
-      "address": "Sokhna",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Jeddah",
-      "aliases": [
-        "Jeddah Port"
-      ],
       "address": "Jeddah, Makkah, Saudi Arabia",
       "latitude": 21.49,
-      "longitude": 39.15
+      "longitude": 39.15,
+      "aliases": [
+        "Jeddah Port"
+      ]
     },
     {
       "name": "Yanbu",
-      "aliases": [
-        "Yanbu Port"
-      ],
       "address": "Yanbu, Al Madinah, Saudi Arabia",
       "latitude": 23.92,
-      "longitude": 38.28
+      "longitude": 38.28,
+      "aliases": [
+        "Yanbu Port"
+      ]
     },
     {
       "name": "East London",
-      "aliases": [
-        "East London Port"
-      ],
       "address": "East London, Eastern Cape, South Africa",
       "latitude": -33.03,
-      "longitude": 27.91
+      "longitude": 27.91,
+      "aliases": [
+        "East London Port"
+      ]
     },
     {
       "name": "Mossel Bay",
-      "aliases": [
-        "Mossel Bay Port"
-      ],
       "address": "Mossel Bay, Western Cape, South Africa",
       "latitude": -34.18,
-      "longitude": 22.15
+      "longitude": 22.15,
+      "aliases": [
+        "Mossel Bay Port"
+      ]
     },
     {
       "name": "Luderitz",
+      "address": "Port of Lüderitz, Hafeni Street, Lüderitz, Namibia",
+      "latitude": -26.6329,
+      "longitude": 15.1583,
       "aliases": [
         "Luderitz Port"
-      ],
-      "address": "Luderitz",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Luanda",
-      "aliases": [
-        "Luanda Port"
-      ],
       "address": "Luanda, Luanda Province, Angola",
       "latitude": -6.23,
-      "longitude": 10.73
+      "longitude": 10.73,
+      "aliases": [
+        "Luanda Port"
+      ]
     },
     {
       "name": "Takoradi",
-      "aliases": [
-        "Takoradi Port"
-      ],
       "address": "Takoradi, Western Region, Ghana",
       "latitude": 4.88,
-      "longitude": -1.74
+      "longitude": -1.74,
+      "aliases": [
+        "Takoradi Port"
+      ]
     },
     {
       "name": "Abidjan",
-      "aliases": [
-        "Abidjan Port"
-      ],
       "address": "Abidjan, Lagunes, Ivory Coast",
       "latitude": 5.07,
-      "longitude": -4.39
+      "longitude": -4.39,
+      "aliases": [
+        "Abidjan Port"
+      ]
     },
     {
       "name": "Dakar",
-      "aliases": [
-        "Dakar Port"
-      ],
       "address": "Dakar, Dakar, Senegal",
       "latitude": 14.67,
-      "longitude": -18.37
+      "longitude": -18.37,
+      "aliases": [
+        "Dakar Port"
+      ]
     },
     {
       "name": "Praia",
+      "address": "Porto da Praia, Santiago Island, Cape Verde",
+      "latitude": 14.9112,
+      "longitude": -23.5053,
       "aliases": [
         "Praia Port"
-      ],
-      "address": "Praia",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Mindelo",
+      "address": "Porto Grande, Mindelo, São Vicente, Cape Verde",
+      "latitude": 16.894,
+      "longitude": -24.992,
       "aliases": [
         "Mindelo Port"
-      ],
-      "address": "Mindelo",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "Fuerteventura",
+      "address": "Muelle de Cruceros, Puerto del Rosario, Fuerteventura, Spain",
+      "latitude": 28.5,
+      "longitude": -13.863,
       "aliases": [
         "Fuerteventura Port"
-      ],
-      "address": "Fuerteventura",
-      "latitude": 0.0,
-      "longitude": 0.0
+      ]
     },
     {
       "name": "La Palma",
+      "address": "La Palma, Rocha, Uruguay",
+      "latitude": -35.0,
+      "longitude": -54.0,
       "aliases": [
         "La Palma Port",
         "La Paloma"
-      ],
-      "address": "La Palma, Rocha, Uruguay",
-      "latitude": -35.0,
-      "longitude": -54.0
+      ]
     },
     {
       "name": "Ocean Cay",
+      "address": "Ocean Cay MSC Marine Reserve, Bahamas",
+      "latitude": 25.4209,
+      "longitude": -79.2055,
       "aliases": [
         "Ocean Cay MSC Marine Reserve",
         "MSC Ocean Cay"
-      ],
-      "address": "Ocean Cay MSC Marine Reserve, Bahamas",
-      "latitude": 25.4209,
-      "longitude": -79.2055
+      ]
     },
     {
       "name": "Castaway Cay",
-      "aliases": [
-        "Disney Castaway Cay"
-      ],
       "address": "Castaway Cay, Bahamas",
       "latitude": 26.0833,
-      "longitude": -77.5334
+      "longitude": -77.5334,
+      "aliases": [
+        "Disney Castaway Cay"
+      ]
     },
     {
       "name": "Lookout Cay",
+      "address": "Lighthouse Point, Eleuthera, Bahamas",
+      "latitude": 24.6268,
+      "longitude": -76.1487,
       "aliases": [
         "Disney Lookout Cay",
         "Lighthouse Point",
         "Disney Lookout Cay at Lighthouse Point"
-      ],
-      "address": "Lighthouse Point, Eleuthera, Bahamas",
-      "latitude": 24.6268,
-      "longitude": -76.1487
+      ]
     },
     {
       "name": "Sir Bani Yas",
+      "address": "Sir Bani Yas Cruise Beach, Abu Dhabi, UAE",
+      "latitude": 24.2892,
+      "longitude": 52.6372,
       "aliases": [
         "Sir Bani Yas Island",
         "MSC Sir Bani Yas"
-      ],
-      "address": "Sir Bani Yas Cruise Beach, Abu Dhabi, UAE",
-      "latitude": 24.2892,
-      "longitude": 52.6372
+      ]
     },
     {
       "name": "Labadee",
+      "address": "Labadee, Haiti",
+      "latitude": 19.7852,
+      "longitude": -72.2407,
       "aliases": [
         "Labadee Haiti",
         "Royal Caribbean Labadee"
-      ],
-      "address": "Labadee, Haiti",
-      "latitude": 19.7852,
-      "longitude": -72.2407
+      ]
     },
     {
       "name": "Royal Beach Club",
+      "address": "Paradise Island, Nassau, Bahamas",
+      "latitude": 25.083,
+      "longitude": -77.318,
       "aliases": [
         "Paradise Island Royal Beach Club",
         "Nassau Royal Beach Club"
-      ],
-      "address": "Paradise Island, Nassau, Bahamas",
-      "latitude": 25.083,
-      "longitude": -77.318
+      ]
     },
     {
       "name": "Lewiston",
+      "address": "Lewiston, ID, USA",
+      "latitude": 46.4004,
+      "longitude": -117.0012,
       "aliases": [
         "Lewiston Idaho",
         "Clarkston Washington"
-      ],
-      "address": "Lewiston, ID, USA",
-      "latitude": 46.4004,
-      "longitude": -117.0012
+      ]
     },
     {
       "name": "Itacare",
+      "address": "Itacaré, Bahia, Brazil",
+      "latitude": -14.2769,
+      "longitude": -38.9962,
       "aliases": [
         "Itacare Brazil"
-      ],
-      "address": "Itacar\u00e9, Bahia, Brazil",
-      "latitude": -14.2769,
-      "longitude": -38.9962
+      ]
     },
     {
       "name": "Mahogany Bay",
+      "address": "Mahogany Bay, Roatan, Honduras",
+      "latitude": 16.3233,
+      "longitude": -86.4967,
       "aliases": [
         "Mahogany Bay Cruise Center",
         "Dixon Cove"
-      ],
-      "address": "Mahogany Bay, Roatan, Honduras",
-      "latitude": 16.3233,
-      "longitude": -86.4967
+      ]
     }
   ]
 }
