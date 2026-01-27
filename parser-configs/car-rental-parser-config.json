@@ -1,0 +1,64 @@
+{
+  "version": "1.0.4",
+  "knownCompanies": {
+    "hertz": "Hertz",
+    "avis": "Avis",
+    "enterprise": "Enterprise",
+    "budget": "Budget",
+    "national": "National",
+    "alamo": "Alamo",
+    "dollar": "Dollar",
+    "thrifty": "Thrifty",
+    "sixt": "Sixt",
+    "europcar": "Europcar",
+    "payless": "Payless",
+    "advantage": "Advantage",
+    "turo": "Turo",
+    "zipcar": "Zipcar",
+    "fox rent a car": "Fox Rent A Car",
+    "rent-a-wreck": "Rent-A-Wreck",
+    "ace rental": "Ace Rental"
+  },
+  "confirmationPatterns": [
+    "(?i)Confirmation\\s*(?:Number|Code|#)?\\s*:\\s*([A-Z0-9]{6,12})",
+    "(?i)Confirmation\\s*Number\\s*\\n\\s*([A-Z0-9]{6,15})",
+    "(?i)Rental\\s*Agreement\\s*#\\s*([A-Z0-9]{5,12})",
+    "(?i)Rental\\s*Agreement\\s*(?:Number|#)?\\s*:?\\s*([A-Z0-9]{5,12})",
+    "(?i)Agreement\\s*#\\s*([A-Z0-9]{5,12})",
+    "(?i)Agreement\\s*(?:Number|#)?\\s*:\\s*([A-Z0-9]{5,12})",
+    "(?i)Res(?:ervation)?\\s*(?:Number|#)?\\s*:\\s*([A-Z0-9]{6,15})",
+    "(?i)Booking\\s*(?:Reference|Code|Number|#)?\\s*:\\s*([A-Z0-9]{6,12})",
+    "(?i)Wizard\\s*(?:Number)?\\s*:\\s*([A-Z0-9]{8,10})",
+    "(?i)Agreement\\s*#?\\s*:\\s*(\\d{9,11})",
+    "(?i)Rental\\s*Record\\s*#?\\s*:\\s*(\\d{9,11})"
+  ],
+  "companyPatterns": [],
+  "pickupPatterns": [
+    "(?i)Pickup\\s*\\n\\s*.+?\\s*\\n\\s*\\d{4}\\s*\\n\\s*\\d{1,2}:\\d{2}\\s*(?:AM|PM)\\s*\\n\\s*([^\\n]+)",
+    "(?i)Pick[\\s-]?up\\s*(?:Location|at|from)?\\s*[:.]?\\s*([^\\n]{5,80})",
+    "(?i)Rental\\s*(?:Location|Office|At)\\s*[:.]?\\s*([^\\n]{5,80})",
+    "(?i)^\\s*Location\\s*[:.]\\s*([^\\n]{5,80})"
+  ],
+  "dropoffPatterns": [
+    "(?i)Return\\s*\\n\\s*.+?\\s*\\n\\s*\\d{4}\\s*\\n\\s*\\d{1,2}:\\d{2}\\s*(?:AM|PM)\\s*\\n\\s*([^\\n]+)",
+    "(?i)Return\\s*(?:Location|at|to)?\\s*[:.]?\\s*([^\\n]{5,80})",
+    "(?i)Drop[\\s-]?off\\s*(?:Location|at|to)?\\s*[:.]?\\s*([^\\n]{5,80})"
+  ],
+  "vehiclePatterns": [
+    "(?i)(?:Car|Vehicle)\\s*(?:Type|Class|Category)\\s*[:.]\\s*([^\\n\\r]{3,60})",
+    "(?i)Vehicle\\s*(?:Type|Model)?\\s*[:.]?\\s*([^\\n\\r]{3,60})",
+    "(?i)Reserved\\s*(?:Vehicle|Car)?\\s*[:.]?\\s*([^\\n\\r]{3,60})",
+    "(?i)Vehicle\\s*Class\\s*(?:Driven|Charged)\\s*\\n\\s*([^\\n]{5,60})",
+    "(?i)Class\\s*Driven\\s*\\n\\s*([^\\n]{3,60})",
+    "(?s)YOUR\\s*CAR\\s*\\n[^\\n]+\\n[^\\n]+\\n\\s*([^\\n]{5,60}\\s+or\\s+similar)",
+    "(?i)YOUR\\s*CAR\\s*\\n\\s*([^\\n]{3,60})",
+    "(?i)([A-Za-z][A-Za-z0-9\\s]+(?:or similar|or equivalent))",
+    "(?i)(Compact|Economy|Intermediate|Standard|Standard SUV|Full Size|Fullsize|Premium|Luxury|Minivan|SUV|Convertible|Pick-up Truck|Crossover|Minibus)"
+  ],
+  "pricePatterns": [
+    "(?i)(?:Estimated|Total|Rental)\\s*(?:Total|Charges|Cost|Amount)?\\s*[:.]?\\s*([$\u20ac\u00a3\u00a5]\\s*\\d{1,5}(?:[.,]\\d{2})?)",
+    "(?i)(?:Estimated|Total|Rental)\\s*(?:Total|Charges|Cost|Amount)?\\s*[:.]?\\s*(\\d{1,5}(?:[.,]\\d{2})?\\s*[$\u20ac\u00a3\u00a5]?)",
+    "(?i)Total\\s*due\\s*[:.]?\\s*([$\u20ac\u00a3\u00a5]?\\s*\\d{1,5}(?:[.,]\\d{2})?)",
+    "(?i)Estimated\\s*Charges\\s*[:.]?\\s*([$\u20ac\u00a3\u00a5]\\s*\\d{1,5}(?:[.,]\\d{2})?)"
+  ]
+}
