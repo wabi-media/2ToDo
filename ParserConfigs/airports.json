@@ -26,7 +26,7 @@
     {
       "name": "Denver International Airport",
       "iata": "DEN",
-      "address": "8500 Pe\u00f1a Blvd, Denver, CO 80249, USA",
+      "address": "8500 Peña Blvd, Denver, CO 80249, USA",
       "latitude": 39.8561,
       "longitude": -104.6737,
       "aliases": [
@@ -811,7 +811,7 @@
     {
       "name": "Istanbul Airport",
       "iata": "IST",
-      "address": "Tayakad\u0131n, Terminal Caddesi No:1, 34283 Arnavutk\u00f6y/\u0130stanbul, Turkey",
+      "address": "Tayakadın, Terminal Caddesi No:1, 34283 Arnavutköy/İstanbul, Turkey",
       "latitude": 41.2753,
       "longitude": 28.7419,
       "aliases": [
@@ -827,7 +827,7 @@
       "longitude": -3.5679,
       "aliases": [
         "MAD",
-        "Adolfo Su\u00e1rez"
+        "Adolfo Suárez"
       ]
     },
     {
@@ -844,7 +844,7 @@
     {
       "name": "Munich Airport",
       "iata": "MUC",
-      "address": "Nordallee 25, 85356 M\u00fcnchen, Germany",
+      "address": "Nordallee 25, 85356 München, Germany",
       "latitude": 48.3537,
       "longitude": 11.775,
       "aliases": [
@@ -910,18 +910,18 @@
     {
       "name": "Mexico City International Airport",
       "iata": "MEX",
-      "address": "Av. Capit\u00e1n Carlos Le\u00f3n s/n, Pe\u00f1\u00f3n de los Ba\u00f1os, Venustiano Carranza, 15620 Ciudad de M\u00e9xico, CDMX, Mexico",
+      "address": "Av. Capitán Carlos León s/n, Peñón de los Baños, Venustiano Carranza, 15620 Ciudad de México, CDMX, Mexico",
       "latitude": 19.4361,
       "longitude": -99.0719,
       "aliases": [
         "MEX",
-        "Benito Ju\u00e1rez"
+        "Benito Juárez"
       ]
     },
     {
-      "name": "S\u00e3o Paulo/Guarulhos International Airport",
+      "name": "São Paulo/Guarulhos International Airport",
       "iata": "GRU",
-      "address": "Rod. H\u00e9lio Smidt, s/n\u00ba - Aeroporto, Guarulhos - SP, 07190-100, Brazil",
+      "address": "Rod. Hélio Smidt, s/nº - Aeroporto, Guarulhos - SP, 07190-100, Brazil",
       "latitude": -23.4356,
       "longitude": -46.4731,
       "aliases": [
@@ -1086,7 +1086,7 @@
     {
       "name": "Prague Vaclav Havel Airport",
       "iata": "PRG",
-      "address": "Aviatick\u00e1, 161 08 Praha 6, Czechia",
+      "address": "Aviatická, 161 08 Praha 6, Czechia",
       "latitude": 50.1018,
       "longitude": 14.2632,
       "aliases": [
@@ -1097,7 +1097,7 @@
     {
       "name": "Warsaw Chopin Airport",
       "iata": "WAW",
-      "address": "\u017bwirki i Wigury 1, 00-001 Warszawa, Poland",
+      "address": "Żwirki i Wigury 1, 00-001 Warszawa, Poland",
       "latitude": 52.1672,
       "longitude": 20.9671,
       "aliases": [
@@ -1117,7 +1117,7 @@
       ]
     },
     {
-      "name": "Nice C\u00f4te d'Azur Airport",
+      "name": "Nice Côte d'Azur Airport",
       "iata": "NCE",
       "address": "Rue Costes et Bellonte, 06206 Nice, France",
       "latitude": 43.6653,
@@ -1130,7 +1130,7 @@
     {
       "name": "Geneva Airport",
       "iata": "GVA",
-      "address": "Route de l'A\u00e9roport 21, 1215 Gen\u00e8ve, Switzerland",
+      "address": "Route de l'Aéroport 21, 1215 Genève, Switzerland",
       "latitude": 46.237,
       "longitude": 6.1091,
       "aliases": [
@@ -1273,7 +1273,7 @@
     {
       "name": "Auckland Airport",
       "iata": "AKL",
-      "address": "Ray Emery Dr, M\u0101ngere, Auckland 2022, New Zealand",
+      "address": "Ray Emery Dr, Māngere, Auckland 2022, New Zealand",
       "latitude": -37.0082,
       "longitude": 174.785,
       "aliases": [
@@ -1306,7 +1306,7 @@
     {
       "name": "El Dorado International Airport",
       "iata": "BOG",
-      "address": "Fontib\u00f3n, Bogot\u00e1, Colombia",
+      "address": "Fontibón, Bogotá, Colombia",
       "latitude": 4.7016,
       "longitude": -74.1469,
       "aliases": [
@@ -1315,7 +1315,7 @@
       ]
     },
     {
-      "name": "Jorge Ch\u00e1vez International Airport",
+      "name": "Jorge Chávez International Airport",
       "iata": "LIM",
       "address": "Av. Elmer Faucett s/n, Callao 07031, Peru",
       "latitude": -12.0219,
@@ -1326,7 +1326,7 @@
       ]
     },
     {
-      "name": "Arturo Merino Ben\u00edtez International Airport",
+      "name": "Arturo Merino Benítez International Airport",
       "iata": "SCL",
       "address": "Pudahuel, Santiago Metropolitan Region, Chile",
       "latitude": -33.393,
@@ -1360,7 +1360,7 @@
       ]
     },
     {
-      "name": "Luis Mu\u00f1oz Mar\u00edn International Airport",
+      "name": "Luis Muñoz Marín International Airport",
       "iata": "SJU",
       "address": "Carolina, 00979, Puerto Rico",
       "latitude": 18.4394,
@@ -1802,7 +1802,7 @@
     {
       "name": "Marrakesh Menara Airport",
       "iata": "RAK",
-      "address": "RAK Mhamid\u060c 40000, Morocco",
+      "address": "RAK Mhamid، 40000, Morocco",
       "latitude": 31.6069,
       "longitude": -8.0363,
       "aliases": [
@@ -1857,7 +1857,7 @@
     {
       "name": "Velana International Airport",
       "iata": "MLE",
-      "address": "Hulhul\u00e9 Island, Maldives",
+      "address": "Hulhulé Island, Maldives",
       "latitude": 4.1918,
       "longitude": 73.5291,
       "aliases": [
@@ -2163,9 +2163,9 @@
       ]
     },
     {
-      "name": "Guayaquil Jos\u00e9 Joaqu\u00edn de Olmedo International Airport",
+      "name": "Guayaquil José Joaquín de Olmedo International Airport",
       "iata": "GYE",
-      "address": "Av. de las Am\u00e9ricas, Guayaquil, Ecuador",
+      "address": "Av. de las Américas, Guayaquil, Ecuador",
       "latitude": -2.1574,
       "longitude": -79.8836,
       "aliases": [
@@ -2185,7 +2185,7 @@
       ]
     },
     {
-      "name": "Asunci\u00f3n Silvio Pettirossi International Airport",
+      "name": "Asunción Silvio Pettirossi International Airport",
       "iata": "ASU",
       "address": "Luque, Paraguay",
       "latitude": -25.2398,
@@ -2196,9 +2196,9 @@
       ]
     },
     {
-      "name": "Bras\u00edlia International Airport",
+      "name": "Brasília International Airport",
       "iata": "BSB",
-      "address": "Lago Sul, Bras\u00edlia - DF, 71608-900, Brazil",
+      "address": "Lago Sul, Brasília - DF, 71608-900, Brazil",
       "latitude": -15.8697,
       "longitude": -47.9172,
       "aliases": [
@@ -2207,9 +2207,9 @@
       ]
     },
     {
-      "name": "Rio de Janeiro Gale\u00e3o International Airport",
+      "name": "Rio de Janeiro Galeão International Airport",
       "iata": "GIG",
-      "address": "Av. Vinte de Janeiro, s/n\u00ba - Ilha do Governador, Rio de Janeiro - RJ, 21941-900, Brazil",
+      "address": "Av. Vinte de Janeiro, s/nº - Ilha do Governador, Rio de Janeiro - RJ, 21941-900, Brazil",
       "latitude": -22.8123,
       "longitude": -43.2505,
       "aliases": [
@@ -2220,7 +2220,7 @@
     {
       "name": "Recife/Guararapes-Gilberto Freyre International Airport",
       "iata": "REC",
-      "address": "Pra\u00e7a Ministro Salgado Filho, s/n - Imbiribeira, Recife - PE, 51210-902, Brazil",
+      "address": "Praça Ministro Salgado Filho, s/n - Imbiribeira, Recife - PE, 51210-902, Brazil",
       "latitude": -8.1264,
       "longitude": -34.9228,
       "aliases": [
@@ -2229,9 +2229,9 @@
       ]
     },
     {
-      "name": "Salvador Deputado Lu\u00eds Eduardo Magalh\u00e3es International Airport",
+      "name": "Salvador Deputado Luís Eduardo Magalhães International Airport",
       "iata": "SSA",
-      "address": "Pra\u00e7a Gago Coutinho, S/N - S\u00e3o Crist\u00f3v\u00e3o, Salvador - BA, 41510-045, Brazil",
+      "address": "Praça Gago Coutinho, S/N - São Cristóvão, Salvador - BA, 41510-045, Brazil",
       "latitude": -12.9086,
       "longitude": -38.3225,
       "aliases": [
@@ -2242,7 +2242,7 @@
     {
       "name": "Tancredo Neves International Airport",
       "iata": "CNF",
-      "address": "Rodovia MG-10, s/n\u00ba - \u00c1rea Especial, Confins - MG, 33500-000, Brazil",
+      "address": "Rodovia MG-10, s/nº - Área Especial, Confins - MG, 33500-000, Brazil",
       "latitude": -19.6234,
       "longitude": -43.9586,
       "aliases": [
@@ -2253,7 +2253,7 @@
     {
       "name": "Santos Dumont Airport",
       "iata": "SDU",
-      "address": "Pra\u00e7a Senador Salgado Filho, s/n - Centro, Rio de Janeiro - RJ, 20021-340, Brazil",
+      "address": "Praça Senador Salgado Filho, s/n - Centro, Rio de Janeiro - RJ, 20021-340, Brazil",
       "latitude": -22.9105,
       "longitude": -43.1631,
       "aliases": [
@@ -2427,9 +2427,9 @@
       ]
     },
     {
-      "name": "Bordeaux-M\u00e9rignac Airport",
+      "name": "Bordeaux-Mérignac Airport",
       "iata": "BOD",
-      "address": "Av. Ren\u00e9 Cassin, 33700 M\u00e9rignac, France",
+      "address": "Av. René Cassin, 33700 Mérignac, France",
       "latitude": 44.8283,
       "longitude": -0.7156,
       "aliases": [
@@ -2440,7 +2440,7 @@
     {
       "name": "Berlin Brandenburg Airport",
       "iata": "BER",
-      "address": "Melli-Beese-Ring 1, 12529 Sch\u00f6nefeld, Germany",
+      "address": "Melli-Beese-Ring 1, 12529 Schönefeld, Germany",
       "latitude": 52.3667,
       "longitude": 13.5033,
       "aliases": [
@@ -2460,25 +2460,25 @@
       ]
     },
     {
-      "name": "D\u00fcsseldorf Airport",
+      "name": "Düsseldorf Airport",
       "iata": "DUS",
-      "address": "Flughafenstra\u00dfe 105, 40474 D\u00fcsseldorf, Germany",
+      "address": "Flughafenstraße 105, 40474 Düsseldorf, Germany",
       "latitude": 51.2895,
       "longitude": 6.7668,
       "aliases": [
         "DUS",
-        "D\u00fcsseldorf"
+        "Düsseldorf"
       ]
     },
     {
       "name": "Cologne Bonn Airport",
       "iata": "CGN",
-      "address": "Kennedystra\u00dfe, 51147 K\u00f6ln, Germany",
+      "address": "Kennedystraße, 51147 Köln, Germany",
       "latitude": 50.8659,
       "longitude": 7.1427,
       "aliases": [
         "CGN",
-        "K\u00f6ln/Bonn"
+        "Köln/Bonn"
       ]
     },
     {
@@ -2493,9 +2493,9 @@
       ]
     },
     {
-      "name": "John Paul II International Airport Krak\u00f3w-Balice",
+      "name": "John Paul II International Airport Kraków-Balice",
       "iata": "KRK",
-      "address": "kpt. Mieczys\u0142awa Medweckiego 1, 32-083 Balice, Poland",
+      "address": "kpt. Mieczysława Medweckiego 1, 32-083 Balice, Poland",
       "latitude": 50.0777,
       "longitude": 19.7848,
       "aliases": [
@@ -2504,9 +2504,9 @@
       ]
     },
     {
-      "name": "Gda\u0144sk Lech Wa\u0142\u0119sa Airport",
+      "name": "Gdańsk Lech Wałęsa Airport",
       "iata": "GDN",
-      "address": "ul. S\u0142owackiego 200, 80-298 Gda\u0144sk, Poland",
+      "address": "ul. Słowackiego 200, 80-298 Gdańsk, Poland",
       "latitude": 54.3775,
       "longitude": 18.4661,
       "aliases": [
@@ -2537,20 +2537,20 @@
       ]
     },
     {
-      "name": "Istanbul Sabiha G\u00f6k\u00e7en International Airport",
+      "name": "Istanbul Sabiha Gökçen International Airport",
       "iata": "SAW",
-      "address": "Sanayi, 34906 Pendik/\u0130stanbul, Turkey",
+      "address": "Sanayi, 34906 Pendik/İstanbul, Turkey",
       "latitude": 40.8986,
       "longitude": 29.3092,
       "aliases": [
         "SAW",
-        "Sabiha G\u00f6k\u00e7en"
+        "Sabiha Gökçen"
       ]
     },
     {
       "name": "Antalya Airport",
       "iata": "AYT",
-      "address": "Ye\u015filk\u00f6y, 07230 Muratpa\u015fa/Antalya, Turkey",
+      "address": "Yeşilköy, 07230 Muratpaşa/Antalya, Turkey",
       "latitude": 36.9,
       "longitude": 30.8,
       "aliases": [
@@ -2614,9 +2614,9 @@
       ]
     },
     {
-      "name": "Henri Coand\u0103 International Airport",
+      "name": "Henri Coandă International Airport",
       "iata": "OTP",
-      "address": "Calea Bucure\u015ftilor 224E, Otopeni 075150, Romania",
+      "address": "Calea Bucureştilor 224E, Otopeni 075150, Romania",
       "latitude": 44.5711,
       "longitude": 26.085,
       "aliases": [
@@ -2643,13 +2643,13 @@
       "longitude": 16.0688,
       "aliases": [
         "ZAG",
-        "Franjo Tu\u0111man"
+        "Franjo Tuđman"
       ]
     },
     {
-      "name": "Keflav\u00edk International Airport",
+      "name": "Keflavík International Airport",
       "iata": "KEF",
-      "address": "235 Keflav\u00edk, Iceland",
+      "address": "235 Keflavík, Iceland",
       "latitude": 63.985,
       "longitude": -22.6056,
       "aliases": [
@@ -2660,7 +2660,7 @@
     {
       "name": "Luxembourg Airport",
       "iata": "LUX",
-      "address": "4 Rue de Tr\u00e8ves, 2632 Findel, Luxembourg",
+      "address": "4 Rue de Trèves, 2632 Findel, Luxembourg",
       "latitude": 49.6233,
       "longitude": 6.2044,
       "aliases": [
@@ -2682,7 +2682,7 @@
     {
       "name": "Osaka International Airport",
       "iata": "ITM",
-      "address": "3-ch\u014dme-5-5 Hotarugaike Nishimachi, Toyonaka, Osaka 560-0036, Japan",
+      "address": "3-chōme-5-5 Hotarugaike Nishimachi, Toyonaka, Osaka 560-0036, Japan",
       "latitude": 34.7855,
       "longitude": 135.4382,
       "aliases": [
@@ -2715,7 +2715,7 @@
     {
       "name": "Chubu Centrair International Airport",
       "iata": "NGO",
-      "address": "1-ch\u014dme-1 Centrair, Tokoname, Aichi 479-0881, Japan",
+      "address": "1-chōme-1 Centrair, Tokoname, Aichi 479-0881, Japan",
       "latitude": 34.8584,
       "longitude": 136.8054,
       "aliases": [
@@ -2770,7 +2770,7 @@
     {
       "name": "Da Nang International Airport",
       "iata": "DAD",
-      "address": "Nguy\u1ec5n V\u0103n Linh, H\u00f2a Thu\u1eadn T\u00e2y, H\u1ea3i Ch\u00e2u, \u0110\u00e0 N\u1eb5ng 550000, Vietnam",
+      "address": "Nguyễn Văn Linh, Hòa Thuận Tây, Hải Châu, Đà Nẵng 550000, Vietnam",
       "latitude": 16.0439,
       "longitude": 108.1994,
       "aliases": [
@@ -2823,9 +2823,9 @@
       ]
     },
     {
-      "name": "Canc\u00fan International Airport",
+      "name": "Cancún International Airport",
       "iata": "CUN",
-      "address": "Carr. a Aeropuerto Canc\u00fan, 77500 Canc\u00fan, Q.R., Mexico",
+      "address": "Carr. a Aeropuerto Cancún, 77500 Cancún, Q.R., Mexico",
       "latitude": 21.0367,
       "longitude": -86.8771,
       "aliases": [
@@ -2836,7 +2836,7 @@
     {
       "name": "Guadalajara International Airport",
       "iata": "GDL",
-      "address": "Carr. Guadalajara - Chapala Km 17.5, 45659 Tlajomulco de Z\u00fa\u00f1iga, Jal., Mexico",
+      "address": "Carr. Guadalajara - Chapala Km 17.5, 45659 Tlajomulco de Zúñiga, Jal., Mexico",
       "latitude": 20.5218,
       "longitude": -103.3112,
       "aliases": [
@@ -2847,7 +2847,7 @@
     {
       "name": "Monterrey International Airport",
       "iata": "MTY",
-      "address": "Carr. a Miguel Alem\u00e1n Km 24, 66600 Apodaca, N.L., Mexico",
+      "address": "Carr. a Miguel Alemán Km 24, 66600 Apodaca, N.L., Mexico",
       "latitude": 25.7785,
       "longitude": -100.1069,
       "aliases": [
@@ -2863,22 +2863,22 @@
       "longitude": -116.9702,
       "aliases": [
         "TIJ",
-        "General Abelardo L. Rodr\u00edguez"
+        "General Abelardo L. Rodríguez"
       ]
     },
     {
       "name": "Los Cabos International Airport",
       "iata": "SJD",
-      "address": "Carr. Transpeninsular Km 43.5, 23420 San Jos\u00e9 del Cabo, B.C.S., Mexico",
+      "address": "Carr. Transpeninsular Km 43.5, 23420 San José del Cabo, B.C.S., Mexico",
       "latitude": 23.1518,
       "longitude": -109.4122,
       "aliases": [
         "SJD",
-        "San Jos\u00e9 del Cabo"
+        "San José del Cabo"
       ]
     },
     {
-      "name": "Licenciado Gustavo D\u00edaz Ordaz International Airport",
+      "name": "Licenciado Gustavo Díaz Ordaz International Airport",
       "iata": "PVR",
       "address": "Carr. a Tepic Km 7.5, 48311 Puerto Vallarta, Jal., Mexico",
       "latitude": 20.6801,
@@ -2922,7 +2922,7 @@
       ]
     },
     {
-      "name": "Las Am\u00e9ricas International Airport",
+      "name": "Las Américas International Airport",
       "iata": "SDQ",
       "address": "Ruta 66, Boca Chica 15701, Dominican Republic",
       "latitude": 18.4297,
@@ -2955,7 +2955,7 @@
       ]
     },
     {
-      "name": "Juan Santamar\u00eda International Airport",
+      "name": "Juan Santamaría International Airport",
       "iata": "SJO",
       "address": "Alajuela Province, Alajuela, Costa Rica",
       "latitude": 9.9981,
@@ -2977,7 +2977,7 @@
       ]
     },
     {
-      "name": "Andr\u00e9s Sabella G\u00e1lvez International Airport",
+      "name": "Andrés Sabella Gálvez International Airport",
       "iata": "ANF",
       "address": "Antofagasta, Chile",
       "latitude": -23.4442,
@@ -3012,7 +3012,7 @@
     {
       "name": "Carriel Sur International Airport",
       "iata": "CCP",
-      "address": "Talcahuano, B\u00edo B\u00edo, Chile",
+      "address": "Talcahuano, Bío Bío, Chile",
       "latitude": -36.7727,
       "longitude": -73.0631,
       "aliases": [
@@ -3032,7 +3032,7 @@
       ]
     },
     {
-      "name": "Carlos Ib\u00e1\u00f1ez del Campo International Airport",
+      "name": "Carlos Ibáñez del Campo International Airport",
       "iata": "PUQ",
       "address": "Punta Arenas, Magallanes and Chilean Antarctica, Chile",
       "latitude": -53.0026,
@@ -3043,7 +3043,7 @@
       ]
     },
     {
-      "name": "Jos\u00e9 Mar\u00eda C\u00f3rdova International Airport",
+      "name": "José María Córdova International Airport",
       "iata": "MDE",
       "address": "Rionegro, Antioquia, Colombia",
       "latitude": 6.1645,
@@ -3054,7 +3054,7 @@
       ]
     },
     {
-      "name": "Alfonso Bonilla Arag\u00f3n International Airport",
+      "name": "Alfonso Bonilla Aragón International Airport",
       "iata": "CLO",
       "address": "Palmira, Valle del Cauca, Colombia",
       "latitude": 3.5432,
@@ -3065,9 +3065,9 @@
       ]
     },
     {
-      "name": "Rafael N\u00fa\u00f1ez International Airport",
+      "name": "Rafael Núñez International Airport",
       "iata": "CTG",
-      "address": "Crespo Calle 70, Cartagena, Bol\u00edvar, Colombia",
+      "address": "Crespo Calle 70, Cartagena, Bolívar, Colombia",
       "latitude": 10.4424,
       "longitude": -75.513,
       "aliases": [
@@ -3078,7 +3078,7 @@
     {
       "name": "Ernesto Cortissoz International Airport",
       "iata": "BAQ",
-      "address": "Soledad, Atl\u00e1ntico, Colombia",
+      "address": "Soledad, Atlántico, Colombia",
       "latitude": 10.8896,
       "longitude": -74.7808,
       "aliases": [
@@ -3087,7 +3087,7 @@
       ]
     },
     {
-      "name": "Mateca\u00f1a International Airport",
+      "name": "Matecaña International Airport",
       "iata": "PEI",
       "address": "Pereira, Risaralda, Colombia",
       "latitude": 4.8123,
@@ -3111,7 +3111,7 @@
     {
       "name": "Camillo Daza International Airport",
       "iata": "CUC",
-      "address": "C\u00facuta, Norte de Santander, Colombia",
+      "address": "Cúcuta, Norte de Santander, Colombia",
       "latitude": 7.9275,
       "longitude": -72.5115,
       "aliases": [
@@ -3122,7 +3122,7 @@
     {
       "name": "Gustavo Rojas Pinilla International Airport",
       "iata": "ADZ",
-      "address": "San Andr\u00e9s, Colombia",
+      "address": "San Andrés, Colombia",
       "latitude": 12.5847,
       "longitude": -81.7106,
       "aliases": [
@@ -3133,7 +3133,7 @@
     {
       "name": "Mariscal Lamar International Airport",
       "iata": "CUE",
-      "address": "Av. Espa\u00f1a, Cuenca, Ecuador",
+      "address": "Av. España, Cuenca, Ecuador",
       "latitude": -2.8888,
       "longitude": -78.9833,
       "aliases": [
@@ -3165,9 +3165,9 @@
       ]
     },
     {
-      "name": "San Crist\u00f3bal Airport",
+      "name": "San Cristóbal Airport",
       "iata": "SCY",
-      "address": "San Crist\u00f3bal Island, Galapagos, Ecuador",
+      "address": "San Cristóbal Island, Galapagos, Ecuador",
       "latitude": -0.912,
       "longitude": -89.6167,
       "aliases": [
@@ -3176,7 +3176,7 @@
       ]
     },
     {
-      "name": "Alfredo Rodriguez Ball\u00f3n International Airport",
+      "name": "Alfredo Rodriguez Ballón International Airport",
       "iata": "AQP",
       "address": "Arequipa, Peru",
       "latitude": -16.3411,
@@ -3198,7 +3198,7 @@
       ]
     },
     {
-      "name": "Capit\u00e1n FAP Guillermo Concha Iberico International Airport",
+      "name": "Capitán FAP Guillermo Concha Iberico International Airport",
       "iata": "PIU",
       "address": "Piura, Peru",
       "latitude": -5.2056,
@@ -3209,7 +3209,7 @@
       ]
     },
     {
-      "name": "Capit\u00e1n FAP Jos\u00e9 A. Qui\u00f1ones Gonz\u00e1lez International Airport",
+      "name": "Capitán FAP José A. Quiñones González International Airport",
       "iata": "CIX",
       "address": "Chiclayo, Peru",
       "latitude": -6.7875,
@@ -3220,7 +3220,7 @@
       ]
     },
     {
-      "name": "Capit\u00e1n FAP Carlos Mart\u00ednez de Pinillos International Airport",
+      "name": "Capitán FAP Carlos Martínez de Pinillos International Airport",
       "iata": "TRU",
       "address": "Huanchaco, Trujillo, Peru",
       "latitude": -8.0808,
@@ -3231,7 +3231,7 @@
       ]
     },
     {
-      "name": "Inca Manco C\u00e1pac International Airport",
+      "name": "Inca Manco Cápac International Airport",
       "iata": "JUL",
       "address": "Juliaca, Peru",
       "latitude": -15.4671,
@@ -3253,7 +3253,7 @@
       ]
     },
     {
-      "name": "Capit\u00e1n FAP David Abensur Rengifo International Airport",
+      "name": "Capitán FAP David Abensur Rengifo International Airport",
       "iata": "PCL",
       "address": "Pucallpa, Peru",
       "latitude": -8.3778,
@@ -3275,7 +3275,7 @@
       ]
     },
     {
-      "name": "Coronel FAP Alfredo Mend\u00edvil Duarte Airport",
+      "name": "Coronel FAP Alfredo Mendívil Duarte Airport",
       "iata": "AYP",
       "address": "Ayacucho, Peru",
       "latitude": -13.1542,
@@ -3297,7 +3297,7 @@
       ]
     },
     {
-      "name": "Capit\u00e1n FAP V\u00edctor Montes Arias Airport",
+      "name": "Capitán FAP Víctor Montes Arias Airport",
       "iata": "TYL",
       "address": "Talara, Peru",
       "latitude": -4.5762,
@@ -3308,7 +3308,7 @@
       ]
     },
     {
-      "name": "Capit\u00e1n FAP Pedro Canga Rodr\u00edguez Airport",
+      "name": "Capitán FAP Pedro Canga Rodríguez Airport",
       "iata": "TBP",
       "address": "Tumbes, Peru",
       "latitude": -3.5519,
@@ -3330,7 +3330,7 @@
       ]
     },
     {
-      "name": "Comandante FAP Germ\u00e1n Arias Graziani Airport",
+      "name": "Comandante FAP Germán Arias Graziani Airport",
       "iata": "ATA",
       "address": "Anta, Ancash, Peru",
       "latitude": -9.3478,
@@ -3353,9 +3353,9 @@
       ]
     },
     {
-      "name": "Val-de-Cans/J\u00falio Cezar Ribeiro International Airport",
+      "name": "Val-de-Cans/Júlio Cezar Ribeiro International Airport",
       "iata": "BEL",
-      "address": "Av. J\u00falio C\u00e9sar, s/n - Val de Caes, Bel\u00e9m - PA, 66115-970, Brazil",
+      "address": "Av. Júlio César, s/n - Val de Caes, Belém - PA, 66115-970, Brazil",
       "latitude": -1.3792,
       "longitude": -48.4764,
       "aliases": [
@@ -3366,7 +3366,7 @@
     {
       "name": "Marechal Rondon International Airport",
       "iata": "CGB",
-      "address": "Av. Jo\u00e3o Ponce de Arruda, s/n - Jardim Aeroporto, V\u00e1rzea Grande - MT, 78110-100, Brazil",
+      "address": "Av. João Ponce de Arruda, s/n - Jardim Aeroporto, Várzea Grande - MT, 78110-100, Brazil",
       "latitude": -15.6531,
       "longitude": -56.1167,
       "aliases": [
@@ -3388,7 +3388,7 @@
     {
       "name": "Santa Genoveva Airport",
       "iata": "GYN",
-      "address": "Alameda dos Ip\u00eas, s/n - Setor Santa Genoveva, Goi\u00e2nia - GO, 74672-856, Brazil",
+      "address": "Alameda dos Ipês, s/n - Setor Santa Genoveva, Goiânia - GO, 74672-856, Brazil",
       "latitude": -16.6322,
       "longitude": -49.2211,
       "aliases": [
@@ -3399,7 +3399,7 @@
     {
       "name": "Eurico de Aguiar Salles Airport",
       "iata": "VIX",
-      "address": "Av. Roza Helena Schorling Albuquerque, s/n - Goiabeiras, Vit\u00f3ria - ES, 29075-052, Brazil",
+      "address": "Av. Roza Helena Schorling Albuquerque, s/n - Goiabeiras, Vitória - ES, 29075-052, Brazil",
       "latitude": -20.258,
       "longitude": -40.2863,
       "aliases": [
@@ -3408,9 +3408,9 @@
       ]
     },
     {
-      "name": "Herc\u00edlio Luz International Airport",
+      "name": "Hercílio Luz International Airport",
       "iata": "FLN",
-      "address": "Rod. Ac. ao Aeroporto, 6.200 - Carianos, Florian\u00f3polis - SC, 88047-902, Brazil",
+      "address": "Rod. Ac. ao Aeroporto, 6.200 - Carianos, Florianópolis - SC, 88047-902, Brazil",
       "latitude": -27.6719,
       "longitude": -48.5442,
       "aliases": [
@@ -3507,9 +3507,9 @@
       ]
     },
     {
-      "name": "M\u00e1laga Airport",
+      "name": "Málaga Airport",
       "iata": "AGP",
-      "address": "Av. del Comandante Garc\u00eda Morato, s/n, 29004 M\u00e1laga, Spain",
+      "address": "Av. del Comandante García Morato, s/n, 29004 Málaga, Spain",
       "latitude": 36.6749,
       "longitude": -4.4991,
       "aliases": [
@@ -3518,7 +3518,7 @@
       ]
     },
     {
-      "name": "Alicante\u2013Elche Miguel Hern\u00e1ndez Airport",
+      "name": "Alicante–Elche Miguel Hernández Airport",
       "iata": "ALC",
       "address": "03195 L'Altet, Alicante, Spain",
       "latitude": 38.2822,
@@ -3558,7 +3558,7 @@
       "longitude": -8.6786,
       "aliases": [
         "OPO",
-        "Francisco S\u00e1 Carneiro"
+        "Francisco Sá Carneiro"
       ]
     },
     {
@@ -3592,7 +3592,7 @@
       "longitude": -25.6979,
       "aliases": [
         "PDL",
-        "Jo\u00e3o Paulo II"
+        "João Paulo II"
       ]
     },
     {
@@ -3618,14 +3618,14 @@
       ]
     },
     {
-      "name": "Trondheim Airport, V\u00e6rnes",
+      "name": "Trondheim Airport, Værnes",
       "iata": "TRD",
-      "address": "7500 Stj\u00f8rdal, Norway",
+      "address": "7500 Stjørdal, Norway",
       "latitude": 63.4576,
       "longitude": 10.924,
       "aliases": [
         "TRD",
-        "V\u00e6rnes"
+        "Værnes"
       ]
     },
     {
@@ -4071,7 +4071,7 @@
     {
       "name": "La Tontouta International Airport",
       "iata": "NOU",
-      "address": "Pa\u00efta, New Caledonia",
+      "address": "Païta, New Caledonia",
       "latitude": -22.0144,
       "longitude": 166.2131,
       "aliases": [
@@ -4080,9 +4080,9 @@
       ]
     },
     {
-      "name": "Fa'a'\u0101 International Airport",
+      "name": "Fa'a'ā International Airport",
       "iata": "PPT",
-      "address": "Fa'a'\u0101, French Polynesia",
+      "address": "Fa'a'ā, French Polynesia",
       "latitude": -17.556,
       "longitude": -149.611,
       "aliases": [
@@ -4181,7 +4181,7 @@
     {
       "name": "Tenerife North Airport",
       "iata": "TFN",
-      "address": "38297 San Crist\u00f3bal de La Laguna, Santa Cruz de Tenerife, Spain",
+      "address": "38297 San Cristóbal de La Laguna, Santa Cruz de Tenerife, Spain",
       "latitude": 28.4827,
       "longitude": -16.3415,
       "aliases": [
@@ -4192,7 +4192,7 @@
     {
       "name": "Gran Canaria Airport",
       "iata": "LPA",
-      "address": "Autov\u00eda GC-1, s/n, 35230 Las Palmas, Spain",
+      "address": "Autovía GC-1, s/n, 35230 Las Palmas, Spain",
       "latitude": 27.9319,
       "longitude": -15.3866,
       "aliases": [
@@ -4225,18 +4225,18 @@
     {
       "name": "Bratislava Airport",
       "iata": "BTS",
-      "address": "Ivansk\u00e1 cesta, 820 01 Bratislava, Slovakia",
+      "address": "Ivanská cesta, 820 01 Bratislava, Slovakia",
       "latitude": 48.1702,
       "longitude": 17.2127,
       "aliases": [
         "BTS",
-        "M. R. \u0160tef\u00e1nik"
+        "M. R. Štefánik"
       ]
     },
     {
-      "name": "Ljubljana Jo\u017ee Pu\u010dnik Airport",
+      "name": "Ljubljana Jože Pučnik Airport",
       "iata": "LJU",
-      "address": "Zgornji Brnik 130, 4210 Brnik-Ob\u010dina Cerklje na Gorenjskem, Slovenia",
+      "address": "Zgornji Brnik 130, 4210 Brnik-Občina Cerklje na Gorenjskem, Slovenia",
       "latitude": 46.2237,
       "longitude": 14.4576,
       "aliases": [
@@ -4256,7 +4256,7 @@
       ]
     },
     {
-      "name": "Tirana International Airport N\u00ebn\u00eb Tereza",
+      "name": "Tirana International Airport Nënë Tereza",
       "iata": "TIA",
       "address": "Rinas, Albania",
       "latitude": 41.4147,
@@ -4278,9 +4278,9 @@
       ]
     },
     {
-      "name": "Chi\u0219in\u0103u International Airport",
+      "name": "Chișinău International Airport",
       "iata": "KIV",
-      "address": "Bulevardul Dacia 80/3, Chi\u0219in\u0103u, Moldova",
+      "address": "Bulevardul Dacia 80/3, Chișinău, Moldova",
       "latitude": 46.9277,
       "longitude": 28.931,
       "aliases": [
@@ -4443,7 +4443,7 @@
       ]
     },
     {
-      "name": "F\u00e9lix-Houphou\u00ebt-Boigny International Airport",
+      "name": "Félix-Houphouët-Boigny International Airport",
       "iata": "ABJ",
       "address": "Abidjan, Ivory Coast",
       "latitude": 5.2614,
@@ -4597,7 +4597,7 @@
       ]
     },
     {
-      "name": "L\u00e9on-Mba International Airport",
+      "name": "Léon-Mba International Airport",
       "iata": "LBV",
       "address": "Libreville, Gabon",
       "latitude": 0.4586,
@@ -4663,7 +4663,7 @@
       ]
     },
     {
-      "name": "Conakry Ahmed S\u00e9kou Tour\u00e9 International Airport",
+      "name": "Conakry Ahmed Sékou Touré International Airport",
       "iata": "CKY",
       "address": "Conakry, Guinea",
       "latitude": 9.5769,
@@ -4729,7 +4729,7 @@
       ]
     },
     {
-      "name": "Am\u00edlcar Cabral International Airport",
+      "name": "Amílcar Cabral International Airport",
       "iata": "SID",
       "address": "Espargos, Sal Island, Cape Verde",
       "latitude": 16.7411,
@@ -4796,7 +4796,7 @@
       ]
     },
     {
-      "name": "Siem Reap\u2013Angkor International Airport",
+      "name": "Siem Reap–Angkor International Airport",
       "iata": "SAI",
       "address": "Soutr Nikom, Siem Reap, Cambodia",
       "latitude": 13.4333,
@@ -5547,18 +5547,18 @@
     {
       "name": "Merida International Airport",
       "iata": "MID",
-      "address": "Carr. M\u00e9rida - Uman Km 14.5, 97295 M\u00e9rida, Yuc., Mexico",
+      "address": "Carr. Mérida - Uman Km 14.5, 97295 Mérida, Yuc., Mexico",
       "latitude": 20.9338,
       "longitude": -89.6604,
       "aliases": [
         "MID",
-        "Manuel Crescencio Rej\u00f3n"
+        "Manuel Crescencio Rejón"
       ]
     },
     {
-      "name": "Del Baj\u00edo International Airport",
+      "name": "Del Bajío International Airport",
       "iata": "BJX",
-      "address": "Carr. Silao-Le\u00f3n Km 5.5, 36270 Silao, Gto., Mexico",
+      "address": "Carr. Silao-León Km 5.5, 36270 Silao, Gto., Mexico",
       "latitude": 20.9935,
       "longitude": -101.481,
       "aliases": [
@@ -5568,9 +5568,9 @@
       ]
     },
     {
-      "name": "Culiac\u00e1n International Airport",
+      "name": "Culiacán International Airport",
       "iata": "CUL",
-      "address": "Carr. a Navolato Km 4.5, 80130 Culiac\u00e1n Rosales, Sin., Mexico",
+      "address": "Carr. a Navolato Km 4.5, 80130 Culiacán Rosales, Sin., Mexico",
       "latitude": 24.7644,
       "longitude": -107.4744,
       "aliases": [
@@ -7073,7 +7073,7 @@
       ]
     },
     {
-      "name": "Charles M. Schulz\u2013Sonoma County Airport",
+      "name": "Charles M. Schulz–Sonoma County Airport",
       "iata": "STS",
       "address": "2200 Airport Blvd, Santa Rosa, CA 95403, USA",
       "latitude": 38.5089,
@@ -7296,7 +7296,7 @@
       ]
     },
     {
-      "name": "Greater Moncton Rom\u00e9o LeBlanc International Airport",
+      "name": "Greater Moncton Roméo LeBlanc International Airport",
       "iata": "YQM",
       "address": "777 Aviation Ave, Dieppe, NB E1A 7Z5, Canada",
       "latitude": 46.1122,
@@ -7440,9 +7440,9 @@
       ]
     },
     {
-      "name": "Qu\u00e9bec City Jean Lesage International Airport",
+      "name": "Québec City Jean Lesage International Airport",
       "iata": "YQB",
-      "address": "505 Rue Principale, Qu\u00e9bec, QC G2G 0J4, Canada",
+      "address": "505 Rue Principale, Québec, QC G2G 0J4, Canada",
       "latitude": 46.7911,
       "longitude": -71.3933,
       "aliases": [
@@ -7453,7 +7453,7 @@
     {
       "name": "Montreal Saint-Hubert Airport",
       "iata": "YHU",
-      "address": "5700 Route de l'A\u00e9roport, Saint-Hubert, QC J3Y 8Y9, Canada",
+      "address": "5700 Route de l'Aéroport, Saint-Hubert, QC J3Y 8Y9, Canada",
       "latitude": 45.5181,
       "longitude": -73.4169,
       "aliases": [
@@ -7464,7 +7464,7 @@
     {
       "name": "Saguenay-Bagotville Airport",
       "iata": "YBG",
-      "address": "6000 Route de l'A\u00e9roport, La Baie, QC G7B 0E4, Canada",
+      "address": "6000 Route de l'Aéroport, La Baie, QC G7B 0E4, Canada",
       "latitude": 48.3306,
       "longitude": -70.9964,
       "aliases": [
@@ -7529,7 +7529,7 @@
       ]
     },
     {
-      "name": "Lic. Jes\u00fas Ter\u00e1n Peredo International Airport",
+      "name": "Lic. Jesús Terán Peredo International Airport",
       "iata": "AGU",
       "address": "Carr. Panamericana Km 22, 20340 Aguascalientes, Ags., Mexico",
       "latitude": 21.7056,
@@ -7551,7 +7551,7 @@
       ]
     },
     {
-      "name": "Manuel M\u00e1rquez de Le\u00f3n International Airport",
+      "name": "Manuel Márquez de León International Airport",
       "iata": "LAP",
       "address": "Carr. Transpeninsular Km. 13, 23205 La Paz, B.C.S., Mexico",
       "latitude": 24.0725,
@@ -7564,7 +7564,7 @@
     {
       "name": "Campeche International Airport",
       "iata": "CPE",
-      "address": "Av. L\u00f3pez Portillo s/n, 24095 Campeche, Camp., Mexico",
+      "address": "Av. López Portillo s/n, 24095 Campeche, Camp., Mexico",
       "latitude": 19.8189,
       "longitude": -90.5053,
       "aliases": [
@@ -7584,7 +7584,7 @@
       ]
     },
     {
-      "name": "\u00c1ngel Albino Corzo International Airport",
+      "name": "Ángel Albino Corzo International Airport",
       "iata": "TGZ",
       "address": "Carretera Vergel-Aeropuerto Km 12.5, 29176 Chiapa de Corzo, Chis., Mexico",
       "latitude": 16.5636,
@@ -7606,9 +7606,9 @@
       ]
     },
     {
-      "name": "Ciudad Ju\u00e1rez International Airport",
+      "name": "Ciudad Juárez International Airport",
       "iata": "CJS",
-      "address": "Carretera Panamericana Km 18.5, 32690 Cd Ju\u00e1rez, Chih., Mexico",
+      "address": "Carretera Panamericana Km 18.5, 32690 Cd Juárez, Chih., Mexico",
       "latitude": 31.6364,
       "longitude": -106.4286,
       "aliases": [
@@ -7628,9 +7628,9 @@
       ]
     },
     {
-      "name": "Torre\u00f3n International Airport",
+      "name": "Torreón International Airport",
       "iata": "TRC",
-      "address": "Calz. Juan Pablo II s/n, 27260 Torre\u00f3n, Coah., Mexico",
+      "address": "Calz. Juan Pablo II s/n, 27260 Torreón, Coah., Mexico",
       "latitude": 25.5681,
       "longitude": -103.4106,
       "aliases": [
@@ -7674,7 +7674,7 @@
     {
       "name": "Durango International Airport",
       "iata": "DGO",
-      "address": "Carretera Durango-Torre\u00f3n Km 18, 34220 Durango, Dgo., Mexico",
+      "address": "Carretera Durango-Torreón Km 18, 34220 Durango, Dgo., Mexico",
       "latitude": 24.1242,
       "longitude": -104.5314,
       "aliases": [
@@ -7685,7 +7685,7 @@
     {
       "name": "Acapulco International Airport",
       "iata": "ACA",
-      "address": "Blvd. de las Naciones s/n, 39931 Acapulco de Ju\u00e1rez, Gro., Mexico",
+      "address": "Blvd. de las Naciones s/n, 39931 Acapulco de Juárez, Gro., Mexico",
       "latitude": 16.7561,
       "longitude": -99.7516,
       "aliases": [
@@ -7706,9 +7706,9 @@
       ]
     },
     {
-      "name": "Felipe \u00c1ngeles International Airport",
+      "name": "Felipe Ángeles International Airport",
       "iata": "NLU",
-      "address": "Circuito Exterior Mexiquense s/n, 55600 Zumpango de Ocampo, Edo. M\u00e9x., Mexico",
+      "address": "Circuito Exterior Mexiquense s/n, 55600 Zumpango de Ocampo, Edo. Méx., Mexico",
       "latitude": 19.7567,
       "longitude": -99.0153,
       "aliases": [
@@ -7718,9 +7718,9 @@
       ]
     },
     {
-      "name": "Lic. Adolfo L\u00f3pez Mateos International Airport",
+      "name": "Lic. Adolfo López Mateos International Airport",
       "iata": "TLC",
-      "address": "Blvd. Miguel Alem\u00e1n 9, 50200 Toluca de Lerdo, Edo. M\u00e9x., Mexico",
+      "address": "Blvd. Miguel Alemán 9, 50200 Toluca de Lerdo, Edo. Méx., Mexico",
       "latitude": 19.3372,
       "longitude": -99.5661,
       "aliases": [
@@ -7731,7 +7731,7 @@
     {
       "name": "General Francisco J. Mujica International Airport",
       "iata": "MLM",
-      "address": "Carretera Morelia-Zinap\u00e9cuaro Km 27, 58920 \u00c1lvaro Obreg\u00f3n, Mich., Mexico",
+      "address": "Carretera Morelia-Zinapécuaro Km 27, 58920 Álvaro Obregón, Mich., Mexico",
       "latitude": 19.85,
       "longitude": -101.0256,
       "aliases": [
@@ -7751,9 +7751,9 @@
       ]
     },
     {
-      "name": "Xoxocotl\u00e1n International Airport",
+      "name": "Xoxocotlán International Airport",
       "iata": "OAX",
-      "address": "Carretera Oaxaca-Puerto \u00c1ngel Km 7.5, 71230 Oaxaca de Ju\u00e1rez, Oax., Mexico",
+      "address": "Carretera Oaxaca-Puerto Ángel Km 7.5, 71230 Oaxaca de Juárez, Oax., Mexico",
       "latitude": 17.0,
       "longitude": -96.7267,
       "aliases": [
@@ -7762,9 +7762,9 @@
       ]
     },
     {
-      "name": "Bah\u00edas de Huatulco International Airport",
+      "name": "Bahías de Huatulco International Airport",
       "iata": "HUX",
-      "address": "Carretera Costera, 70989 Santa Mar\u00eda Huatulco, Oax., Mexico",
+      "address": "Carretera Costera, 70989 Santa María Huatulco, Oax., Mexico",
       "latitude": 15.7753,
       "longitude": -96.2625,
       "aliases": [
@@ -7784,9 +7784,9 @@
       ]
     },
     {
-      "name": "Hermanos Serd\u00e1n International Airport",
+      "name": "Hermanos Serdán International Airport",
       "iata": "PBC",
-      "address": "Carretera Federal M\u00e9xico-Puebla Km 91.5, 74160 Huejotzingo, Pue., Mexico",
+      "address": "Carretera Federal México-Puebla Km 91.5, 74160 Huejotzingo, Pue., Mexico",
       "latitude": 19.1581,
       "longitude": -98.3714,
       "aliases": [
@@ -7795,9 +7795,9 @@
       ]
     },
     {
-      "name": "Quer\u00e9taro Intercontinental Airport",
+      "name": "Querétaro Intercontinental Airport",
       "iata": "QRO",
-      "address": "Carretera Estatal 200 Km 22.5, 76270 Col\u00f3n, Qro., Mexico",
+      "address": "Carretera Estatal 200 Km 22.5, 76270 Colón, Qro., Mexico",
       "latitude": 20.6175,
       "longitude": -100.1856,
       "aliases": [
@@ -7830,7 +7830,7 @@
     {
       "name": "Chetumal International Airport",
       "iata": "CTM",
-      "address": "Prol. Av. Revoluci\u00f3n s/n, 77010 Chetumal, Q.R., Mexico",
+      "address": "Prol. Av. Revolución s/n, 77010 Chetumal, Q.R., Mexico",
       "latitude": 18.5047,
       "longitude": -88.3268,
       "aliases": [
@@ -7841,7 +7841,7 @@
     {
       "name": "Ponciano Arriaga International Airport",
       "iata": "SLP",
-      "address": "Carretera Matehuala Km 9.5, 78341 San Luis Potos\u00ed, S.L.P., Mexico",
+      "address": "Carretera Matehuala Km 9.5, 78341 San Luis Potosí, S.L.P., Mexico",
       "latitude": 22.2544,
       "longitude": -100.9308,
       "aliases": [
@@ -7850,9 +7850,9 @@
       ]
     },
     {
-      "name": "Mazatl\u00e1n International Airport",
+      "name": "Mazatlán International Airport",
       "iata": "MZT",
-      "address": "Carretera Internacional al Sur s/n, 82269 Mazatl\u00e1n, Sin., Mexico",
+      "address": "Carretera Internacional al Sur s/n, 82269 Mazatlán, Sin., Mexico",
       "latitude": 23.1614,
       "longitude": -106.2661,
       "aliases": [
@@ -7874,7 +7874,7 @@
     {
       "name": "Hermosillo International Airport",
       "iata": "HMO",
-      "address": "Carretera Bah\u00eda de Kino Km 9.5, 83220 Hermosillo, Son., Mexico",
+      "address": "Carretera Bahía de Kino Km 9.5, 83220 Hermosillo, Son., Mexico",
       "latitude": 29.0958,
       "longitude": -111.0478,
       "aliases": [
@@ -7896,7 +7896,7 @@
     {
       "name": "General Lucio Blanco International Airport",
       "iata": "REX",
-      "address": "Carretera Matamoros-Mazatl\u00e1n Km 83, 88780 Reynosa, Tamps., Mexico",
+      "address": "Carretera Matamoros-Mazatlán Km 83, 88780 Reynosa, Tamps., Mexico",
       "latitude": 26.0089,
       "longitude": -98.2283,
       "aliases": [
@@ -7907,7 +7907,7 @@
     {
       "name": "General Francisco Javier Mina International Airport",
       "iata": "TAM",
-      "address": "Blvd. Adolfo L\u00f3pez Mateos 1001, 89339 Tampico, Tamps., Mexico",
+      "address": "Blvd. Adolfo López Mateos 1001, 89339 Tampico, Tamps., Mexico",
       "latitude": 22.2964,
       "longitude": -97.8658,
       "aliases": [
@@ -7927,9 +7927,9 @@
       ]
     },
     {
-      "name": "Minatitl\u00e1n International Airport",
+      "name": "Minatitlán International Airport",
       "iata": "MTT",
-      "address": "Carretera Antigua a Minatitl\u00e1n Km 21.5, 96340 Minatitl\u00e1n, Ver., Mexico",
+      "address": "Carretera Antigua a Minatitlán Km 21.5, 96340 Minatitlán, Ver., Mexico",
       "latitude": 18.1036,
       "longitude": -94.5808,
       "aliases": [
@@ -7940,7 +7940,7 @@
     {
       "name": "Zacatecas International Airport",
       "iata": "ZCL",
-      "address": "Carretera Panamericana Km 23, 98500 Calera de V\u00edctor Rosales, Zac., Mexico",
+      "address": "Carretera Panamericana Km 23, 98500 Calera de Víctor Rosales, Zac., Mexico",
       "latitude": 22.8972,
       "longitude": -102.6869,
       "aliases": [
@@ -7949,7 +7949,7 @@
       ]
     },
     {
-      "name": "Lyon-Saint Exup\u00e9ry Airport",
+      "name": "Lyon-Saint Exupéry Airport",
       "iata": "LYS",
       "address": "69125 Colombier-Saugnieu, France",
       "latitude": 45.72556,
@@ -7960,7 +7960,7 @@
       ]
     },
     {
-      "name": "\u0130zmir Adnan Menderes Airport",
+      "name": "İzmir Adnan Menderes Airport",
       "iata": "ADB",
       "address": "35410 Gaziemir Izmir, Turkey",
       "latitude": 38.29056,
@@ -7971,9 +7971,9 @@
       ]
     },
     {
-      "name": "Ankara Esenbo\u011fa Airport",
+      "name": "Ankara Esenboğa Airport",
       "iata": "ESB",
-      "address": "06750 Bal\u0131khisar, Turkey",
+      "address": "06750 Balıkhisar, Turkey",
       "latitude": 40.12808,
       "longitude": 32.99508,
       "aliases": [
@@ -7994,7 +7994,7 @@
     {
       "name": "Katowice International Airport",
       "iata": "KTW",
-      "address": "Wolno\u015bci 90, 42-625 O\u017carowice, Poland",
+      "address": "Wolności 90, 42-625 Ożarowice, Poland",
       "latitude": 50.4742,
       "longitude": 19.0742,
       "aliases": [
@@ -8003,9 +8003,9 @@
       ]
     },
     {
-      "name": "Wroc\u0142aw Copernicus Airport",
+      "name": "Wrocław Copernicus Airport",
       "iata": "WRO",
-      "address": "Graniczna 190, 54-530 Wroc\u0142aw, Poland",
+      "address": "Graniczna 190, 54-530 Wrocław, Poland",
       "latitude": 51.1027,
       "longitude": 16.8858,
       "aliases": [
@@ -8014,9 +8014,9 @@
       ]
     },
     {
-      "name": "Troms\u00f8 Airport",
+      "name": "Tromsø Airport",
       "iata": "TOS",
-      "address": "Flyplassvegen 31, 9016 Troms\u00f8, Norway",
+      "address": "Flyplassvegen 31, 9016 Tromsø, Norway",
       "latitude": 69.6833,
       "longitude": 18.9189,
       "aliases": [
@@ -8027,7 +8027,7 @@
     {
       "name": "Stockholm Bromma Airport",
       "iata": "BMA",
-      "address": "Ulvsundav\u00e4gen, 161 11 Bromma, Sweden",
+      "address": "Ulvsundavägen, 161 11 Bromma, Sweden",
       "latitude": 59.3544,
       "longitude": 17.9417,
       "aliases": [
@@ -8036,9 +8036,9 @@
       ]
     },
     {
-      "name": "Malm\u00f6 Airport",
+      "name": "Malmö Airport",
       "iata": "MMX",
-      "address": "230 32 B\u00f6rringe, Sweden",
+      "address": "230 32 Börringe, Sweden",
       "latitude": 55.5302,
       "longitude": 13.3724,
       "aliases": [
@@ -8047,9 +8047,9 @@
       ]
     },
     {
-      "name": "Lule\u00e5 Airport",
+      "name": "Luleå Airport",
       "iata": "LLA",
-      "address": "Flygstugev\u00e4gen 1, 972 54 Lule\u00e5, Sweden",
+      "address": "Flygstugevägen 1, 972 54 Luleå, Sweden",
       "latitude": 65.5436,
       "longitude": 22.1219,
       "aliases": [
@@ -8070,7 +8070,7 @@
     {
       "name": "Aalborg Airport",
       "iata": "AAL",
-      "address": "Ny lufthavnsvej 100, 9400 N\u00f8rresundby, Denmark",
+      "address": "Ny lufthavnsvej 100, 9400 Nørresundby, Denmark",
       "latitude": 57.0928,
       "longitude": 9.8492,
       "aliases": [
@@ -8091,7 +8091,7 @@
     {
       "name": "Oulu Airport",
       "iata": "OUL",
-      "address": "\u00c4im\u00e4rautiontie 80, 90440 Oulu, Finland",
+      "address": "Äimärautiontie 80, 90440 Oulu, Finland",
       "latitude": 64.9283,
       "longitude": 25.3742,
       "aliases": [
@@ -8101,7 +8101,7 @@
     {
       "name": "Rovaniemi Airport",
       "iata": "RVN",
-      "address": "Lentokent\u00e4ntie, 96910 Rovaniemi, Finland",
+      "address": "Lentokentäntie, 96910 Rovaniemi, Finland",
       "latitude": 66.5617,
       "longitude": 25.8308,
       "aliases": [
@@ -8204,7 +8204,7 @@
       ]
     },
     {
-      "name": "St. Gallen\u2013Altenrhein Airport",
+      "name": "St. Gallen–Altenrhein Airport",
       "iata": "ACH",
       "address": "Flughafenstrasse 11, 9423 Thal, Switzerland",
       "latitude": 47.485,
@@ -8216,7 +8216,7 @@
     {
       "name": "Brussels South Charleroi Airport",
       "iata": "CRL",
-      "address": "Rue des Fusill\u00e9s, 6041 Charleroi, Belgium",
+      "address": "Rue des Fusillés, 6041 Charleroi, Belgium",
       "latitude": 50.4592,
       "longitude": 4.4538,
       "aliases": [
@@ -8225,9 +8225,9 @@
       ]
     },
     {
-      "name": "Li\u00e8ge Airport",
+      "name": "Liège Airport",
       "iata": "LGG",
-      "address": "Chauss\u00e9e de Li\u00e8ge, 4460 Gr\u00e2ce-Hollogne, Belgium",
+      "address": "Chaussée de Liège, 4460 Grâce-Hollogne, Belgium",
       "latitude": 50.6374,
       "longitude": 5.4432,
       "aliases": [
@@ -8260,7 +8260,7 @@
     {
       "name": "Salzburg Airport W. A. Mozart",
       "iata": "SZG",
-      "address": "Innsbrucker Bundesstra\u00dfe 95, 5020 Salzburg, Austria",
+      "address": "Innsbrucker Bundesstraße 95, 5020 Salzburg, Austria",
       "latitude": 47.79444,
       "longitude": 13.00333,
       "aliases": [
@@ -8271,7 +8271,7 @@
     {
       "name": "Innsbruck Airport",
       "iata": "INN",
-      "address": "F\u00fcrstenweg 180, 6020 Innsbruck, Austria",
+      "address": "Fürstenweg 180, 6020 Innsbruck, Austria",
       "latitude": 47.26028,
       "longitude": 11.34389,
       "aliases": [
@@ -8293,7 +8293,7 @@
     {
       "name": "Linz Airport",
       "iata": "LNZ",
-      "address": "Flughafenstra\u00dfe 1, 4063 H\u00f6rsching, Austria",
+      "address": "Flughafenstraße 1, 4063 Hörsching, Austria",
       "latitude": 48.23333,
       "longitude": 14.1875,
       "aliases": [
@@ -8348,7 +8348,7 @@
     {
       "name": "Debrecen International Airport",
       "iata": "DEB",
-      "address": "Rep\u00fcl\u0151t\u00e9ri \u00fat 12, 4030 Debrecen, Hungary",
+      "address": "Repülőtéri út 12, 4030 Debrecen, Hungary",
       "latitude": 47.4889,
       "longitude": 21.6153,
       "aliases": [
@@ -8357,9 +8357,9 @@
       ]
     },
     {
-      "name": "Gy\u0151r-P\u00e9r Airport",
+      "name": "Győr-Pér Airport",
       "iata": "QGY",
-      "address": "9099 P\u00e9r, Hungary",
+      "address": "9099 Pér, Hungary",
       "latitude": 47.62778,
       "longitude": 17.80639,
       "aliases": [
@@ -8367,9 +8367,9 @@
       ]
     },
     {
-      "name": "H\u00e9v\u00edz\u2013Balaton Airport",
+      "name": "Hévíz–Balaton Airport",
       "iata": "SOB",
-      "address": "8391 S\u00e1rmell\u00e9k, Hungary",
+      "address": "8391 Sármellék, Hungary",
       "latitude": 46.6864,
       "longitude": 17.1592,
       "aliases": [
@@ -8377,9 +8377,9 @@
       ]
     },
     {
-      "name": "P\u00e9cs-Pog\u00e1ny Airport",
+      "name": "Pécs-Pogány Airport",
       "iata": "PEV",
-      "address": "7666 Pog\u00e1ny, Hungary",
+      "address": "7666 Pogány, Hungary",
       "latitude": 45.9931,
       "longitude": 18.243,
       "aliases": [
@@ -8387,9 +8387,9 @@
       ]
     },
     {
-      "name": "Brno\u2013Tu\u0159any Airport",
+      "name": "Brno–Tuřany Airport",
       "iata": "BRQ",
-      "address": "Leti\u0161t\u011b Brno-Tu\u0159any 904/1, 627 00 Brno, Czech Republic",
+      "address": "Letiště Brno-Tuřany 904/1, 627 00 Brno, Czech Republic",
       "latitude": 49.15139,
       "longitude": 16.69444,
       "aliases": [
@@ -8398,9 +8398,9 @@
       ]
     },
     {
-      "name": "Leo\u0161 Jan\u00e1\u010dek Airport Ostrava",
+      "name": "Leoš Janáček Airport Ostrava",
       "iata": "OSR",
-      "address": "742 51 Mo\u0161nov, Czech Republic",
+      "address": "742 51 Mošnov, Czech Republic",
       "latitude": 49.69611,
       "longitude": 18.11083,
       "aliases": [
@@ -8411,7 +8411,7 @@
     {
       "name": "Karlovy Vary Airport",
       "iata": "KLV",
-      "address": "K Leti\u0161ti 132, 360 01 Karlovy Vary, Czech Republic",
+      "address": "K Letišti 132, 360 01 Karlovy Vary, Czech Republic",
       "latitude": 50.2031,
       "longitude": 12.915,
       "aliases": [
@@ -8422,7 +8422,7 @@
     {
       "name": "Pardubice Airport",
       "iata": "PED",
-      "address": "Pra\u017esk\u00e1 179, 530 06 Pardubice, Czech Republic",
+      "address": "Pražská 179, 530 06 Pardubice, Czech Republic",
       "latitude": 50.01333,
       "longitude": 15.73861,
       "aliases": [
@@ -8442,9 +8442,9 @@
       ]
     },
     {
-      "name": "Ia\u0219i International Airport",
+      "name": "Iași International Airport",
       "iata": "IAS",
-      "address": "Strada Aeroportului 1, Ia\u0219i 700753, Romania",
+      "address": "Strada Aeroportului 1, Iași 700753, Romania",
       "latitude": 47.17889,
       "longitude": 27.62,
       "aliases": [
@@ -8453,9 +8453,9 @@
       ]
     },
     {
-      "name": "Traian Vuia International Airport Timi\u0219oara",
+      "name": "Traian Vuia International Airport Timișoara",
       "iata": "TSR",
-      "address": "Strada Aeroportului 2, Timi\u0219oara 307200, Romania",
+      "address": "Strada Aeroportului 2, Timișoara 307200, Romania",
       "latitude": 45.81,
       "longitude": 21.3381,
       "aliases": [
@@ -8464,7 +8464,7 @@
       ]
     },
     {
-      "name": "\u0218tefan cel Mare International Airport Suceava",
+      "name": "Ștefan cel Mare International Airport Suceava",
       "iata": "SCV",
       "address": "Strada Aeroportului nr. 1, Salcea 727475, Romania",
       "latitude": 47.6875,
@@ -8508,9 +8508,9 @@
       ]
     },
     {
-      "name": "Ni\u0161 Constantine the Great Airport",
+      "name": "Niš Constantine the Great Airport",
       "iata": "INI",
-      "address": "Vazduhoplovaca b.b, Ni\u0161 18000, Serbia",
+      "address": "Vazduhoplovaca b.b, Niš 18000, Serbia",
       "latitude": 43.33722,
       "longitude": 21.85361,
       "aliases": [
@@ -8521,7 +8521,7 @@
     {
       "name": "Morava Airport",
       "iata": "KVO",
-      "address": "36204 La\u0111evci, Serbia",
+      "address": "36204 Lađevci, Serbia",
       "latitude": 43.81861,
       "longitude": 20.58528,
       "aliases": [
@@ -8532,7 +8532,7 @@
     {
       "name": "Split Airport",
       "iata": "SPU",
-      "address": "Cesta Dr. Franje Tu\u0111mana 1270, 21217, Ka\u0161tel \u0160tafili\u0107, Croatia",
+      "address": "Cesta Dr. Franje Tuđmana 1270, 21217, Kaštel Štafilić, Croatia",
       "latitude": 43.5389,
       "longitude": 16.2981,
       "aliases": [
@@ -8543,7 +8543,7 @@
     {
       "name": "Dubrovnik Airport",
       "iata": "DBV",
-      "address": "20213, \u010cilipi, Croatia",
+      "address": "20213, Čilipi, Croatia",
       "latitude": 42.5614,
       "longitude": 18.2683,
       "aliases": [
@@ -8629,9 +8629,9 @@
       ]
     },
     {
-      "name": "Reykjav\u00edk Airport",
+      "name": "Reykjavík Airport",
       "iata": "RKV",
-      "address": "Reykjav\u00edkurflugv\u00f6llur, 101 Reykjav\u00edk, Iceland",
+      "address": "Reykjavíkurflugvöllur, 101 Reykjavík, Iceland",
       "latitude": 64.1289,
       "longitude": -21.9406,
       "aliases": [
@@ -8642,7 +8642,7 @@
     {
       "name": "Akureyri Airport",
       "iata": "AEY",
-      "address": "Akureyrarflugv\u00f6llur, 600 Akureyri, Iceland",
+      "address": "Akureyrarflugvöllur, 600 Akureyri, Iceland",
       "latitude": 65.66,
       "longitude": -18.0728,
       "aliases": [
@@ -8651,9 +8651,9 @@
       ]
     },
     {
-      "name": "Egilssta\u00f0ir Airport",
+      "name": "Egilsstaðir Airport",
       "iata": "EGS",
-      "address": "Egilssta\u00f0ir, Iceland",
+      "address": "Egilsstaðir, Iceland",
       "latitude": 65.28333,
       "longitude": -14.40139,
       "aliases": [
@@ -8661,9 +8661,9 @@
       ]
     },
     {
-      "name": "H\u00f6fn Airport",
+      "name": "Höfn Airport",
       "iata": "HFN",
-      "address": "H\u00f6fn \u00ed Hornafir\u00f0i, Iceland",
+      "address": "Höfn í Hornafirði, Iceland",
       "latitude": 64.29556,
       "longitude": -15.22722,
       "aliases": [
@@ -8684,7 +8684,7 @@
     {
       "name": "Kaunas Airport",
       "iata": "KUN",
-      "address": "Karm\u0117lava 54460, Lithuania",
+      "address": "Karmėlava 54460, Lithuania",
       "latitude": 54.96389,
       "longitude": 24.08472,
       "aliases": [
@@ -8704,9 +8704,9 @@
       ]
     },
     {
-      "name": "Ko\u0161ice International Airport",
+      "name": "Košice International Airport",
       "iata": "KSC",
-      "address": "Barca 802, 041 75 Ko\u0161ice, Slovakia",
+      "address": "Barca 802, 041 75 Košice, Slovakia",
       "latitude": 48.66306,
       "longitude": 21.24111,
       "aliases": [
@@ -8717,7 +8717,7 @@
     {
       "name": "Tivat Airport",
       "iata": "TIV",
-      "address": "Mr\u010devac, Tivat, Montenegro",
+      "address": "Mrčevac, Tivat, Montenegro",
       "latitude": 42.40472,
       "longitude": 18.72333,
       "aliases": [
@@ -8750,7 +8750,7 @@
     {
       "name": "Mostar International Airport",
       "iata": "OMO",
-      "address": "Ortije\u0161, Mostar, Bosnia and Herzegovina",
+      "address": "Ortiješ, Mostar, Bosnia and Herzegovina",
       "latitude": 43.28278,
       "longitude": 17.84583,
       "aliases": [
@@ -9200,7 +9200,7 @@
       ]
     },
     {
-      "name": "Bacolod\u2013Silay International Airport",
+      "name": "Bacolod–Silay International Airport",
       "iata": "BCD",
       "address": "Silay City, Negros Occidental, Philippines",
       "latitude": 10.776,
@@ -9235,9 +9235,9 @@
       ]
     },
     {
-      "name": "S\u00e3o Paulo Congonhas Airport",
+      "name": "São Paulo Congonhas Airport",
       "iata": "CGH",
-      "address": "Av. Washington Lu\u00eds, s/n\u00ba, S\u00e3o Paulo - SP, 04626-911, Brazil",
+      "address": "Av. Washington Luís, s/nº, São Paulo - SP, 04626-911, Brazil",
       "latitude": -23.6261,
       "longitude": -46.6564,
       "aliases": [
@@ -9259,7 +9259,7 @@
     {
       "name": "Curitiba International Airport",
       "iata": "CWB",
-      "address": "Av. Rocha Pombo, s/n, S\u00e3o Jos\u00e9 dos Pinhais - PR, 83010-900, Brazil",
+      "address": "Av. Rocha Pombo, s/n, São José dos Pinhais - PR, 83010-900, Brazil",
       "latitude": -25.5317,
       "longitude": -49.1761,
       "aliases": [
@@ -9291,9 +9291,9 @@
       ]
     },
     {
-      "name": "C\u00f3rdoba International Airport",
+      "name": "Córdoba International Airport",
       "iata": "COR",
-      "address": "Av. La Voz del Interior 8500, C\u00f3rdoba, Argentina",
+      "address": "Av. La Voz del Interior 8500, Córdoba, Argentina",
       "latitude": -31.31,
       "longitude": -64.2083,
       "aliases": [
@@ -9324,7 +9324,7 @@
       ]
     },
     {
-      "name": "Capit\u00e1n de Corbeta Carlos A. Curbelo International Airport",
+      "name": "Capitán de Corbeta Carlos A. Curbelo International Airport",
       "iata": "PDP",
       "address": "Punta del Este, Uruguay",
       "latitude": -34.855,
@@ -9357,9 +9357,9 @@
       ]
     },
     {
-      "name": "Sim\u00f3n Bol\u00edvar International Airport",
+      "name": "Simón Bolívar International Airport",
       "iata": "CCS",
-      "address": "Maiquet\u00eda, Caracas, Venezuela",
+      "address": "Maiquetía, Caracas, Venezuela",
       "latitude": 10.6031,
       "longitude": -66.9906,
       "aliases": [
@@ -9392,7 +9392,7 @@
       ]
     },
     {
-      "name": "Cayenne \u2013 F\u00e9lix Ebou\u00e9 Airport",
+      "name": "Cayenne – Félix Eboué Airport",
       "iata": "CAY",
       "address": "Matoury, Cayenne, French Guiana",
       "latitude": 4.8197,
@@ -9456,7 +9456,7 @@
     {
       "name": "Hannover Airport",
       "iata": "HAJ",
-      "address": "Flughafenstra\u00dfe 4, 30855 Langenhagen, Germany",
+      "address": "Flughafenstraße 4, 30855 Langenhagen, Germany",
       "latitude": 52.4608,
       "longitude": 9.6851,
       "aliases": [
@@ -9466,7 +9466,7 @@
     {
       "name": "Nuremberg Airport",
       "iata": "NUE",
-      "address": "Flughafenstra\u00dfe 100, 90411 N\u00fcrnberg, Germany",
+      "address": "Flughafenstraße 100, 90411 Nürnberg, Germany",
       "latitude": 49.4987,
       "longitude": 11.078,
       "aliases": [
@@ -9515,7 +9515,7 @@
       ]
     },
     {
-      "name": "Bari Karol Wojty\u0142a Airport",
+      "name": "Bari Karol Wojtyła Airport",
       "iata": "BRI",
       "address": "Viale Enzo Ferrari, 70128 Bari BA, Italy",
       "latitude": 41.1389,
@@ -9597,7 +9597,7 @@
     {
       "name": "Warsaw Modlin Airport",
       "iata": "WMI",
-      "address": "Genera\u0142a Wiktora Thomm\u00e9e 1a, 05-102 Nowy Dw\u00f3r Mazowiecki, Poland",
+      "address": "Generała Wiktora Thommée 1a, 05-102 Nowy Dwór Mazowiecki, Poland",
       "latitude": 52.4511,
       "longitude": 20.6517,
       "aliases": [
@@ -9605,9 +9605,9 @@
       ]
     },
     {
-      "name": "Pozna\u0144-\u0141awica Airport",
+      "name": "Poznań-Ławica Airport",
       "iata": "POZ",
-      "address": "Bukowska 285, 60-189 Pozna\u0144, Poland",
+      "address": "Bukowska 285, 60-189 Poznań, Poland",
       "latitude": 52.421,
       "longitude": 16.8263,
       "aliases": [
@@ -9615,7 +9615,7 @@
       ]
     },
     {
-      "name": "Rzesz\u00f3w-Jasionka Airport",
+      "name": "Rzeszów-Jasionka Airport",
       "iata": "RZE",
       "address": "Jasionka 942, 36-002 Jasionka, Poland",
       "latitude": 50.11,
@@ -9625,9 +9625,9 @@
       ]
     },
     {
-      "name": "Solidarity Szczecin-Goleni\u00f3w Airport",
+      "name": "Solidarity Szczecin-Goleniów Airport",
       "iata": "SZZ",
-      "address": "Glewice 1a, 72-100 Goleni\u00f3w, Poland",
+      "address": "Glewice 1a, 72-100 Goleniów, Poland",
       "latitude": 53.5847,
       "longitude": 14.9022,
       "aliases": [
@@ -9637,7 +9637,7 @@
     {
       "name": "Lublin Airport",
       "iata": "LUZ",
-      "address": "Kr\u00f3la Jana III Sobieskiego 1, 21-040 \u015awidnik, Poland",
+      "address": "Króla Jana III Sobieskiego 1, 21-040 Świdnik, Poland",
       "latitude": 51.2403,
       "longitude": 22.7136,
       "aliases": [
@@ -9705,9 +9705,9 @@
       ]
     },
     {
-      "name": "Bod\u00f8 Airport",
+      "name": "Bodø Airport",
       "iata": "BOO",
-      "address": "Olav V gate, 8004 Bod\u00f8, Norway",
+      "address": "Olav V gate, 8004 Bodø, Norway",
       "latitude": 67.2689,
       "longitude": 14.3664,
       "aliases": [
@@ -9715,9 +9715,9 @@
       ]
     },
     {
-      "name": "\u00c5lesund Airport, Vigra",
+      "name": "Ålesund Airport, Vigra",
       "iata": "AES",
-      "address": "Borgundfjordvegen 118, 6017 \u00c5lesund, Norway",
+      "address": "Borgundfjordvegen 118, 6017 Ålesund, Norway",
       "latitude": 62.5603,
       "longitude": 6.1097,
       "aliases": [
@@ -9745,9 +9745,9 @@
       ]
     },
     {
-      "name": "Ume\u00e5 Airport",
+      "name": "Umeå Airport",
       "iata": "UME",
-      "address": "904 22 Ume\u00e5, Sweden",
+      "address": "904 22 Umeå, Sweden",
       "latitude": 63.7915,
       "longitude": 20.2831,
       "aliases": [
@@ -9775,9 +9775,9 @@
       ]
     },
     {
-      "name": "\u00c5re \u00d6stersund Airport",
+      "name": "Åre Östersund Airport",
       "iata": "OSD",
-      "address": "832 96 Fr\u00f6s\u00f6n, Sweden",
+      "address": "832 96 Frösön, Sweden",
       "latitude": 63.1953,
       "longitude": 14.5042,
       "aliases": [
@@ -9785,9 +9785,9 @@
       ]
     },
     {
-      "name": "Skellefte\u00e5 Airport",
+      "name": "Skellefteå Airport",
       "iata": "SFT",
-      "address": "931 92 Skellefte\u00e5, Sweden",
+      "address": "931 92 Skellefteå, Sweden",
       "latitude": 64.6247,
       "longitude": 21.0768,
       "aliases": [
@@ -9797,7 +9797,7 @@
     {
       "name": "Vaasa Airport",
       "iata": "VAA",
-      "address": "Lentokent\u00e4ntie 159, 65380 Vaasa, Finland",
+      "address": "Lentokentäntie 159, 65380 Vaasa, Finland",
       "latitude": 63.0453,
       "longitude": 21.7644,
       "aliases": [
@@ -9805,9 +9805,9 @@
       ]
     },
     {
-      "name": "Kittil\u00e4 Airport",
+      "name": "Kittilä Airport",
       "iata": "KTT",
-      "address": "Levintie 259, 99100 Kittil\u00e4, Finland",
+      "address": "Levintie 259, 99100 Kittilä, Finland",
       "latitude": 67.701,
       "longitude": 24.8468,
       "aliases": [
@@ -9817,7 +9817,7 @@
     {
       "name": "Kuopio Airport",
       "iata": "KUO",
-      "address": "Lentokent\u00e4ntie 275, 70900 Siilinj\u00e4rvi, Finland",
+      "address": "Lentokentäntie 275, 70900 Siilinjärvi, Finland",
       "latitude": 63.0071,
       "longitude": 27.7978,
       "aliases": [
@@ -9827,7 +9827,7 @@
     {
       "name": "Ivalo Airport",
       "iata": "IVL",
-      "address": "Lentokent\u00e4ntie 290, 99800 Ivalo, Finland",
+      "address": "Lentokentäntie 290, 99800 Ivalo, Finland",
       "latitude": 68.6073,
       "longitude": 27.4053,
       "aliases": [
@@ -9847,7 +9847,7 @@
     {
       "name": "Sibiu International Airport",
       "iata": "SBZ",
-      "address": "\u0218oseaua Alba Iulia 73, Sibiu 550052, Romania",
+      "address": "Șoseaua Alba Iulia 73, Sibiu 550052, Romania",
       "latitude": 45.7869,
       "longitude": 24.0913,
       "aliases": [
@@ -9857,7 +9857,7 @@
     {
       "name": "George Enescu International Airport",
       "iata": "BCM",
-      "address": "Strada Aeroportului 1, Bac\u0103u 600324, Romania",
+      "address": "Strada Aeroportului 1, Bacău 600324, Romania",
       "latitude": 46.5219,
       "longitude": 26.9103,
       "aliases": [
@@ -9867,7 +9867,7 @@
     {
       "name": "Craiova International Airport",
       "iata": "CRA",
-      "address": "Calea Bucure\u0219ti 325, Craiova 200621, Romania",
+      "address": "Calea București 325, Craiova 200621, Romania",
       "latitude": 44.3181,
       "longitude": 23.8886,
       "aliases": [
@@ -9875,9 +9875,9 @@
       ]
     },
     {
-      "name": "T\u00e2rgu Mure\u0219 Transilvania Airport",
+      "name": "Târgu Mureș Transilvania Airport",
       "iata": "TGM",
-      "address": "Vidras\u0103u 547612, Romania",
+      "address": "Vidrasău 547612, Romania",
       "latitude": 46.4678,
       "longitude": 24.4125,
       "aliases": [
@@ -9885,9 +9885,9 @@
       ]
     },
     {
-      "name": "Mihail Kog\u0103lniceanu International Airport",
+      "name": "Mihail Kogălniceanu International Airport",
       "iata": "CND",
-      "address": "Strada Tudor Vladimirescu 4, Mihail Kog\u0103lniceanu 907195, Romania",
+      "address": "Strada Tudor Vladimirescu 4, Mihail Kogălniceanu 907195, Romania",
       "latitude": 44.3622,
       "longitude": 28.4883,
       "aliases": [
@@ -9925,7 +9925,7 @@
       ]
     },
     {
-      "name": "Adana \u015eakirpa\u015fa Airport",
+      "name": "Adana Şakirpaşa Airport",
       "iata": "ADA",
       "address": "Turhan Cemal Beriker Blv., 01000 Seyhan/Adana, Turkey",
       "latitude": 36.9822,
@@ -9937,7 +9937,7 @@
     {
       "name": "Milas-Bodrum Airport",
       "iata": "BJV",
-      "address": "Ekinanbar\u0131, 48200 Milas/Mu\u011fla, Turkey",
+      "address": "Ekinanbarı, 48200 Milas/Muğla, Turkey",
       "latitude": 37.2506,
       "longitude": 27.6644,
       "aliases": [
@@ -9955,9 +9955,9 @@
       ]
     },
     {
-      "name": "Gaziantep O\u011fuzeli International Airport",
+      "name": "Gaziantep Oğuzeli International Airport",
       "iata": "GZT",
-      "address": "O\u011fuzeli, Gaziantep, Turkey",
+      "address": "Oğuzeli, Gaziantep, Turkey",
       "latitude": 36.9422,
       "longitude": 37.4764,
       "aliases": [
@@ -10347,7 +10347,7 @@
       ]
     },
     {
-      "name": "Agadir\u2013Al Massira Airport",
+      "name": "Agadir–Al Massira Airport",
       "iata": "AGA",
       "address": "Agadir, Morocco",
       "latitude": 30.325,
@@ -10487,7 +10487,7 @@
       ]
     },
     {
-      "name": "Houari Boum\u00e9diene Airport",
+      "name": "Houari Boumédiene Airport",
       "iata": "ALG",
       "address": "Dar El Beida, Algiers, Algeria",
       "latitude": 36.6879,
@@ -10497,7 +10497,7 @@
       ]
     },
     {
-      "name": "Oran Es S\u00e9nia Airport",
+      "name": "Oran Es Sénia Airport",
       "iata": "ORN",
       "address": "Oran, Algeria",
       "latitude": 35.6233,
@@ -10547,7 +10547,7 @@
       ]
     },
     {
-      "name": "Djerba\u2013Zarzis International Airport",
+      "name": "Djerba–Zarzis International Airport",
       "iata": "DJE",
       "address": "Mellita, Djerba, Tunisia",
       "latitude": 33.875,
@@ -10557,7 +10557,7 @@
       ]
     },
     {
-      "name": "Enfidha \u2013 Hammamet International Airport",
+      "name": "Enfidha – Hammamet International Airport",
       "iata": "NBE",
       "address": "Enfidha, Tunisia",
       "latitude": 36.0919,
@@ -10577,7 +10577,7 @@
       ]
     },
     {
-      "name": "Sfax\u2013Thyna International Airport",
+      "name": "Sfax–Thyna International Airport",
       "iata": "SFA",
       "address": "Sfax, Tunisia",
       "latitude": 34.718,
@@ -10587,7 +10587,7 @@
       ]
     },
     {
-      "name": "Tozeur\u2013Nefta International Airport",
+      "name": "Tozeur–Nefta International Airport",
       "iata": "TOE",
       "address": "Tozeur, Tunisia",
       "latitude": 33.9397,
@@ -10597,9 +10597,9 @@
       ]
     },
     {
-      "name": "Gab\u00e8s\u2013Matmata International Airport",
+      "name": "Gabès–Matmata International Airport",
       "iata": "GAE",
-      "address": "Gab\u00e8s, Tunisia",
+      "address": "Gabès, Tunisia",
       "latitude": 33.7334,
       "longitude": 9.9182,
       "aliases": [
@@ -10607,7 +10607,7 @@
       ]
     },
     {
-      "name": "Gafsa \u2013 Ksar International Airport",
+      "name": "Gafsa – Ksar International Airport",
       "iata": "GAF",
       "address": "Gafsa, Tunisia",
       "latitude": 34.4219,
@@ -10617,7 +10617,7 @@
       ]
     },
     {
-      "name": "Tabarka\u2013A\u00efn Draham International Airport",
+      "name": "Tabarka–Aïn Draham International Airport",
       "iata": "TBJ",
       "address": "Tabarka, Tunisia",
       "latitude": 36.98,
@@ -11671,6 +11671,887 @@
       "longitude": 119.7764,
       "aliases": [
         "Changzhou"
+      ]
+    },
+    {
+      "name": "Marcos A. Gelabert International Airport",
+      "iata": "PAC",
+      "address": "Panama City, Panama",
+      "latitude": 8.9733,
+      "longitude": -79.555,
+      "aliases": [
+        "PAC",
+        "Albrook Airport"
+      ]
+    },
+    {
+      "name": "Enrique Malek International Airport",
+      "iata": "DAV",
+      "address": "David, Panama",
+      "latitude": 8.3916,
+      "longitude": -82.435,
+      "aliases": [
+        "DAV",
+        "David Airport"
+      ]
+    },
+    {
+      "name": "Daniel Oduber Quirós International Airport",
+      "iata": "LIR",
+      "address": "Liberia, Costa Rica",
+      "latitude": 10.5933,
+      "longitude": -85.5444,
+      "aliases": [
+        "LIR",
+        "Liberia Airport",
+        "Guanacaste Airport"
+      ]
+    },
+    {
+      "name": "Monseñor Óscar Arnulfo Romero International Airport",
+      "iata": "SAL",
+      "address": "San Luis Talpa, El Salvador",
+      "latitude": 13.4409,
+      "longitude": -89.0557,
+      "aliases": [
+        "SAL",
+        "San Salvador Airport"
+      ]
+    },
+    {
+      "name": "La Aurora International Airport",
+      "iata": "GUA",
+      "address": "Guatemala City, Guatemala",
+      "latitude": 14.5833,
+      "longitude": -90.5275,
+      "aliases": [
+        "GUA",
+        "Guatemala Airport"
+      ]
+    },
+    {
+      "name": "Mundo Maya International Airport",
+      "iata": "FRS",
+      "address": "Flores, Guatemala",
+      "latitude": 16.9139,
+      "longitude": -89.8664,
+      "aliases": [
+        "FRS",
+        "Flores Airport"
+      ]
+    },
+    {
+      "name": "Ramón Villeda Morales International Airport",
+      "iata": "SAP",
+      "address": "San Pedro Sula, Honduras",
+      "latitude": 15.4526,
+      "longitude": -87.9236,
+      "aliases": [
+        "SAP",
+        "San Pedro Sula Airport"
+      ]
+    },
+    {
+      "name": "Palmerola International Airport",
+      "iata": "XPL",
+      "address": "Comayagua, Honduras",
+      "latitude": 14.3824,
+      "longitude": -87.6212,
+      "aliases": [
+        "XPL",
+        "Comayagua Airport"
+      ]
+    },
+    {
+      "name": "Augusto C. Sandino International Airport",
+      "iata": "MGA",
+      "address": "Managua, Nicaragua",
+      "latitude": 12.1415,
+      "longitude": -86.1682,
+      "aliases": [
+        "MGA",
+        "Managua Airport"
+      ]
+    },
+    {
+      "name": "Philip S. W. Goldson International Airport",
+      "iata": "BZE",
+      "address": "Ladyville, Belize",
+      "latitude": 17.5391,
+      "longitude": -88.3082,
+      "aliases": [
+        "BZE",
+        "Belize City Airport"
+      ]
+    },
+    {
+      "name": "Manas International Airport",
+      "iata": "FRU",
+      "address": "Bishkek, Kyrgyzstan",
+      "latitude": 43.0582,
+      "longitude": 74.4636,
+      "aliases": [
+        "FRU",
+        "Bishkek Airport"
+      ]
+    },
+    {
+      "name": "Osh International Airport",
+      "iata": "OSS",
+      "address": "Osh, Kyrgyzstan",
+      "latitude": 40.6089,
+      "longitude": 72.7933,
+      "aliases": [
+        "OSS",
+        "Osh Airport"
+      ]
+    },
+    {
+      "name": "Dushanbe International Airport",
+      "iata": "DYU",
+      "address": "Dushanbe, Tajikistan",
+      "latitude": 38.5437,
+      "longitude": 68.823,
+      "aliases": [
+        "DYU",
+        "Dushanbe Airport"
+      ]
+    },
+    {
+      "name": "Khujand International Airport",
+      "iata": "LBD",
+      "address": "Buston, Tajikistan",
+      "latitude": 40.2154,
+      "longitude": 69.6947,
+      "aliases": [
+        "LBD",
+        "Khujand Airport"
+      ]
+    },
+    {
+      "name": "Ashgabat International Airport",
+      "iata": "ASB",
+      "address": "Ashgabat, Turkmenistan",
+      "latitude": 37.9868,
+      "longitude": 58.361,
+      "aliases": [
+        "ASB",
+        "Ashgabat Airport"
+      ]
+    },
+    {
+      "name": "Chinggis Khaan International Airport",
+      "iata": "UBN",
+      "address": "Sergelen, Mongolia",
+      "latitude": 47.6469,
+      "longitude": 106.8198,
+      "aliases": [
+        "UBN",
+        "Ulaanbaatar New Airport"
+      ]
+    },
+    {
+      "name": "Erbil International Airport",
+      "iata": "EBL",
+      "address": "Erbil, Iraq",
+      "latitude": 36.2376,
+      "longitude": 43.9632,
+      "aliases": [
+        "EBL",
+        "Erbil Airport"
+      ]
+    },
+    {
+      "name": "Juba International Airport",
+      "iata": "JUB",
+      "address": "Juba, South Sudan",
+      "latitude": 4.872,
+      "longitude": 31.601,
+      "aliases": [
+        "JUB",
+        "Juba Airport"
+      ]
+    },
+    {
+      "name": "Riga International Airport",
+      "iata": "RIX",
+      "address": "Riga, Latvia",
+      "latitude": 56.9236,
+      "longitude": 23.9711,
+      "aliases": [
+        "RIX",
+        "Riga Airport"
+      ]
+    },
+    {
+      "name": "Vilnius Airport",
+      "iata": "VNO",
+      "address": "Vilnius, Lithuania",
+      "latitude": 54.6341,
+      "longitude": 25.2858,
+      "aliases": [
+        "VNO",
+        "Vilnius Airport"
+      ]
+    },
+    {
+      "name": "Tallinn Airport",
+      "iata": "TLL",
+      "address": "Tallinn, Estonia",
+      "latitude": 59.4133,
+      "longitude": 24.8328,
+      "aliases": [
+        "TLL",
+        "Tallinn Airport"
+      ]
+    },
+    {
+      "name": "Enrique Adolfo Jiménez Airport",
+      "iata": "ONX",
+      "address": "Colón, Panama",
+      "latitude": 9.3566,
+      "longitude": -79.8674,
+      "aliases": [
+        "ONX",
+        "Colon Airport"
+      ]
+    },
+    {
+      "name": "Scarlett Martínez International Airport",
+      "iata": "RIH",
+      "address": "Río Hato, Panama",
+      "latitude": 8.3856,
+      "longitude": -80.1334,
+      "aliases": [
+        "RIH",
+        "Rio Hato Airport"
+      ]
+    },
+    {
+      "name": "Arturo Michelena International Airport",
+      "iata": "VLN",
+      "address": "Valencia, Venezuela",
+      "latitude": 10.1497,
+      "longitude": -67.9284,
+      "aliases": [
+        "VLN",
+        "Valencia Venezuela Airport"
+      ]
+    },
+    {
+      "name": "Jacinto Lara International Airport",
+      "iata": "BRM",
+      "address": "Barquisimeto, Venezuela",
+      "latitude": 10.0428,
+      "longitude": -69.3583,
+      "aliases": [
+        "BRM",
+        "Barquisimeto Airport"
+      ]
+    },
+    {
+      "name": "General José Antonio Anzoátegui International Airport",
+      "iata": "BLA",
+      "address": "Barcelona, Venezuela",
+      "latitude": 10.1043,
+      "longitude": -64.6868,
+      "aliases": [
+        "BLA",
+        "Barcelona Venezuela Airport"
+      ]
+    },
+    {
+      "name": "Santiago Mariño Caribbean International Airport",
+      "iata": "PMV",
+      "address": "Isla Margarita, Venezuela",
+      "latitude": 10.9139,
+      "longitude": -63.9681,
+      "aliases": [
+        "PMV",
+        "Porlamar Airport"
+      ]
+    },
+    {
+      "name": "Toncontín International Airport",
+      "iata": "TGU",
+      "address": "Tegucigalpa, Honduras",
+      "latitude": 14.0609,
+      "longitude": -87.2172,
+      "aliases": [
+        "TGU",
+        "Tegucigalpa Airport"
+      ]
+    },
+    {
+      "name": "Juan Manuel Gálvez International Airport",
+      "iata": "RTB",
+      "address": "Roatán, Honduras",
+      "latitude": 16.3172,
+      "longitude": -86.5222,
+      "aliases": [
+        "RTB",
+        "Roatan Airport"
+      ]
+    },
+    {
+      "name": "Golosón International Airport",
+      "iata": "LCE",
+      "address": "La Ceiba, Honduras",
+      "latitude": 15.7422,
+      "longitude": -86.8528,
+      "aliases": [
+        "LCE",
+        "La Ceiba Airport"
+      ]
+    },
+    {
+      "name": "Jorge Wilstermann International Airport",
+      "iata": "CBB",
+      "address": "Cochabamba, Bolivia",
+      "latitude": -17.4208,
+      "longitude": -66.1769,
+      "aliases": [
+        "CBB",
+        "Cochabamba Airport"
+      ]
+    },
+    {
+      "name": "Capitán Oriel Lea Plaza Airport",
+      "iata": "TJA",
+      "address": "Tarija, Bolivia",
+      "latitude": -21.5556,
+      "longitude": -64.7014,
+      "aliases": [
+        "TJA",
+        "Tarija Airport"
+      ]
+    },
+    {
+      "name": "Aliya Moldagulova International Airport",
+      "iata": "AKX",
+      "address": "Aktobe, Kazakhstan",
+      "latitude": 50.2458,
+      "longitude": 57.2067,
+      "aliases": [
+        "AKX",
+        "Aktobe Airport"
+      ]
+    },
+    {
+      "name": "Atyrau International Airport",
+      "iata": "GUW",
+      "address": "Atyrau, Kazakhstan",
+      "latitude": 47.1219,
+      "longitude": 51.8214,
+      "aliases": [
+        "GUW",
+        "Atyrau Airport"
+      ]
+    },
+    {
+      "name": "Sary-Arka Airport",
+      "iata": "KGF",
+      "address": "Karaganda, Kazakhstan",
+      "latitude": 49.6714,
+      "longitude": 73.3364,
+      "aliases": [
+        "KGF",
+        "Karaganda Airport"
+      ]
+    },
+    {
+      "name": "Namangan International Airport",
+      "iata": "NMA",
+      "address": "Namangan, Uzbekistan",
+      "latitude": 40.9844,
+      "longitude": 71.5567,
+      "aliases": [
+        "NMA",
+        "Namangan Airport"
+      ]
+    },
+    {
+      "name": "Fergana International Airport",
+      "iata": "FEG",
+      "address": "Fergana, Uzbekistan",
+      "latitude": 40.3589,
+      "longitude": 71.745,
+      "aliases": [
+        "FEG",
+        "Fergana Airport"
+      ]
+    },
+    {
+      "name": "Bukhara International Airport",
+      "iata": "BHK",
+      "address": "Bukhara, Uzbekistan",
+      "latitude": 39.775,
+      "longitude": 64.4833,
+      "aliases": [
+        "BHK",
+        "Bukhara Airport"
+      ]
+    },
+    {
+      "name": "Al Najaf International Airport",
+      "iata": "NJF",
+      "address": "Najaf, Iraq",
+      "latitude": 31.9897,
+      "longitude": 44.4042,
+      "aliases": [
+        "NJF",
+        "Najaf Airport"
+      ]
+    },
+    {
+      "name": "Jalal Talabani International Airport",
+      "iata": "ISU",
+      "address": "Sulaymaniyah, Iraq",
+      "latitude": 35.5608,
+      "longitude": 45.3144,
+      "aliases": [
+        "ISU",
+        "Sulaymaniyah Airport"
+      ]
+    },
+    {
+      "name": "Yaoundé Nsimalen International Airport",
+      "iata": "NSI",
+      "address": "Yaoundé, Cameroon",
+      "latitude": 3.7225,
+      "longitude": 11.5533,
+      "aliases": [
+        "NSI",
+        "Yaounde Airport"
+      ]
+    },
+    {
+      "name": "Harry Mwanga Nkumbula International Airport",
+      "iata": "LVI",
+      "address": "Livingstone, Zambia",
+      "latitude": -17.8217,
+      "longitude": 25.8222,
+      "aliases": [
+        "LVI",
+        "Livingstone Airport"
+      ]
+    },
+    {
+      "name": "Simon Mwansa Kapwepwe International Airport",
+      "iata": "NLA",
+      "address": "Ndola, Zambia",
+      "latitude": -12.9981,
+      "longitude": 28.6649,
+      "aliases": [
+        "NLA",
+        "Ndola Airport"
+      ]
+    },
+    {
+      "name": "Cap Skirring Airport",
+      "iata": "CSK",
+      "address": "Cap Skirring, Senegal",
+      "latitude": 12.3965,
+      "longitude": -16.746,
+      "aliases": [
+        "CSK",
+        "Cap Skirring Airport"
+      ]
+    },
+    {
+      "name": "Aden International Airport",
+      "iata": "ADE",
+      "address": "Aden, Yemen",
+      "latitude": 12.8297,
+      "longitude": 45.0286,
+      "aliases": [
+        "ADE",
+        "Aden Airport"
+      ]
+    },
+    {
+      "name": "Damascus International Airport",
+      "iata": "DAM",
+      "address": "Damascus, Syria",
+      "latitude": 33.4114,
+      "longitude": 36.515,
+      "aliases": [
+        "DAM",
+        "Damascus Airport"
+      ]
+    },
+    {
+      "name": "Aden Adde International Airport",
+      "iata": "MGQ",
+      "address": "Mogadishu, Somalia",
+      "latitude": 2.0144,
+      "longitude": 45.3047,
+      "aliases": [
+        "MGQ",
+        "Mogadishu Airport"
+      ]
+    },
+    {
+      "name": "Victoria Falls International Airport",
+      "iata": "VFA",
+      "address": "Victoria Falls, Zimbabwe",
+      "latitude": -18.0959,
+      "longitude": 25.839,
+      "aliases": [
+        "VFA",
+        "Victoria Falls Airport"
+      ]
+    },
+    {
+      "name": "Quetzaltenango Airport",
+      "iata": "AAZ",
+      "address": "Quetzaltenango, Guatemala",
+      "latitude": 14.8647,
+      "longitude": -91.5011,
+      "aliases": [
+        "AAZ",
+        "Xela Airport"
+      ]
+    },
+    {
+      "name": "Ilopango International Airport",
+      "iata": "ILS",
+      "address": "San Salvador, El Salvador",
+      "latitude": 13.6959,
+      "longitude": -89.1194,
+      "aliases": [
+        "ILS",
+        "Ilopango Airport"
+      ]
+    },
+    {
+      "name": "Limón International Airport",
+      "iata": "LIO",
+      "address": "Limón, Costa Rica",
+      "latitude": 9.9575,
+      "longitude": -83.0222,
+      "aliases": [
+        "LIO",
+        "Limon Airport"
+      ]
+    },
+    {
+      "name": "Bluefields Airport",
+      "iata": "BEF",
+      "address": "Bluefields, Nicaragua",
+      "latitude": 11.9886,
+      "longitude": -83.7744,
+      "aliases": [
+        "BEF",
+        "Bluefields Airport"
+      ]
+    },
+    {
+      "name": "Corn Island Airport",
+      "iata": "RNI",
+      "address": "Corn Island, Nicaragua",
+      "latitude": 12.1642,
+      "longitude": -83.0583,
+      "aliases": [
+        "RNI",
+        "Corn Island Airport"
+      ]
+    },
+    {
+      "name": "San Pedro Airport",
+      "iata": "SPR",
+      "address": "San Pedro, Belize",
+      "latitude": 17.915,
+      "longitude": -87.9714,
+      "aliases": [
+        "SPR",
+        "San Pedro Belize Airport"
+      ]
+    },
+    {
+      "name": "Issyk-Kul International Airport",
+      "iata": "IKU",
+      "address": "Tamchy, Kyrgyzstan",
+      "latitude": 42.5925,
+      "longitude": 76.7119,
+      "aliases": [
+        "IKU",
+        "Tamchy Airport"
+      ]
+    },
+    {
+      "name": "Kulyab Airport",
+      "iata": "TJU",
+      "address": "Kulyab, Tajikistan",
+      "latitude": 37.9839,
+      "longitude": 69.8058,
+      "aliases": [
+        "TJU",
+        "Kulyab Airport"
+      ]
+    },
+    {
+      "name": "Mary International Airport",
+      "iata": "MYP",
+      "address": "Mary, Turkmenistan",
+      "latitude": 37.615,
+      "longitude": 61.8906,
+      "aliases": [
+        "MYP",
+        "Mary Airport"
+      ]
+    },
+    {
+      "name": "Turkmenbashi International Airport",
+      "iata": "KRW",
+      "address": "Turkmenbashi, Turkmenistan",
+      "latitude": 40.0461,
+      "longitude": 53.0017,
+      "aliases": [
+        "KRW",
+        "Turkmenbashi Airport"
+      ]
+    },
+    {
+      "name": "Mörön Airport",
+      "iata": "MXV",
+      "address": "Mörön, Mongolia",
+      "latitude": 49.6631,
+      "longitude": 100.1,
+      "aliases": [
+        "MXV",
+        "Moron Airport"
+      ]
+    },
+    {
+      "name": "David the Builder Kutaisi International Airport",
+      "iata": "KUT",
+      "address": "Kutaisi, Georgia",
+      "latitude": 42.1764,
+      "longitude": 42.4825,
+      "aliases": [
+        "KUT",
+        "Kutaisi Airport"
+      ]
+    },
+    {
+      "name": "Alexander Kartveli Batumi International Airport",
+      "iata": "BUS",
+      "address": "Batumi, Georgia",
+      "latitude": 41.6103,
+      "longitude": 41.5997,
+      "aliases": [
+        "BUS",
+        "Batumi Airport"
+      ]
+    },
+    {
+      "name": "Shirak International Airport",
+      "iata": "LWN",
+      "address": "Gyumri, Armenia",
+      "latitude": 40.7503,
+      "longitude": 43.8592,
+      "aliases": [
+        "LWN",
+        "Gyumri Airport"
+      ]
+    },
+    {
+      "name": "Ganja International Airport",
+      "iata": "GNJ",
+      "address": "Ganja, Azerbaijan",
+      "latitude": 40.7419,
+      "longitude": 46.315,
+      "aliases": [
+        "GNJ",
+        "Ganja Airport"
+      ]
+    },
+    {
+      "name": "Nakhchivan International Airport",
+      "iata": "NAJ",
+      "address": "Nakhchivan, Azerbaijan",
+      "latitude": 39.1883,
+      "longitude": 45.4567,
+      "aliases": [
+        "NAJ",
+        "Nakhchivan Airport"
+      ]
+    },
+    {
+      "name": "Tartu Airport",
+      "iata": "TAY",
+      "address": "Tartu, Estonia",
+      "latitude": 58.3075,
+      "longitude": 26.6903,
+      "aliases": [
+        "TAY",
+        "Tartu Airport"
+      ]
+    },
+    {
+      "name": "Liepāja International Airport",
+      "iata": "LPX",
+      "address": "Liepāja, Latvia",
+      "latitude": 56.5175,
+      "longitude": 21.0967,
+      "aliases": [
+        "LPX",
+        "Liepaja Airport"
+      ]
+    },
+    {
+      "name": "Portorož Airport",
+      "iata": "POW",
+      "address": "Portorož, Slovenia",
+      "latitude": 45.4733,
+      "longitude": 13.615,
+      "aliases": [
+        "POW",
+        "Portoroz Airport"
+      ]
+    },
+    {
+      "name": "Kukës International Airport Zayed",
+      "iata": "KFZ",
+      "address": "Kukës, Albania",
+      "latitude": 42.0336,
+      "longitude": 20.4158,
+      "aliases": [
+        "KFZ",
+        "Kukes Airport"
+      ]
+    },
+    {
+      "name": "Port Sudan New International Airport",
+      "iata": "PZU",
+      "address": "Port Sudan, Sudan",
+      "latitude": 19.4328,
+      "longitude": 37.2342,
+      "aliases": [
+        "PZU",
+        "Port Sudan Airport"
+      ]
+    },
+    {
+      "name": "Misrata Airport",
+      "iata": "MRA",
+      "address": "Misrata, Libya",
+      "latitude": 32.3275,
+      "longitude": 15.0594,
+      "aliases": [
+        "MRA",
+        "Misrata Airport"
+      ]
+    },
+    {
+      "name": "Hargeisa Egal International Airport",
+      "iata": "HGA",
+      "address": "Hargeisa, Somalia",
+      "latitude": 9.5161,
+      "longitude": 44.0886,
+      "aliases": [
+        "HGA",
+        "Hargeisa Airport"
+      ]
+    },
+    {
+      "name": "Kamembe Airport",
+      "iata": "KME",
+      "address": "Cyangugu, Rwanda",
+      "latitude": -2.4608,
+      "longitude": 28.9103,
+      "aliases": [
+        "KME",
+        "Kamembe Airport"
+      ]
+    },
+    {
+      "name": "Arua Airport",
+      "iata": "RUA",
+      "address": "Arua, Uganda",
+      "latitude": 3.0514,
+      "longitude": 30.9114,
+      "aliases": [
+        "RUA",
+        "Arua Airport"
+      ]
+    },
+    {
+      "name": "Lubango Airport",
+      "iata": "SDD",
+      "address": "Lubango, Angola",
+      "latitude": -14.9247,
+      "longitude": 13.575,
+      "aliases": [
+        "SDD",
+        "Lubango Airport"
+      ]
+    },
+    {
+      "name": "Zinder Airport",
+      "iata": "ZND",
+      "address": "Zinder, Niger",
+      "latitude": 13.7789,
+      "longitude": 8.9836,
+      "aliases": [
+        "ZND",
+        "Zinder Airport"
+      ]
+    },
+    {
+      "name": "Mopti Airport",
+      "iata": "MZE",
+      "address": "Mopti, Mali",
+      "latitude": 14.5125,
+      "longitude": -4.0833,
+      "aliases": [
+        "MZE",
+        "Mopti Airport"
+      ]
+    },
+    {
+      "name": "Port-Gentil International Airport",
+      "iata": "POG",
+      "address": "Port-Gentil, Gabon",
+      "latitude": -0.7117,
+      "longitude": 8.7533,
+      "aliases": [
+        "POG",
+        "Port Gentil Airport"
+      ]
+    },
+    {
+      "name": "Abéché Airport",
+      "iata": "AEH",
+      "address": "Abéché, Chad",
+      "latitude": 13.8472,
+      "longitude": 20.8447,
+      "aliases": [
+        "AEH",
+        "Abeche Airport"
+      ]
+    },
+    {
+      "name": "Niamtougou International Airport",
+      "iata": "LRL",
+      "address": "Niamtougou, Togo",
+      "latitude": 9.7714,
+      "longitude": 1.0911,
+      "aliases": [
+        "LRL",
+        "Niamtougou Airport"
+      ]
+    },
+    {
+      "name": "Parakou Airport",
+      "iata": "PKO",
+      "address": "Parakou, Benin",
+      "latitude": 9.3569,
+      "longitude": 2.6103,
+      "aliases": [
+        "PKO",
+        "Parakou Airport"
       ]
     }
   ]
